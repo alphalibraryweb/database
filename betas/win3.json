@@ -1,0 +1,97 @@
+[
+    {
+        "channel": "Pre-release",
+        "build": "1.14",
+        "compiled_date": "22/02/1989"
+    },
+    {
+        "channel": "Pre-release",
+        "build": "1.33",
+        "compiled_date": "27/07/1989"
+    },
+    {
+        "channel": "Pre-release",
+        "build": "1.52",
+        "compiled_date": "13/12/1989"
+    },
+    {
+        "channel": "Pre-release",
+        "build": "1.55",
+        "compiled_date": "02/01/1990"
+    },
+    {
+        "channel": "Pre-release",
+        "build": "1.59",
+        "compiled_date": "02/02/1990"
+    },
+    {
+        "channel": "Release Candidate",
+        "build": "1.63(RC2)",
+        "compiled_date": "23/02/1990"
+    },
+    {
+        "channel": "Release Candidate",
+        "build": "RC6",
+        "compiled_date": "07/03/1990"
+    },
+    {
+        "channel": "RTM",
+        "build": "3.00",
+        "compiled_date": "01/05/1990"
+    },
+    {
+        "channel": "RTM",
+        "build": "3.00 Working Model",
+        "compiled_date": "07/09/1990"
+    },
+    {
+        "channel": "RTM",
+        "build": "3.00a",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "RTM",
+        "build": "3.0A",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "RTM",
+        "build": "3.01",
+        "compiled_date": "09/03/1992"
+    },
+    {
+        "channel": "OEM versions",
+        "build": "3.0(NEC PC-9800 OEM)",
+        "compiled_date": "01/05/1990"
+    },
+    {
+        "channel": "OEM versions",
+        "build": "3.0(Seiko Epson OEM)",
+        "compiled_date": "01/05/1990"
+    },
+    {
+        "channel": "OEM versions",
+        "build": "3.02(IBM PS/55 OEM)",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "OEM versions",
+        "build": "3.0B(NEC PC-9800 OEM)",
+        "compiled_date": "28/01/1993"
+    },
+    {
+        "channel": "Multimedia Extensions",
+        "build": "3.00 MDK Version 59",
+        "compiled_date": "07/11/1990"
+    },
+    {
+        "channel": "Multimedia Extensions",
+        "build": "3.00 MDK Version 96",
+        "compiled_date": "16/06/1991"
+    },
+    {
+        "channel": "Multimedia Extensions",
+        "build": "3.0 with Multimedia Extensions 1.0",
+        "compiled_date": "Unknown"
+    }
+]

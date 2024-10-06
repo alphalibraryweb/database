@@ -1,0 +1,242 @@
+[
+    {
+        "channel": "Milestone 1",
+        "build": "6469.1.fbl_find_dev(wexbuild).071002-1531",
+        "compiled_date": "02/10/2007"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "6498.1.winmain.071115-1832",
+        "compiled_date": "15/11/2007"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "6519.1.winmain.071220-1525",
+        "compiled_date": "20/12/2007"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "6568.1.winmain.080312-1858",
+        "compiled_date": "12/03/2008"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "6574.1.winmain.080320-1839",
+        "compiled_date": "20/03/2008"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "6608.1.winmain_win7m2.080511-1400",
+        "compiled_date": "11/05/2008"
+    },
+    {
+        "channel": "Milestone 3",
+        "build": "6730.1.winmain.080612-1840",
+        "compiled_date": "12/06/2008"
+    },
+    {
+        "channel": "Milestone 3",
+        "build": "6758.0.winmain.080724-1015",
+        "compiled_date": "24/07/2008"
+    },
+    {
+        "channel": "Milestone 3",
+        "build": "6776.0.winmain.080822-1800",
+        "compiled_date": "22/08/2008"
+    },
+    {
+        "channel": "Milestone 3",
+        "build": "6780.0.winmain_win7m3.080829-1900",
+        "compiled_date": "29/08/2008"
+    },
+    {
+        "channel": "Milestone 3",
+        "build": "6801.0.winmain_win7m3.080913-2030",
+        "compiled_date": "13/09/2008"
+    },
+    {
+        "channel": "Beta",
+        "build": "6910.0.winmain.080915-1555",
+        "compiled_date": "15/09/2008"
+    },
+    {
+        "channel": "Beta",
+        "build": "6931.0.winmain.081016-1805",
+        "compiled_date": "16/10/2008"
+    },
+    {
+        "channel": "Beta",
+        "build": "6936.0.winmain.081023-1800",
+        "compiled_date": "23/10/2008"
+    },
+    {
+        "channel": "Beta",
+        "build": "6941.0.fbl_srv.081102-0300",
+        "compiled_date": "02/11/2008"
+    },
+    {
+        "channel": "Beta",
+        "build": "6956.0.winmain.081122-1150",
+        "compiled_date": "22/11/2008"
+    },
+    {
+        "channel": "Beta",
+        "build": "7000.0.winmain_win7beta.081212-1400",
+        "compiled_date": "12/12/2008"
+    },
+    {
+        "channel": "Release Candidate",
+        "build": "7022.0.winmain.090115-1850",
+        "compiled_date": "15/01/2009"
+    },
+    {
+        "channel": "Release Candidate",
+        "build": "7048.0.winmain.090219-1845",
+        "compiled_date": "19/02/2009"
+    },
+    {
+        "channel": "Release Candidate",
+        "build": "7055.0.winmain.090303-2130",
+        "compiled_date": "03/03/2009"
+    },
+    {
+        "channel": "Release Candidate",
+        "build": "7057.0.winmain.090305-2000",
+        "compiled_date": "05/03/2009"
+    },
+    {
+        "channel": "Release Candidate",
+        "build": "7062.0.winmain.090312-1900",
+        "compiled_date": "12/03/2009"
+    },
+    {
+        "channel": "Release Candidate",
+        "build": "7068.0.winmain.090321-1322",
+        "compiled_date": "21/03/2009"
+    },
+    {
+        "channel": "Release Candidate",
+        "build": "7070.0.winmain.090324-1853",
+        "compiled_date": "24/03/2009"
+    },
+    {
+        "channel": "Release Candidate",
+        "build": "7077.0.winmain_win7rc.090404-1255",
+        "compiled_date": "04/04/2009"
+    },
+    {
+        "channel": "Release Candidate",
+        "build": "7100.0.winmain_win7rc.090421-1700",
+        "compiled_date": "21/04/2009"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "7106.0.winmain.090408-1623",
+        "compiled_date": "08/04/2009"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "7127.0.winmain.090507-1820",
+        "compiled_date": "07/05/2009"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "7137.0.winmain.090521-1745",
+        "compiled_date": "21/05/2009"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "7201.0.winmain_win7ids.090601-1516",
+        "compiled_date": "01/06/2009"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "7201.0.winmain_win7ids_sp.090602-2030",
+        "compiled_date": "02/06/2009"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "7225.0.winmain.090529-1930",
+        "compiled_date": "29/05/2009"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "7227.0.winmain_sp.090602-2110",
+        "compiled_date": "02/06/2009"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "7229.0.winmain.090604-1901",
+        "compiled_date": "04/06/2009"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "7231.0.winmain.090608-1900",
+        "compiled_date": "08/06/2009"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "7232.0.winmain.090610-1900",
+        "compiled_date": "10/06/2009"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "7260.0.win7_rtm.090612-2110",
+        "compiled_date": "12/06/2009"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "7264.0.win7_rtm.090622-1900",
+        "compiled_date": "22/06/2009"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "7600.16384.win7_rtm.090710-1945",
+        "compiled_date": "10/07/2009"
+    },
+    {
+        "channel": "RTM",
+        "build": "7600.16385.win7_rtm.090713-1255",
+        "compiled_date": "13/07/2009"
+    },
+    {
+        "channel": "Service Pack 1",
+        "build": "7601.16537.win7.100327-0053",
+        "compiled_date": "27/03/2010"
+    },
+    {
+        "channel": "Service Pack 1",
+        "build": "7601.16556.win7sp1_beta.100421-1510",
+        "compiled_date": "21/04/2010"
+    },
+    {
+        "channel": "Service Pack 1",
+        "build": "7601.16559.win7sp1_beta.100506-1349",
+        "compiled_date": "06/05/2010"
+    },
+    {
+        "channel": "Service Pack 1",
+        "build": "7601.16562.win7sp1_beta.100603-1800",
+        "compiled_date": "03/06/2010"
+    },
+    {
+        "channel": "Service Pack 1",
+        "build": "7601.17104.win7sp1_rc.100921-1630",
+        "compiled_date": "21/09/2010"
+    },
+    {
+        "channel": "Service Pack 1",
+        "build": "7601.17105.win7sp1_rc.100929-1730",
+        "compiled_date": "29/09/2010"
+    },
+    {
+        "channel": "Service Pack 1",
+        "build": "7601.17125.win7.101029-1605",
+        "compiled_date": "29/10/2010"
+    },
+    {
+        "channel": "Service Pack 1",
+        "build": "7601.17514.win7sp1_rtm.101119-1850",
+        "compiled_date": "19/11/2010"
+    }
+]

@@ -1,0 +1,172 @@
+[
+    {
+        "channel": "Milestone 1",
+        "build": "9271.0.fbl_partner_out01.121121-1401",
+        "compiled_date": "21/11/2012"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "9299.0.fbl_partner_out06.130117-1707",
+        "compiled_date": "17/01/2013"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "9347.0.winmain_bluem1.130220-1500",
+        "compiled_date": "20/02/2013"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "9354.0.winmain.130301-1710",
+        "compiled_date": "01/03/2013"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "9364.0.fbl_partner_out13.130315-2105",
+        "compiled_date": "15/03/2013"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "9369.0.fbl_partner_out14.130324-1300",
+        "compiled_date": "24/03/2013"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "9370.0.fbl_loc.130325-2000",
+        "compiled_date": "25/03/2013"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "9374.0.fbl_partner_out15.130329-2355",
+        "compiled_date": "29/03/2013"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "9385.0.fbl_partner_out17.130415-2049",
+        "compiled_date": "15/04/2013"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "9391.4.fbl_partner_out18.130429-1915",
+        "compiled_date": "29/04/2013"
+    },
+    {
+        "channel": "Milestone Preview",
+        "build": "9415.0.fbl_partner_out22.130525-0845",
+        "compiled_date": "25/05/2013"
+    },
+    {
+        "channel": "Milestone Preview",
+        "build": "9431.0.winmain_bluemp.130615-1214",
+        "compiled_date": "15/06/2013"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "9419.0.fbl_partner_out23.130603-1634",
+        "compiled_date": "03/06/2013"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "9448.0.fbl_partner_out25.130621-2030",
+        "compiled_date": "21/06/2013"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "9449.0.fbl_loc.130624-1930",
+        "compiled_date": "24/06/2013"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "9457.0.fbl_loc.130708-1930",
+        "compiled_date": "08/07/2013"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "9460.0.fbl_partner_out28.130712-1918",
+        "compiled_date": "12/07/2013"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "9465.0.fbl_partner_out29.130719-2136",
+        "compiled_date": "19/07/2013"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "9466.0.fbl_loc.130722-1930",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "9468.0.winblue_rtm.130725-1203",
+        "compiled_date": "25/07/2013"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "9471.0.fbl_partner_out30.130726-2004",
+        "compiled_date": "26/07/2013"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "9477.0.fbl_partner_out31.130803-0736",
+        "compiled_date": "03/08/2013"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "9483.0.winblue_rtm.130809-2020",
+        "compiled_date": "09/08/2013"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "9491.0.winblue_rtm.130820-1410",
+        "compiled_date": "20/08/2013"
+    },
+    {
+        "channel": "RTM",
+        "build": "9600.16384.winblue_rtm.130821-1623",
+        "compiled_date": "21/08/2013"
+    },
+    {
+        "channel": "GA Update",
+        "build": "9600.16422.winblue_gdr.131006-1505",
+        "compiled_date": "06/10/2013"
+    },
+    {
+        "channel": "GA Update",
+        "build": "9600.16581.winblues14_gdr_lean.131222-2030",
+        "compiled_date": "22/12/2013"
+    },
+    {
+        "channel": "GA Update",
+        "build": "9600.16596.winblues14_gdr_lean.140112-2038",
+        "compiled_date": "12/01/2014"
+    },
+    {
+        "channel": "GA Update",
+        "build": "9600.16596.winblues14_gdr_lean.140114-0237",
+        "compiled_date": "14/01/2014"
+    },
+    {
+        "channel": "GA Update",
+        "build": "9600.16610.winblue_s14.140201-1007",
+        "compiled_date": "01/02/2014"
+    },
+    {
+        "channel": "GA Update",
+        "build": "9600.17024.winblue_gdr_s14sku_partner.140214-1700",
+        "compiled_date": "14/02/2014"
+    },
+    {
+        "channel": "GA Update",
+        "build": "9600.17031.winblue_gdr.140221-1952",
+        "compiled_date": "21/02/2014"
+    },
+    {
+        "channel": "GA Update",
+        "build": "9600.17238.winblue_gdr.140723-2018",
+        "compiled_date": "23/07/2014"
+    },
+    {
+        "channel": "GA Update",
+        "build": "9600.17415.winblue_r4.141028-1500",
+        "compiled_date": "28/10/2014"
+    }
+]

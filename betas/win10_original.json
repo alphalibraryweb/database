@@ -1,0 +1,362 @@
+[
+    {
+        "channel": "Pre-Technical Preview",
+        "build": "9780.0.fbl_partner_eeap.140622-0937",
+        "compiled_date": "22/06/2014"
+    },
+    {
+        "channel": "Pre-Technical Preview",
+        "build": "9785.0.fbl_partner_eeap.140629-0030",
+        "compiled_date": "29/06/2014"
+    },
+    {
+        "channel": "Pre-Technical Preview",
+        "build": "9807.0.fbl_partner_eeap.140803-0005",
+        "compiled_date": "03/08/2014"
+    },
+    {
+        "channel": "Pre-Technical Preview",
+        "build": "9821.0.fbl_partner_eeap.140820-0938",
+        "compiled_date": "20/08/2014"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9833.0.fbl_release.140903-1451",
+        "compiled_date": "03/09/2014"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9834.0.fbl_partner_eeap.140908-0936",
+        "compiled_date": "08/09/2014"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9838.0.fbl_partner_eeap.140914-0936",
+        "compiled_date": "14/09/2014"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9841.0.fbl_release.140912-1613",
+        "compiled_date": "12/09/2014"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9845.0.fbl_partner_eeap.140922-1425",
+        "compiled_date": "22/09/2014"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9860.0.fbl_release.141008-2044",
+        "compiled_date": "08/10/2014"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9879.0.fbl_release.141103-1722",
+        "compiled_date": "03/11/2014"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9883.0.fbl_release.141106-1705",
+        "compiled_date": "06/11/2014"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9888.0.fbl_release.141113-2137",
+        "compiled_date": "13/11/2014"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9900.0.fbl_awesome1501.141201-2124",
+        "compiled_date": "01/12/2014"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9901.0.winmain_prs.141202-1718",
+        "compiled_date": "02/12/2014"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9903.0.winmain_prs.141204-1736",
+        "compiled_date": "04/12/2014"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9906.0.winmain_prs.141209-1616",
+        "compiled_date": "09/12/2014"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9907.0.fbl_ie.141210-1846",
+        "compiled_date": "10/12/2014"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9907.0.fbl_awesome1501.141210-1857",
+        "compiled_date": "10/12/2014"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9908.0.winmain_prs.141212-1625",
+        "compiled_date": "12/12/2014"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9909.0.fbl_awesome1501.141213-2119",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9913.0.fbl_awesome1501.141217-1931",
+        "compiled_date": "17/12/2014"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9918.0.fbl_awesome1501.150107-2124",
+        "compiled_date": "07/01/2015"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9922.0.fbl_awesome1501.150113-1605",
+        "compiled_date": "13/01/2015"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9924.0.fbl_awesome1501.150115-1755",
+        "compiled_date": "15/01/2015"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9925.0.fbl_awesome1501.150116-2110",
+        "compiled_date": "16/01/2015"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9926.0.fbl_awesome1501.150119-1648",
+        "compiled_date": "19/01/2015"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9933.0.fbl_awesome1501.150127-1606",
+        "compiled_date": "27/01/2015"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9942.0.fbl_awesome1501.150306-2358",
+        "compiled_date": "06/03/2015"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "10005.0.winmain_prs.150125-0130",
+        "compiled_date": "25/01/2015"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "10009.0.winmain_prs.150130-0808",
+        "compiled_date": "30/01/2015"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "10014.0.winmain_prs.150205-1859",
+        "compiled_date": "05/02/2015"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "10014.0.fbl_epix_kits.150207-1919",
+        "compiled_date": "07/02/2015"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "10022.0.fbl_impressive.150216-2206",
+        "compiled_date": "16/02/2015"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "10031.0.fbl_impressive.150301-2107",
+        "compiled_date": "01/03/2015"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "10034.0.fbl_impressive.150304-1700",
+        "compiled_date": "04/03/2015"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "10036.0.fbl_impressive.150306-2322",
+        "compiled_date": "06/03/2015"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "10041.0.winmain_prs.150313-1737",
+        "compiled_date": "13/03/2015"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "10041.0.fbl_impressive.150313-1821",
+        "compiled_date": "13/03/2015"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "10049.0.fbl_impressive.150325-1700",
+        "compiled_date": "25/03/2015"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "10051.0.fbl_impressive.150329-1031",
+        "compiled_date": "29/03/2015"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "10056.0.fbl_impressive.150405-1348",
+        "compiled_date": "05/04/2015"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "10061.0.fbl_impressive.150410-2039",
+        "compiled_date": "10/04/2015"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "10064.0.winmain_prs.150413-1856",
+        "compiled_date": "13/04/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10074.0.fbl_impressive.150424-1350",
+        "compiled_date": "24/04/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10075.0.fbl_impressive_p1.150428-1902",
+        "compiled_date": "28/04/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10102.0.winmain_prs.150417-2325",
+        "compiled_date": "17/04/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10108.0.winmain_prs.150424-1818",
+        "compiled_date": "24/04/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10114.0.winmain_prs.150503-0759",
+        "compiled_date": "03/05/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10115.0.fbl_net10_locnfc.150505-1600",
+        "compiled_date": "05/05/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10120.0.fbl_impressive.150510-1700",
+        "compiled_date": "10/05/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10121.0.fbl_waas.150511-1924",
+        "compiled_date": "11/05/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10122.0.fbl_impressive.150513-1845",
+        "compiled_date": "13/05/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10125.0.fbl_impressive.150516-2126",
+        "compiled_date": "16/05/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10130.0.fbl_impressive.150522-2224",
+        "compiled_date": "22/05/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10131.0.fbl_impressive.150526-1929",
+        "compiled_date": "26/05/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10134.0.fbl_impressive.150529-1943",
+        "compiled_date": "29/05/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10134.0.winmain_prs.150530-1700",
+        "compiled_date": "30/05/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10135.0.winmain_prs.150531-1700",
+        "compiled_date": "31/05/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10138.0.fbl_impressive.150603-2236",
+        "compiled_date": "03/06/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10143.0.fbl_impressive.150609-1823",
+        "compiled_date": "09/06/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10147.0.fbl_impressive.150613-1600",
+        "compiled_date": "13/06/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10151.0.fbl_impressive.150617-1826",
+        "compiled_date": "17/06/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10152.0.fbl_impressive.150618-2341",
+        "compiled_date": "18/06/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10154.0.fbl_impressive.150620-2234",
+        "compiled_date": "20/06/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10158.0.fbl_impressive.150625-1753",
+        "compiled_date": "25/06/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10159.0.fbl_impressive.150626-1834",
+        "compiled_date": "26/06/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10162.0.fbl_impressive.150629-1700",
+        "compiled_date": "29/06/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10163.0.winmain_prs.150630-1700",
+        "compiled_date": "30/06/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10166.0.fbl_impressive.150703-1818",
+        "compiled_date": "03/07/2015"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "10176.16384.th1.150705-1526",
+        "compiled_date": "05/07/2015"
+    },
+    {
+        "channel": "RTM",
+        "build": "10240.16384.th1.150709-1700",
+        "compiled_date": "09/07/2015"
+    }
+]

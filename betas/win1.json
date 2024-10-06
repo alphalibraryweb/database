@@ -1,0 +1,82 @@
+[
+    {
+        "channel": "Development releases",
+        "build": "Development Release #5",
+        "compiled_date": "31/10/1984"
+    },
+    {
+        "channel": "Pre-release",
+        "build": "Alpha Release",
+        "compiled_date": "31/01/1985"
+    },
+    {
+        "channel": "Pre-release",
+        "build": "Beta Release",
+        "compiled_date": "08/05/1985"
+    },
+    {
+        "channel": "Pre-release",
+        "build": "Premiere Edition",
+        "compiled_date": "30/07/1985"
+    },
+    {
+        "channel": "Pre-release",
+        "build": "In*a*Vision 1.01 runtime (September 1985)",
+        "compiled_date": "20/09/1985"
+    },
+    {
+        "channel": "Early OEM release",
+        "build": "1.xx",
+        "compiled_date": "03/09/1985"
+    },
+    {
+        "channel": "Retail release",
+        "build": "1.01",
+        "compiled_date": "15/11/1985"
+    },
+    {
+        "channel": "Retail release",
+        "build": "TC 1.00(Tulip OEM)",
+        "compiled_date": "11/02/1986"
+    },
+    {
+        "channel": "Retail release",
+        "build": "1.AX(Zenith Z-100 OEM)",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "Retail release",
+        "build": "1.02",
+        "compiled_date": "15/01/1986"
+    },
+    {
+        "channel": "Retail release",
+        "build": "1.03",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "Retail release",
+        "build": "VR1.03(Apricot XEN OEM)",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "Retail release",
+        "build": "1.03.04(DEC Rainbow 100 OEM)",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "Retail release",
+        "build": "A.01.03(HP-150 OEM)",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "Retail release",
+        "build": "1.03(NEC PC-9800 OEM)",
+        "compiled_date": "20/11/1986"
+    },
+    {
+        "channel": "Retail release",
+        "build": "1.04",
+        "compiled_date": "Unknown"
+    }
+]

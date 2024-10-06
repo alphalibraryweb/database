@@ -1,0 +1,152 @@
+[
+    {
+        "channel": "Developer Release",
+        "build": "4.90.2332.2",
+        "compiled_date": "13/07/1999"
+    },
+    {
+        "channel": "Developer Release",
+        "build": "4.90.2348",
+        "compiled_date": "02/08/1999"
+    },
+    {
+        "channel": "Developer Release",
+        "build": "4.90.2358",
+        "compiled_date": "16/08/1999"
+    },
+    {
+        "channel": "Beta 1",
+        "build": "4.90.2380.2",
+        "compiled_date": "20/09/1999"
+    },
+    {
+        "channel": "Beta 1",
+        "build": "4.90.2380.3",
+        "compiled_date": "01/10/1999"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "4.90.2394",
+        "compiled_date": "12/10/1999"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "4.90.2404",
+        "compiled_date": "26/10/1999"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "4.90.2416",
+        "compiled_date": "10/11/1999"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "4.90.2419",
+        "compiled_date": "17/11/1999"
+    },
+    {
+        "channel": "Beta 2 Refresh",
+        "build": "4.90.2429",
+        "compiled_date": "08/12/1999"
+    },
+    {
+        "channel": "Beta 2 Refresh",
+        "build": "4.90.2447",
+        "compiled_date": "10/01/2000"
+    },
+    {
+        "channel": "Beta 2 Refresh",
+        "build": "4.90.2452",
+        "compiled_date": "20/01/2000"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "4.90.2460",
+        "compiled_date": "01/02/2000"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "4.90.2465",
+        "compiled_date": "09/02/2000"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "4.90.2470",
+        "compiled_date": "16/02/2000"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "4.90.2476",
+        "compiled_date": "24/02/2000"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "4.90.2481",
+        "compiled_date": "01/03/2000"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "4.90.2487",
+        "compiled_date": "08/03/2000"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "4.90.2491",
+        "compiled_date": "14/03/2000"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "4.90.2495",
+        "compiled_date": "21/03/2000"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "4.90.2499.3",
+        "compiled_date": "29/03/2000"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "4.90.2499",
+        "compiled_date": "04/04/2000"
+    },
+    {
+        "channel": "Release Candidate 0",
+        "build": "4.90.2509",
+        "compiled_date": "13/04/2000"
+    },
+    {
+        "channel": "Release Candidate 0",
+        "build": "4.90.2513",
+        "compiled_date": "20/04/2000"
+    },
+    {
+        "channel": "Release Candidate 0",
+        "build": "4.90.2516",
+        "compiled_date": "25/04/2000"
+    },
+    {
+        "channel": "Release Candidate 0",
+        "build": "4.90.2525",
+        "compiled_date": "08/05/2000"
+    },
+    {
+        "channel": "Release Candidate 1",
+        "build": "4.90.2525.6",
+        "compiled_date": "17/05/2000"
+    },
+    {
+        "channel": "Release Candidate 2",
+        "build": "4.90.2535",
+        "compiled_date": "04/06/2000"
+    },
+    {
+        "channel": "RTM",
+        "build": "4.90.3000",
+        "compiled_date": "08/06/2000"
+    },
+    {
+        "channel": "February 2004 Security Update",
+        "build": "4.90.3000A",
+        "compiled_date": "Unknown"
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "channel": "Pre-Dev Channel",
+        "build": "21380.1001.fs_dev6_flt.210511-1900",
+        "compiled_date": "11/05/2021"
+    },
+    {
+        "channel": "Pre-Dev Channel",
+        "build": "21996.1.co_release.210529-1541",
+        "compiled_date": "29/05/2021"
+    },
+    {
+        "channel": "Pre-Dev Channel",
+        "build": "22000.1.co_release.210604-1628",
+        "compiled_date": "04/06/2021"
+    },
+    {
+        "channel": "Pre-Dev Channel",
+        "build": "22000.9.co_release_svc_oem.210719-1218",
+        "compiled_date": "19/07/2021"
+    },
+    {
+        "channel": "Dev Channel",
+        "build": "22000.51.co_release_svc_prod2.210617-2050",
+        "compiled_date": "17/06/2021"
+    },
+    {
+        "channel": "Dev Channel",
+        "build": "22000.65.co_release_svc_im.210703-0754",
+        "compiled_date": "03/07/2021"
+    },
+    {
+        "channel": "Dev Channel",
+        "build": "22000.71.co_release_svc_prod1.210707-1727",
+        "compiled_date": "07/07/2021"
+    },
+    {
+        "channel": "Beta Channel",
+        "build": "22000.100.co_release_svc_prod2.210714-1804",
+        "compiled_date": "14/07/2021"
+    },
+    {
+        "channel": "Beta Channel",
+        "build": "22000.120.co_release_svc_im.210728-1636",
+        "compiled_date": "28/07/2021"
+    },
+    {
+        "channel": "Beta Channel",
+        "build": "22000.132.co_release_svc_prod1.210805-1437",
+        "compiled_date": "05/08/2021"
+    },
+    {
+        "channel": "Beta Channel",
+        "build": "22000.160.co_release_svc_prod2.210811-1701",
+        "compiled_date": "11/08/2021"
+    },
+    {
+        "channel": "Beta Channel",
+        "build": "22000.168.co_release_svc_prod3.210818-1922",
+        "compiled_date": "18/08/2021"
+    },
+    {
+        "channel": "Release Preview Channel",
+        "build": "22000.176.co_release_svc_prod2.210825-1709",
+        "compiled_date": "25/08/2021"
+    },
+    {
+        "channel": "Release Preview Channel",
+        "build": "22000.184.co_release_svc_im.210901-1745",
+        "compiled_date": "01/09/2021"
+    },
+    {
+        "channel": "General availability",
+        "build": "22000.194.co_release_svc_prod1.210911-1543",
+        "compiled_date": "11/09/2021"
+    },
+    {
+        "channel": "Updates",
+        "build": "22000.282.co_release_svc_prod2.211006-1742",
+        "compiled_date": "06/10/2021"
+    },
+    {
+        "channel": "Updates",
+        "build": "22000.346.co_release_svc_prod2.211105-1539",
+        "compiled_date": "05/11/2021"
+    },
+    {
+        "channel": "Updates",
+        "build": "22000.466.co_release_svc_prod2.211231-1733",
+        "compiled_date": "31/12/2021"
+    },
+    {
+        "channel": "Updates",
+        "build": "22000.526.co_release_svc_prod2.220203-1933",
+        "compiled_date": "03/02/2022"
+    },
+    {
+        "channel": "Updates",
+        "build": "22000.588.co_release_svc_prod3.220307-2020",
+        "compiled_date": "07/03/2022"
+    },
+    {
+        "channel": "Updates",
+        "build": "22000.706.co_release_svc_prod3.220509-1622",
+        "compiled_date": "09/05/2022"
+    },
+    {
+        "channel": "Updates",
+        "build": "22000.776.co_release_svc_prod2.220608-1835",
+        "compiled_date": "08/06/2022"
+    },
+    {
+        "channel": "Updates",
+        "build": "22000.1757.co_release_svc_prod2.230310-1453",
+        "compiled_date": "10/03/2023"
+    }
+]

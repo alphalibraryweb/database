@@ -1,0 +1,452 @@
+[
+    {
+        "channel": "Original release",
+        "build": "3.10.07200022",
+        "compiled_date": "20/07/1992"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.58s",
+        "compiled_date": "09/08/1993"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.73f",
+        "compiled_date": "23/11/1993"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.73g",
+        "compiled_date": "02/12/1993"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.81",
+        "compiled_date": "19/01/1994"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.89e",
+        "compiled_date": "17/03/1994"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.90c",
+        "compiled_date": "29/03/1994"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.99",
+        "compiled_date": "09/05/1994"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.116",
+        "compiled_date": "01/06/1994"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.121",
+        "compiled_date": "07/06/1994"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.122",
+        "compiled_date": "10/06/1994"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.180",
+        "compiled_date": "10/09/1994"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.189",
+        "compiled_date": "21/09/1994"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.216",
+        "compiled_date": "27/10/1994"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.222",
+        "compiled_date": "09/11/1994"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.224",
+        "compiled_date": "03/11/1994"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.225",
+        "compiled_date": "01/12/1994"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.263",
+        "compiled_date": "18/11/1994"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.267",
+        "compiled_date": "21/11/1994"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.275",
+        "compiled_date": "03/12/1994"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.285",
+        "compiled_date": "16/12/1994"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.286",
+        "compiled_date": "19/12/1994"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.302",
+        "compiled_date": "22/12/1994"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.306",
+        "compiled_date": "10/01/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.310",
+        "compiled_date": "12/01/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.311",
+        "compiled_date": "13/01/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.314",
+        "compiled_date": "18/01/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.318",
+        "compiled_date": "23/01/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.323",
+        "compiled_date": "27/01/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.324",
+        "compiled_date": "30/01/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.328",
+        "compiled_date": "03/02/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.331",
+        "compiled_date": "08/02/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.337",
+        "compiled_date": "15/02/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.342",
+        "compiled_date": "21/02/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.345",
+        "compiled_date": "24/02/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.347",
+        "compiled_date": "02/03/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.405",
+        "compiled_date": "14/02/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.411",
+        "compiled_date": "22/02/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.420",
+        "compiled_date": "08/03/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.428",
+        "compiled_date": "17/03/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.431",
+        "compiled_date": "22/03/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.435",
+        "compiled_date": "28/03/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.440",
+        "compiled_date": "06/04/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.445",
+        "compiled_date": "12/04/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.450",
+        "compiled_date": "19/04/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.456",
+        "compiled_date": "27/04/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.462",
+        "compiled_date": "02/05/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.468",
+        "compiled_date": "10/05/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.470",
+        "compiled_date": "11/05/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.474",
+        "compiled_date": "17/05/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.480",
+        "compiled_date": "24/05/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.484",
+        "compiled_date": "31/05/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.490",
+        "compiled_date": "07/06/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.499",
+        "compiled_date": "16/06/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.501",
+        "compiled_date": "21/06/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.708",
+        "compiled_date": "08/08/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.720",
+        "compiled_date": "08/08/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.810",
+        "compiled_date": "10/07/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.812",
+        "compiled_date": "09/09/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.818",
+        "compiled_date": "16/10/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.842",
+        "compiled_date": "20/02/1996"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.950 r-2 (1995-09-21)",
+        "compiled_date": "21/09/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.950 (1995-09-26)",
+        "compiled_date": "26/09/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.950 r-4",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.950 r-7 (1995-10-11)",
+        "compiled_date": "11/10/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.950 r-2",
+        "compiled_date": "30/06/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.950 r-3 (1995-07-04)",
+        "compiled_date": "04/07/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.950 r-3 (1995-07-06)",
+        "compiled_date": "06/07/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.950 r-6",
+        "compiled_date": "11/07/1995"
+    },
+    {
+        "channel": "Original release",
+        "build": "4.00.950 r-7 (Hebrew RTM)",
+        "compiled_date": "17/05/1996"
+    },
+    {
+        "channel": "OEM Service Release 1 and Service Pack 1",
+        "build": "4.00.950a",
+        "compiled_date": "31/12/1995"
+    },
+    {
+        "channel": "OEM Service Release 2",
+        "build": "4.00.1009",
+        "compiled_date": "09/04/1996"
+    },
+    {
+        "channel": "OEM Service Release 2",
+        "build": "4.00.1034",
+        "compiled_date": "08/05/1996"
+    },
+    {
+        "channel": "OEM Service Release 2",
+        "build": "4.00.1043",
+        "compiled_date": "01/06/1996"
+    },
+    {
+        "channel": "OEM Service Release 2",
+        "build": "4.00.1068",
+        "compiled_date": "24/06/1996"
+    },
+    {
+        "channel": "OEM Service Release 2",
+        "build": "4.00.1078",
+        "compiled_date": "22/07/1996"
+    },
+    {
+        "channel": "OEM Service Release 2",
+        "build": "4.00.1089",
+        "compiled_date": "09/08/1996"
+    },
+    {
+        "channel": "OEM Service Release 2",
+        "build": "4.00.1094",
+        "compiled_date": "10/08/1996"
+    },
+    {
+        "channel": "OEM Service Release 2",
+        "build": "4.00.1111 (RC)",
+        "compiled_date": "12/08/1996"
+    },
+    {
+        "channel": "OEM Service Release 2",
+        "build": "4.00.1111 (950 B)",
+        "compiled_date": "24/08/1996"
+    },
+    {
+        "channel": "OEM Service Release 2.1",
+        "build": "4.03.1107",
+        "compiled_date": "07/06/1996"
+    },
+    {
+        "channel": "OEM Service Release 2.1",
+        "build": "4.03.1113",
+        "compiled_date": "28/06/1996"
+    },
+    {
+        "channel": "OEM Service Release 2.1",
+        "build": "4.03.1115",
+        "compiled_date": "10/07/1996"
+    },
+    {
+        "channel": "OEM Service Release 2.1",
+        "build": "4.03.1132",
+        "compiled_date": "22/08/1996"
+    },
+    {
+        "channel": "OEM Service Release 2.1",
+        "build": "4.03.1154",
+        "compiled_date": "23/09/1996"
+    },
+    {
+        "channel": "OEM Service Release 2.1",
+        "build": "4.03.1156",
+        "compiled_date": "26/09/1996"
+    },
+    {
+        "channel": "OEM Service Release 2.1",
+        "build": "4.03.1163",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "OEM Service Release 2.1",
+        "build": "4.03.1212",
+        "compiled_date": "10/04/1997"
+    },
+    {
+        "channel": "OEM Service Release 2.1",
+        "build": "4.03.1214",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "OEM Service Release 2.5",
+        "build": "4.03.1216 (950 C)",
+        "compiled_date": "Unknown"
+    }
+]

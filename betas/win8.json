@@ -1,0 +1,582 @@
+[
+    {
+        "channel": "Pre-Milestone 1",
+        "build": "7700.0.winmain.100122-1900",
+        "compiled_date": "22/01/2010"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "7746.0.fbl_grfx.100428-2024",
+        "compiled_date": "28/04/2010"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "7762.0.fbl_grfx_dev1.100613-1700",
+        "compiled_date": "13/06/2010"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "7777.0.fbl_grfx.100708-2000",
+        "compiled_date": "08/07/2010"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "7779.0.fbl_grfx_dev1.100713-1700",
+        "compiled_date": "13/07/2010"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "7785.0.fbl_grfx_dev1.100721-1700",
+        "compiled_date": "21/07/2010"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "7791.0.fbl_core1_kernel.100802-1700",
+        "compiled_date": "02/08/2010"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "7792.0.winmain.100802-1750",
+        "compiled_date": "02/08/2010"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "7793.0.fbl_grfx.100804-2000",
+        "compiled_date": "04/08/2010"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "7814.0.fbl_core1_kernel_ee.100907-1700",
+        "compiled_date": "07/09/2010"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "7850.0.winmain_win8m1.100922-1508",
+        "compiled_date": "22/09/2010"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "7822.0.fbl_core1_kernel_npc_ext.100930-1700",
+        "compiled_date": "30/09/2010"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "7851.0.fbl_grfx_dev1.100929-1700",
+        "compiled_date": "29/09/2010"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "7867.0.fbl_core1_kernel_npc_ext.101101-1728",
+        "compiled_date": "01/11/2010"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "7871.0.fbl_grfx_dev1.101027-1700",
+        "compiled_date": "27/10/2010"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "7875.0.fbl_grfx_dev1.101102-1700",
+        "compiled_date": "02/11/2010"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "7878.0.winmain.101104-1752",
+        "compiled_date": "04/11/2010"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "7880.0.fbl_grfx_dev1.101110-1700",
+        "compiled_date": "10/11/2010"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "7898.0.fbl_core1_kernel_npc_ext.101209-1746",
+        "compiled_date": "09/12/2010"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "7899.0.fbl_core2_sfs.101209-1900",
+        "compiled_date": "09/12/2010"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "7915.0.fbl_core1_kernel_npc_ext.110131-1820",
+        "compiled_date": "31/01/2011"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "7927.0.fbl_srv_wdacxml.110214-1930",
+        "compiled_date": "14/02/2011"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "7950.0.winmain_win8m2.110223-1820",
+        "compiled_date": "23/02/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "7955.0.fbl_srv_wdacxml.110228-1930",
+        "compiled_date": "28/02/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "7957.0.fbl_core1_kernel_npc.110302-1700",
+        "compiled_date": "02/03/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "7962.0.fbl_srv_wdacxml.110311-1930",
+        "compiled_date": "11/03/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "7963.0.winmain.110310-1721",
+        "compiled_date": "10/03/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "7968.0.fbl_multimedia_media_sndproc.110322-1700",
+        "compiled_date": "22/03/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "7969.0.fbl_core1_kernel_npc.110323-1848",
+        "compiled_date": "23/03/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "7970.0.winmain.110323-1830",
+        "compiled_date": "23/03/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "7973.0.fbl_core2_sid_data.110330-1700",
+        "compiled_date": "30/03/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "7973.0.fbl_grfx_dev1.110330-1700",
+        "compiled_date": "30/03/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "7973.0.fbl_dnt3_wireless.110330-1800",
+        "compiled_date": "30/03/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "7973.0.fbl_core1_kernel_npc.110330-1809",
+        "compiled_date": "30/03/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "7978.0.fbl_grfx_dev1.110406-1700",
+        "compiled_date": "06/04/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "7983.0.fbl_core2_sid_data.110413-2100",
+        "compiled_date": "13/04/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "7985.0.fbl_core1_kernel_cptx.110419-1745",
+        "compiled_date": "19/04/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "7989.0.winmain.110421-1825",
+        "compiled_date": "21/04/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "7990.0.fbl_core1_kernel_ee_fwproto.110426-2300",
+        "compiled_date": "26/04/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "7996.0.fbl_multimedia_media_sndproc.110504-1700",
+        "compiled_date": "04/05/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "7997.0.fbl_dnt3_wireless.110504-2014",
+        "compiled_date": "04/05/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8002.0.fbl_grfx_dev1.110511-1700",
+        "compiled_date": "11/05/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8002.0.fbl_dnt3_wireless.110511-1800",
+        "compiled_date": "11/05/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8008.0.fbl_dnt3_wireless.110518-1900",
+        "compiled_date": "18/05/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8014.0.fbl_grfx_dev1.110525-1700",
+        "compiled_date": "25/05/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8020.0.winmain.110602-1845",
+        "compiled_date": "02/06/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8032.0.fbl_core2_sid_data.110623-2054",
+        "compiled_date": "23/06/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8038.0.winmain.110630-1810",
+        "compiled_date": "30/06/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8045.0.fbl_grfx_dev1.110713-1730",
+        "compiled_date": "13/07/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8049.0.fbl_eeap.110718-0510",
+        "compiled_date": "18/07/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8054.0.winmain.110722-1912",
+        "compiled_date": "22/07/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8056.0.fbl_dnt2_bus.110727-1700",
+        "compiled_date": "27/07/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8056.0.fbl_grfx_dev1.110727-1728",
+        "compiled_date": "27/07/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8056.0.fbl_dnt3_wireless.110727-1800",
+        "compiled_date": "27/07/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8061.0.fbl_core1_soc.110803-1830",
+        "compiled_date": "03/08/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8064.0.fbl_eeap.110806-1000",
+        "compiled_date": "06/08/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8090.0.winmain_win8m3.110805-1930",
+        "compiled_date": "05/08/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8102.0.winmain_win8m3.110823-1455",
+        "compiled_date": "30/08/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8102.0.winmain_win8m3_eeap.110824-1030",
+        "compiled_date": "24/08/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8102.101.winmain_win8m3.110830-1739",
+        "compiled_date": "30/08/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8102.109.winmain_win8m3.110912-1733",
+        "compiled_date": "30/08/2011"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8108.0.fbl_eeap.110902-1526",
+        "compiled_date": "02/09/2011"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8112.0.fbl_core1_soc.110912-1800",
+        "compiled_date": "12/09/2011"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8118.0.fbl_core2_sfs.110921-1900",
+        "compiled_date": "21/09/2011"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8128.0.fbl_core1_soc_partner.111005-1916",
+        "compiled_date": "05/10/2011"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8133.0.fbl_grfx_dev1.111012-1400",
+        "compiled_date": "12/10/2011"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8133.0.fbl_core2_sid_data.111012-1700",
+        "compiled_date": "12/10/2011"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8133.0.fbl_dnt2_bus.111012-1700",
+        "compiled_date": "12/10/2011"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8133.0.fbl_core2_sfs.111012-1900",
+        "compiled_date": "12/10/2011"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8133.0.fbl_dnt3_wireless.111012-1902",
+        "compiled_date": "12/10/2011"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8140.0.winmain.111020-1857",
+        "compiled_date": "20/10/2011"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8148.0.winmain.111103-1846",
+        "compiled_date": "03/11/2011"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8155.0.fbl_dnt3_wireless.111116-2000",
+        "compiled_date": "16/11/2011"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8161.0.winmain.111128-1254",
+        "compiled_date": "28/11/2011"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8175.5.fbl_dev_dp4.120111-2201",
+        "compiled_date": "11/01/2012"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8176.0.fbl_core2_sid_dev.120104-2026",
+        "compiled_date": "04/01/2012"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8186.0.fbl_core1_soc.120118-1700",
+        "compiled_date": "18/01/2012"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8186.0.fbl_dnt3_wireless.120118-1800",
+        "compiled_date": "18/01/2012"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8187.0.fbl_core2_sid_dev.120119-1824",
+        "compiled_date": "19/01/2012"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8220.0.winmain_win8beta.120127-1925",
+        "compiled_date": "27/01/2012"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8250.0.winmain_win8beta.120217-1520",
+        "compiled_date": "17/02/2012"
+    },
+    {
+        "channel": "Release Candidate (Release Preview)",
+        "build": "8195.0.fbl_dnt3_wireless.120201-1800",
+        "compiled_date": "01/02/2012"
+    },
+    {
+        "channel": "Release Candidate (Release Preview)",
+        "build": "8277.0.fbl_dnt2_bus.120208-1700",
+        "compiled_date": "08/02/2012"
+    },
+    {
+        "channel": "Release Candidate (Release Preview)",
+        "build": "8288.0.fbl_core1_soc.120226-1700",
+        "compiled_date": "26/02/2012"
+    },
+    {
+        "channel": "Release Candidate (Release Preview)",
+        "build": "8302.0.fbl_core1_soc.120319-1700",
+        "compiled_date": "19/03/2012"
+    },
+    {
+        "channel": "Release Candidate (Release Preview)",
+        "build": "8305.0.fbl_dnt3_wireless.120321-1800",
+        "compiled_date": "21/03/2012"
+    },
+    {
+        "channel": "Release Candidate (Release Preview)",
+        "build": "8305.0.fbl_grfx_dev1.120321-1830",
+        "compiled_date": "21/03/2012"
+    },
+    {
+        "channel": "Release Candidate (Release Preview)",
+        "build": "8305.0.fbl_core2_sfs.120321-1900",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "Release Candidate (Release Preview)",
+        "build": "8330.0.fbl_woa.120424-2227",
+        "compiled_date": "24/04/2012"
+    },
+    {
+        "channel": "Release Candidate (Release Preview)",
+        "build": "8330.0.fbl_grfx_dev1.120425-1400",
+        "compiled_date": "25/04/2012"
+    },
+    {
+        "channel": "Release Candidate (Release Preview)",
+        "build": "8330.0.fbl_ie_longhorn.120425-2121",
+        "compiled_date": "25/04/2012"
+    },
+    {
+        "channel": "Release Candidate (Release Preview)",
+        "build": "8331.0.fbl_loc.120425-2034",
+        "compiled_date": "25/04/2012"
+    },
+    {
+        "channel": "Release Candidate (Release Preview)",
+        "build": "8375.0.winmain_win8rc.120504-1900",
+        "compiled_date": "04/05/2012"
+    },
+    {
+        "channel": "Release Candidate (Release Preview)",
+        "build": "8400.0.winmain_win8rc.120518-1423",
+        "compiled_date": "18/05/2012"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "8422.0.fbl_woa.120524-2000",
+        "compiled_date": "24/05/2012"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "8423.0.fbl_loc.120528-2000",
+        "compiled_date": "28/05/2012"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "8432.0.fbl_loc.120611-2000",
+        "compiled_date": "11/06/2012"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "8437.1.fbl_dev_dp8.120621-2300",
+        "compiled_date": "21/06/2012"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "8438.0.fbl_ie_longhorn.120620-2000",
+        "compiled_date": "20/06/2012"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "8439.0.fbl_woa.120620-2204",
+        "compiled_date": "20/06/2012"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "8441.0.winmain.120623-1614",
+        "compiled_date": "23/06/2012"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "8509.0.fbl_eeap.120708-0952",
+        "compiled_date": "08/07/2012"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "8520.0.fbl_eeap.120722-1632",
+        "compiled_date": "22/07/2012"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "8513.0.win8_gdr_soc_intel.120710-2000",
+        "compiled_date": "10/07/2012"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "8513.0.win8_gdr_soc_nv.120710-2000",
+        "compiled_date": "10/07/2012"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "8513.0.win8_gdr_soc_ti.120710-2000",
+        "compiled_date": "10/07/2012"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "8518.0.win8_gdr_soc_nv.120718-0003",
+        "compiled_date": "18/07/2012"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "8888.16384.win8_gdr_soc_intel.120724-2000",
+        "compiled_date": "24/07/2012"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "8888.16384.win8_gdr_soc_ti.120724-2000",
+        "compiled_date": "24/07/2012"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "8888.16384.win8_gdr_soc_nv.120724-2107",
+        "compiled_date": "24/07/2012"
+    },
+    {
+        "channel": "RTM",
+        "build": "9200.16384.win8_rtm.120725-1247",
+        "compiled_date": "25/07/2012"
+    },
+    {
+        "channel": "Post-RTM",
+        "build": "9200.0.fbl_eeap.120728-1519",
+        "compiled_date": "28/07/2012"
+    },
+    {
+        "channel": "Post-RTM",
+        "build": "9200.16384.win8_gdr_soc_ti.120725-2000",
+        "compiled_date": "25/07/2012"
+    },
+    {
+        "channel": "Post-RTM",
+        "build": "9200.16384.win8_gdr_soc_intel.120726-2000",
+        "compiled_date": "26/07/2012"
+    },
+    {
+        "channel": "Post-RTM",
+        "build": "9200.16384.win8_gdr_soc_nv.120726-2000",
+        "compiled_date": "26/07/2012"
+    },
+    {
+        "channel": "Post-RTM",
+        "build": "9200.16456.win8_gdr_soc_intel.121112-2000",
+        "compiled_date": "12/11/2012"
+    }
+]

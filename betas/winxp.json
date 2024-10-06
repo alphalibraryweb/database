@@ -1,0 +1,467 @@
+[
+    {
+        "channel": "Beta 1",
+        "build": "2202.1",
+        "compiled_date": "02/02/2000"
+    },
+    {
+        "channel": "Beta 1",
+        "build": "2210.1.main.000302-1934",
+        "compiled_date": "02/03/2000"
+    },
+    {
+        "channel": "Beta 1",
+        "build": "2211.1.main.000309-1512",
+        "compiled_date": "09/03/2000"
+    },
+    {
+        "channel": "Beta 1",
+        "build": "2223.1.main.000411-2307",
+        "compiled_date": "11/04/2000"
+    },
+    {
+        "channel": "Beta 1",
+        "build": "2250.1.main.000628-2110",
+        "compiled_date": "28/06/2000"
+    },
+    {
+        "channel": "Beta 1",
+        "build": "2257.1.idx01.000810-2103",
+        "compiled_date": "10/08/2000"
+    },
+    {
+        "channel": "Beta 1",
+        "build": "2264.1.main.000825-2152",
+        "compiled_date": "25/08/2000"
+    },
+    {
+        "channel": "Beta 1",
+        "build": "2267.1.idx01.000909-1503",
+        "compiled_date": "09/09/2000"
+    },
+    {
+        "channel": "Beta 1",
+        "build": "2267.1.idx01.000910-1316",
+        "compiled_date": "10/09/2000"
+    },
+    {
+        "channel": "Beta 1",
+        "build": "2276.1.lab02_n.000928-2023",
+        "compiled_date": "28/09/2000"
+    },
+    {
+        "channel": "Beta 1",
+        "build": "2287.1.beta1.001012-1643",
+        "compiled_date": "12/10/2000"
+    },
+    {
+        "channel": "Beta 1",
+        "build": "2296.1.beta1.001024-1157",
+        "compiled_date": "24/10/2000"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "2410.main.001208-1937",
+        "compiled_date": "08/12/2000"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "2416.idx01.010104-1958",
+        "compiled_date": "04/01/2001"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "2419.idx02.010113-1154",
+        "compiled_date": "13/01/2001"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "2419.idx02.010115-1412",
+        "compiled_date": "15/01/2001"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "2428.idx01.010129-1827",
+        "compiled_date": "29/01/2001"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "2430.main.010130-1821",
+        "compiled_date": "30/01/2001"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "2433.main.010206-1822",
+        "compiled_date": "06/02/2001"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "2442.main.010217-1630",
+        "compiled_date": "17/02/2001"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "2446.main.010224-2228",
+        "compiled_date": "24/02/2001"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "2454.main.010306-1653",
+        "compiled_date": "06/03/2001"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "2457.main.010309-1904",
+        "compiled_date": "09/03/2001"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "2458.main.010310-1552",
+        "compiled_date": "10/03/2001"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "2459.main.010312-1811",
+        "compiled_date": "12/03/2001"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "2462.main.010315-1720",
+        "compiled_date": "15/03/2001"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "2462.main.010315-1739",
+        "compiled_date": "15/03/2001"
+    },
+    {
+        "channel": "Release Candidate 1",
+        "build": "2463.main.010328-1824",
+        "compiled_date": "28/03/2001"
+    },
+    {
+        "channel": "Release Candidate 1",
+        "build": "2465.idx01.010412-2007",
+        "compiled_date": "12/04/2001"
+    },
+    {
+        "channel": "Release Candidate 1",
+        "build": "2469.idx02.010508-1228",
+        "compiled_date": "08/05/2001"
+    },
+    {
+        "channel": "Release Candidate 1",
+        "build": "2474.main.010508-1907",
+        "compiled_date": "08/05/2001"
+    },
+    {
+        "channel": "Release Candidate 1",
+        "build": "2475.idx01.010514-2023",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "Release Candidate 1",
+        "build": "2481.main.010523-1905",
+        "compiled_date": "23/05/2001"
+    },
+    {
+        "channel": "Release Candidate 1",
+        "build": "2481.idx01.010524-1743",
+        "compiled_date": "24/05/2001"
+    },
+    {
+        "channel": "Release Candidate 1",
+        "build": "2485.main.010531-2130",
+        "compiled_date": "31/05/2001"
+    },
+    {
+        "channel": "Release Candidate 1",
+        "build": "2486.main.010602-1927",
+        "compiled_date": "02/06/2001"
+    },
+    {
+        "channel": "Release Candidate 1",
+        "build": "2494.main.010613-1739",
+        "compiled_date": "13/06/2001"
+    },
+    {
+        "channel": "Release Candidate 1",
+        "build": "2495.main.010614-1724",
+        "compiled_date": "14/06/2001"
+    },
+    {
+        "channel": "Release Candidate 1",
+        "build": "2498.main.010618-1744",
+        "compiled_date": "18/06/2001"
+    },
+    {
+        "channel": "Release Candidate 1",
+        "build": "2499.main.010619-1834",
+        "compiled_date": "19/06/2001"
+    },
+    {
+        "channel": "Release Candidate 1",
+        "build": "2502.main.010622-1750",
+        "compiled_date": "22/06/2001"
+    },
+    {
+        "channel": "Release Candidate 1",
+        "build": "2504.main.010625-1923",
+        "compiled_date": "25/06/2001"
+    },
+    {
+        "channel": "Release Candidate 1",
+        "build": "2505.main.010626-1514",
+        "compiled_date": "26/06/2001"
+    },
+    {
+        "channel": "Release Candidate 2",
+        "build": "2509.main.010702-1146",
+        "compiled_date": "02/07/2001"
+    },
+    {
+        "channel": "Release Candidate 2",
+        "build": "2517.main.010713-1717",
+        "compiled_date": "13/07/2001"
+    },
+    {
+        "channel": "Release Candidate 2",
+        "build": "2520.main.010717-1624",
+        "compiled_date": "17/07/2001"
+    },
+    {
+        "channel": "Release Candidate 2",
+        "build": "2525.xpclient.010723-1719",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "Release Candidate 2",
+        "build": "2526.xpclient.010724-1758",
+        "compiled_date": "24/07/2001"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "2531.xpclient.010730-1640",
+        "compiled_date": "30/07/2001"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "2532.xpclient.010731-1658",
+        "compiled_date": "31/07/2001"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "2535.xpclient.010803-1621",
+        "compiled_date": "03/08/2001"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "2542.xpclient.010811-1534",
+        "compiled_date": "11/08/2001"
+    },
+    {
+        "channel": "RTM",
+        "build": "2600.xpclient.010817-1148",
+        "compiled_date": "17/08/2001"
+    },
+    {
+        "channel": "Service Pack 1",
+        "build": "2600.1050.xpsp1.020529-1810",
+        "compiled_date": "29/05/2002"
+    },
+    {
+        "channel": "Service Pack 1",
+        "build": "2600.1065.xpsp1.020625-1800",
+        "compiled_date": "25/06/2002"
+    },
+    {
+        "channel": "Service Pack 1",
+        "build": "2600.1078.xpsp1.020716-1800",
+        "compiled_date": "16/07/2002"
+    },
+    {
+        "channel": "Service Pack 1",
+        "build": "2600.1081.xpsp1.020719-1845",
+        "compiled_date": "19/07/2002"
+    },
+    {
+        "channel": "Service Pack 1",
+        "build": "2600.1106.xpsp1.020828-1920",
+        "compiled_date": "28/08/2002"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.1155.xpsp2.021217-1051",
+        "compiled_date": "17/12/2002"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.1185.xpsp2.030313-1931",
+        "compiled_date": "13/03/2003"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.1194.xpsp2.030401-1855",
+        "compiled_date": "01/04/2003"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.1204.xpsp2.030410-1604",
+        "compiled_date": "10/04/2003"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.1213.xpsp2.030424-1654",
+        "compiled_date": "24/04/2003"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.2055.xpsp_sp2_beta1.031215-1745",
+        "compiled_date": "15/12/2003"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.2075.xpsp.040202-1935",
+        "compiled_date": "02/02/2004"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.2082.xpsp.040216-1810",
+        "compiled_date": "16/02/2004"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.2094.xpsp_sp2_rc1.040308-1920",
+        "compiled_date": "08/03/2004"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.2096.xpsp_sp2_rc1.040311-2315",
+        "compiled_date": "11/03/2004"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.2111.xpsp.040409-1745",
+        "compiled_date": "09/04/2004"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.2120.xpsp.040423-1852",
+        "compiled_date": "23/04/2004"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.2126.xpsp.040503-1841",
+        "compiled_date": "03/05/2004"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.2135.xpsp.040518-1812",
+        "compiled_date": "18/05/2004"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.2137.xpsp.040520-1754",
+        "compiled_date": "20/05/2004"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.2138.xpsp.040522-1636",
+        "compiled_date": "22/05/2004"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.2142.xpsp.040528-0019",
+        "compiled_date": "28/05/2004"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.2148.xpsp_sp2_rc2.040607-1947",
+        "compiled_date": "07/06/2004"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.2149.xpsp_sp2_rc2.040610-1520",
+        "compiled_date": "10/06/2004"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.2160.xpsp.040701-1917",
+        "compiled_date": "01/07/2004"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.2162.xpsp_sp2_idx.040709-1830",
+        "compiled_date": "09/07/2004"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.2163.xpsp.040710-1735",
+        "compiled_date": "10/07/2004"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.2179.xpsp_sp2_rtm.040802-1419",
+        "compiled_date": "02/08/2004"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "2600.2180.xpsp_sp2_rtm.040803-2158",
+        "compiled_date": "03/08/2004"
+    },
+    {
+        "channel": "Service Pack 3",
+        "build": "2600.3180.xpsp.070718-2058",
+        "compiled_date": "18/07/2007"
+    },
+    {
+        "channel": "Service Pack 3",
+        "build": "2600.3205.xpsp.070831-1912",
+        "compiled_date": "31/08/2007"
+    },
+    {
+        "channel": "Service Pack 3",
+        "build": "2600.3244.xpsp.071030-1537",
+        "compiled_date": "30/10/2007"
+    },
+    {
+        "channel": "Service Pack 3",
+        "build": "2600.3264.xpsp.071130-1427",
+        "compiled_date": "30/11/2007"
+    },
+    {
+        "channel": "Service Pack 3",
+        "build": "2600.3282.xpsp.071227-1539",
+        "compiled_date": "27/12/2007"
+    },
+    {
+        "channel": "Service Pack 3",
+        "build": "2600.3300.xpsp.080125-2028",
+        "compiled_date": "25/01/2008"
+    },
+    {
+        "channel": "Service Pack 3",
+        "build": "2600.3311.xpsp.080212-0005",
+        "compiled_date": "12/02/2008"
+    },
+    {
+        "channel": "Service Pack 3",
+        "build": "2600.5503.xpsp.080306-1604",
+        "compiled_date": "06/03/2008"
+    },
+    {
+        "channel": "Service Pack 3",
+        "build": "2600.5508.xpsp.080320-1628",
+        "compiled_date": "20/03/2008"
+    },
+    {
+        "channel": "Service Pack 3",
+        "build": "2600.5511.xpsp.080404-0229",
+        "compiled_date": "04/04/2008"
+    },
+    {
+        "channel": "Service Pack 3",
+        "build": "2600.5512.xpsp.080413-2111",
+        "compiled_date": "13/04/2008"
+    }
+]

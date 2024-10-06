@@ -1,0 +1,42 @@
+[
+    {
+        "channel": "Early releases",
+        "build": "Windows/386 2.01",
+        "compiled_date": "07/09/1987"
+    },
+    {
+        "channel": "Retail releases",
+        "build": "Windows 2.03",
+        "compiled_date": "16/11/1987"
+    },
+    {
+        "channel": "Retail releases",
+        "build": "Windows/386 2.03",
+        "compiled_date": "14/01/1988"
+    },
+    {
+        "channel": "Retail releases",
+        "build": "Windows/286 2.1",
+        "compiled_date": "27/05/1988"
+    },
+    {
+        "channel": "Retail releases",
+        "build": "Windows/386 2.1",
+        "compiled_date": "09/09/1988"
+    },
+    {
+        "channel": "Retail releases",
+        "build": "Windows/286 2.11",
+        "compiled_date": "15/05/1989"
+    },
+    {
+        "channel": "Retail releases",
+        "build": "Windows/286 2.11(NEC PC-9800 OEM)",
+        "compiled_date": "04/12/1989"
+    },
+    {
+        "channel": "Retail releases",
+        "build": "Windows/386 2.11",
+        "compiled_date": "14/03/1989"
+    }
+]

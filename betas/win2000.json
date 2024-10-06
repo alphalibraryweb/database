@@ -1,0 +1,372 @@
+[
+    {
+        "channel": "Beta 1",
+        "build": "5.0.1515.1",
+        "compiled_date": "17/03/1997"
+    },
+    {
+        "channel": "Beta 1",
+        "build": "5.0.1575.1",
+        "compiled_date": "11/06/1997"
+    },
+    {
+        "channel": "Beta 1",
+        "build": "5.0.1580.1",
+        "compiled_date": "20/06/1997"
+    },
+    {
+        "channel": "Beta 1",
+        "build": "5.0.1585.1",
+        "compiled_date": "25/06/1997"
+    },
+    {
+        "channel": "Beta 1",
+        "build": "5.0.1592.1",
+        "compiled_date": "07/07/1997"
+    },
+    {
+        "channel": "Beta 1",
+        "build": "5.0.1627.1",
+        "compiled_date": "13/08/1997"
+    },
+    {
+        "channel": "Beta 1",
+        "build": "5.0.1631.1",
+        "compiled_date": "16/08/1997"
+    },
+    {
+        "channel": "Beta 1",
+        "build": "5.0.1671.1",
+        "compiled_date": "09/09/1997"
+    },
+    {
+        "channel": "Interim Developer's Release",
+        "build": "5.0.1691.1",
+        "compiled_date": "23/10/1997"
+    },
+    {
+        "channel": "Interim Developer's Release",
+        "build": "5.0.1701.1",
+        "compiled_date": "06/11/1997"
+    },
+    {
+        "channel": "Interim Developer's Release",
+        "build": "5.0.1717.1",
+        "compiled_date": "02/12/1997"
+    },
+    {
+        "channel": "Interim Developer's Release",
+        "build": "5.0.1723.1",
+        "compiled_date": "15/12/1997"
+    },
+    {
+        "channel": "Interim Developer's Release",
+        "build": "5.0.1729.1",
+        "compiled_date": "06/01/1998"
+    },
+    {
+        "channel": "Interim Developer's Release",
+        "build": "5.0.1738.1",
+        "compiled_date": "26/01/1998"
+    },
+    {
+        "channel": "Interim Developer's Release",
+        "build": "5.0.1743.1",
+        "compiled_date": "08/02/1998"
+    },
+    {
+        "channel": "Interim Developer's Release",
+        "build": "5.0.1745.1",
+        "compiled_date": "11/02/1998"
+    },
+    {
+        "channel": "Interim Developer's Release",
+        "build": "5.0.1762.1",
+        "compiled_date": "03/03/1998"
+    },
+    {
+        "channel": "Interim Developer's Release",
+        "build": "5.0.1773.1",
+        "compiled_date": "18/03/1998"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "5.0.1796.1",
+        "compiled_date": "30/04/1998"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "5.0.1814.1",
+        "compiled_date": "05/06/1998"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "5.0.1816.1",
+        "compiled_date": "26/05/1998"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "5.0.1835.1",
+        "compiled_date": "25/06/1998"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "5.0.1848.1",
+        "compiled_date": "12/07/1998"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "5.0.1855.1",
+        "compiled_date": "21/07/1998"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "5.0.1859.1",
+        "compiled_date": "27/07/1998"
+    },
+    {
+        "channel": "Beta 2",
+        "build": "5.0.1877.1",
+        "compiled_date": "13/08/1998"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "5.0.1888.1",
+        "compiled_date": "04/09/1998"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "5.0.1902.1",
+        "compiled_date": "29/09/1998"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "5.0.1906.1",
+        "compiled_date": "07/10/1998"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "5.0.1911.1",
+        "compiled_date": "19/10/1998"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "5.0.1946.1",
+        "compiled_date": "13/12/1998"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "5.0.1964.1",
+        "compiled_date": "21/01/1999"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "5.0.1965.1",
+        "compiled_date": "22/01/1999"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "5.0.1969.1",
+        "compiled_date": "29/01/1999"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "5.0.1983.1",
+        "compiled_date": "18/02/1999"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "5.0.1989.1",
+        "compiled_date": "25/02/1999"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "5.0.1993.1",
+        "compiled_date": "03/03/1999"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "5.0.1994.1",
+        "compiled_date": "04/03/1999"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "5.0.1999.1",
+        "compiled_date": "10/03/1999"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "5.0.2000.1",
+        "compiled_date": "11/03/1999"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "5.0.2000.3",
+        "compiled_date": "12/03/1999"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "5.0.2020.1",
+        "compiled_date": "13/04/1999"
+    },
+    {
+        "channel": "Beta 3",
+        "build": "5.0.2031.1",
+        "compiled_date": "26/04/1999"
+    },
+    {
+        "channel": "Release Candidate 1",
+        "build": "5.0.2068.1",
+        "compiled_date": "22/06/1999"
+    },
+    {
+        "channel": "Release Candidate 1",
+        "build": "5.0.2072.1",
+        "compiled_date": "27/06/1999"
+    },
+    {
+        "channel": "Release Candidate 2",
+        "build": "5.0.2091.1",
+        "compiled_date": "03/08/1999"
+    },
+    {
+        "channel": "Release Candidate 2",
+        "build": "5.0.2092.1",
+        "compiled_date": "07/08/1999"
+    },
+    {
+        "channel": "Release Candidate 2",
+        "build": "5.0.2124.1",
+        "compiled_date": "07/09/1999"
+    },
+    {
+        "channel": "Release Candidate 2",
+        "build": "5.0.2128.1",
+        "compiled_date": "10/09/1999"
+    },
+    {
+        "channel": "Release Candidate 3",
+        "build": "5.0.2151.1",
+        "compiled_date": "14/10/1999"
+    },
+    {
+        "channel": "Release Candidate 3",
+        "build": "5.0.2167.1",
+        "compiled_date": "30/10/1999"
+    },
+    {
+        "channel": "Release Candidate 3",
+        "build": "5.0.2183.1",
+        "compiled_date": "14/11/1999"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "5.0.2190.1",
+        "compiled_date": "30/11/1999"
+    },
+    {
+        "channel": "RTM",
+        "build": "5.0.2195.1",
+        "compiled_date": "07/12/1999"
+    },
+    {
+        "channel": "Service Pack 1",
+        "build": "5.0.2195.1600",
+        "compiled_date": "25/04/2000"
+    },
+    {
+        "channel": "Service Pack 1",
+        "build": "5.0.2195.1610",
+        "compiled_date": "15/06/2000"
+    },
+    {
+        "channel": "Service Pack 1",
+        "build": "5.0.2195.1620",
+        "compiled_date": "21/07/2000"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "5.0.2195.2793",
+        "compiled_date": "05/12/2000"
+    },
+    {
+        "channel": "Service Pack 2",
+        "build": "5.0.2195.2951",
+        "compiled_date": "04/05/2001"
+    },
+    {
+        "channel": "Service Pack 3",
+        "build": "5.0.2195.4448",
+        "compiled_date": "30/10/2001"
+    },
+    {
+        "channel": "Service Pack 3",
+        "build": "5.0.2195.5438",
+        "compiled_date": "22/07/2002"
+    },
+    {
+        "channel": "Service Pack 4",
+        "build": "5.0.2195.6623",
+        "compiled_date": "10/12/2002"
+    },
+    {
+        "channel": "Service Pack 4",
+        "build": "5.0.2195.6632",
+        "compiled_date": "29/01/2003"
+    },
+    {
+        "channel": "Service Pack 4",
+        "build": "5.0.2195.6697",
+        "compiled_date": "01/04/2003"
+    },
+    {
+        "channel": "Service Pack 4",
+        "build": "5.0.2195.6704",
+        "compiled_date": "14/04/2003"
+    },
+    {
+        "channel": "Service Pack 4",
+        "build": "5.0.2195.6706",
+        "compiled_date": "22/04/2003"
+    },
+    {
+        "channel": "Service Pack 4",
+        "build": "5.0.2195.6712",
+        "compiled_date": "15/05/2003"
+    },
+    {
+        "channel": "Service Pack 4",
+        "build": "5.0.2195.6715",
+        "compiled_date": "03/06/2003"
+    },
+    {
+        "channel": "Service Pack 4",
+        "build": "5.0.2195.6717 (RC 4.79)",
+        "compiled_date": "11/06/2003"
+    },
+    {
+        "channel": "Service Pack 4",
+        "build": "5.0.2195.6717 (RC 4.80)",
+        "compiled_date": "15/06/2003"
+    },
+    {
+        "channel": "Service Pack 4",
+        "build": "5.0.2195.6717",
+        "compiled_date": "19/06/2003"
+    },
+    {
+        "channel": "Update Rollup 1",
+        "build": "5.0.2195.7020",
+        "compiled_date": "13/01/2005"
+    },
+    {
+        "channel": "Update Rollup 1",
+        "build": "5.0.2195.7035",
+        "compiled_date": "08/04/2005"
+    },
+    {
+        "channel": "Update Rollup 1",
+        "build": "5.0.2195.7045",
+        "compiled_date": "06/05/2005"
+    }
+]

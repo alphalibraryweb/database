@@ -1,0 +1,202 @@
+[
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.026",
+        "compiled_date": "05/04/1991"
+    },
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.034f",
+        "compiled_date": "07/06/1991"
+    },
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.043e",
+        "compiled_date": "27/08/1991"
+    },
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.057",
+        "compiled_date": "17/11/1991"
+    },
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.060",
+        "compiled_date": "04/12/1991"
+    },
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.061d",
+        "compiled_date": "17/12/1991"
+    },
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.068",
+        "compiled_date": "21/01/1992"
+    },
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.071",
+        "compiled_date": "30/01/1992"
+    },
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.103 RC (1992-03-02)",
+        "compiled_date": "02/03/1992"
+    },
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.103 RC (1992-03-10)",
+        "compiled_date": "10/03/1992"
+    },
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.103(RTM)",
+        "compiled_date": "10/03/1992"
+    },
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.103 RC (Italian)",
+        "compiled_date": "11/03/1992"
+    },
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.018",
+        "compiled_date": "18/06/1992"
+    },
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.019",
+        "compiled_date": "18/06/1992"
+    },
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.104",
+        "compiled_date": "24/03/1993"
+    },
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.127",
+        "compiled_date": "04/06/1994"
+    },
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.141",
+        "compiled_date": "05/01/1993"
+    },
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.153 (beta)",
+        "compiled_date": "26/07/1993"
+    },
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.151",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.153",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.158",
+        "compiled_date": "04/04/1993"
+    },
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.160",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.161",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "Windows 3.1",
+        "build": "3.10.165",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "Windows 3.11",
+        "build": "3.11.002",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "Windows 3.11",
+        "build": "3.11.050",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "Windows 3.2",
+        "build": "3.20.153 (Red China)",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "Windows 3.2",
+        "build": "3.20.153",
+        "compiled_date": "10/11/1994"
+    },
+    {
+        "channel": "Windows for Workgroups 3.1",
+        "build": "Beta 1",
+        "compiled_date": "02/04/1992"
+    },
+    {
+        "channel": "Windows for Workgroups 3.1",
+        "build": "3.10.014e",
+        "compiled_date": "01/07/1992"
+    },
+    {
+        "channel": "Windows for Workgroups 3.1",
+        "build": "3.10.024",
+        "compiled_date": "27/07/1992"
+    },
+    {
+        "channel": "Windows for Workgroups 3.1",
+        "build": "3.10.027",
+        "compiled_date": "10/08/1992"
+    },
+    {
+        "channel": "Windows for Workgroups 3.1",
+        "build": "3.10.102",
+        "compiled_date": "01/10/1992"
+    },
+    {
+        "channel": "Windows for Workgroups 3.11",
+        "build": "3.11.026",
+        "compiled_date": "07/02/1993"
+    },
+    {
+        "channel": "Windows for Workgroups 3.11",
+        "build": "3.11.048",
+        "compiled_date": "07/05/1993"
+    },
+    {
+        "channel": "Windows for Workgroups 3.11",
+        "build": "3.11.070",
+        "compiled_date": "12/08/1993"
+    },
+    {
+        "channel": "Windows for Workgroups 3.11",
+        "build": "3.11.100",
+        "compiled_date": "15/09/1993"
+    },
+    {
+        "channel": "Windows for Workgroups 3.11",
+        "build": "3.11.300 RC (1993-10-13)",
+        "compiled_date": "13/10/1993"
+    },
+    {
+        "channel": "Windows for Workgroups 3.11",
+        "build": "3.11.300 RC (1993-10-21)",
+        "compiled_date": "21/10/1993"
+    },
+    {
+        "channel": "Windows for Workgroups 3.11",
+        "build": "3.11.300",
+        "compiled_date": "01/11/1993"
+    }
+]
