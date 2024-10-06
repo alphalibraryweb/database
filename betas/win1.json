@@ -2,7 +2,10 @@
     {
         "channel": "Development releases",
         "build": "Development Release #5",
-        "compiled_date": "31/10/1984"
+        "compiled_date": "31/10/1984",
+        "downloads": {
+            "internetarchive":"https://archive.org/download/windows-1.x-collection/Windows%201.0%20DR5%20%2831-10-1984%29.zip"
+        }
     },
     {
         "channel": "Pre-release",
