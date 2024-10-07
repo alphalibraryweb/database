@@ -91,6 +91,11 @@
     },
     {
         "channel": "Milestone 2",
+        "build": "7891.0.FBL_DNT2_DCON1.101129-1700",
+        "compiled_date": "29/11/2010"
+    },
+    {
+        "channel": "Milestone 2",
         "build": "7898.0.fbl_core1_kernel_npc_ext.101209-1746",
         "compiled_date": "09/12/2010"
     },

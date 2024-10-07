@@ -1,0 +1,37 @@
+[
+    {
+        "channel": "Pre-Public Preview",
+        "build": "18875.1000.rs_prerelease.190405-1518",
+        "compiled_date": "05/04/2019"
+    },
+    {
+        "channel": "Pre-Public Preview",
+        "build": "19541.1000.rs_prerelease.200102-1216",
+        "compiled_date": "02/01/2020"
+    },
+    {
+        "channel": "Public Preview",
+        "build": "19563.1000.rs_prerelease.200206-1533",
+        "compiled_date": "06/02/2020"
+    },
+    {
+        "channel": "Public Preview",
+        "build": "19578.1000.rs_prerelease.200302-1634",
+        "compiled_date": "02/03/2020"
+    },
+    {
+        "channel": "Public Preview",
+        "build": "19602.1000.rs_fx.200402-1713",
+        "compiled_date": "02/04/2020"
+    },
+    {
+        "channel": "Public Preview",
+        "build": "20274.1000.fe_release_10x.201202-1415",
+        "compiled_date": "02/12/2020"
+    },
+    {
+        "channel": "Public Preview",
+        "build": "20279.1002.fe_release_10x.201214-1532",
+        "compiled_date": "14/12/2020"
+    }
+]

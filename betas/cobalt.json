@@ -1,0 +1,167 @@
+[
+    {
+        "channel": "Pre-Dev Channel",
+        "build": "21262.1000.rs_prerelease.201113-1441",
+        "compiled_date": "13/11/2020"
+    },
+    {
+        "channel": "Dev Channel (rs_prereleasebranch)",
+        "build": "21277.1000.rs_prerelease.201207-1443",
+        "compiled_date": "07/12/2020"
+    },
+    {
+        "channel": "Dev Channel (rs_prereleasebranch)",
+        "build": "21286.1000.rs_prerelease.201218-1418",
+        "compiled_date": "18/12/2020"
+    },
+    {
+        "channel": "Dev Channel (rs_prereleasebranch)",
+        "build": "21292.1000.rs_prerelease.210108-1514",
+        "compiled_date": "08/01/2021"
+    },
+    {
+        "channel": "Dev Channel (rs_prereleasebranch)",
+        "build": "21292.1010.rs_prerelease_flt.210108-1700",
+        "compiled_date": "08/01/2021"
+    },
+    {
+        "channel": "Dev Channel (rs_prereleasebranch)",
+        "build": "21296.1000.rs_prerelease.210115-1423",
+        "compiled_date": "15/01/2021"
+    },
+    {
+        "channel": "Dev Channel (rs_prereleasebranch)",
+        "build": "21296.1010.rs_prerelease_flt.210115-1453",
+        "compiled_date": "15/01/2021"
+    },
+    {
+        "channel": "Dev Channel (rs_prereleasebranch)",
+        "build": "21301.1000.rs_prerelease.210123-1645",
+        "compiled_date": "23/01/2021"
+    },
+    {
+        "channel": "Dev Channel (rs_prereleasebranch)",
+        "build": "21301.1010.rs_prerelease_flt.210123-1754",
+        "compiled_date": "23/01/2021"
+    },
+    {
+        "channel": "Dev Channel (rs_prereleasebranch)",
+        "build": "21313.1000.rs_prerelease.210209-1440",
+        "compiled_date": "09/02/2021"
+    },
+    {
+        "channel": "Dev Channel (rs_prereleasebranch)",
+        "build": "21318.1000.rs_prerelease.210216-1530",
+        "compiled_date": "16/02/2021"
+    },
+    {
+        "channel": "Dev Channel (rs_prereleasebranch)",
+        "build": "21322.1000.rs_prerelease.210220-1651",
+        "compiled_date": "20/02/2021"
+    },
+    {
+        "channel": "Dev Channel (rs_prereleasebranch)",
+        "build": "21327.1000.rs_prerelease.210226-1427",
+        "compiled_date": "26/02/2021"
+    },
+    {
+        "channel": "Dev Channel (rs_prereleasebranch)",
+        "build": "21327.1010.rs_prerelease_flt.210226-1700",
+        "compiled_date": "26/02/2021"
+    },
+    {
+        "channel": "Dev Channel (rs_prereleasebranch)",
+        "build": "21332.1000.rs_prerelease.210306-1859",
+        "compiled_date": "06/03/2021"
+    },
+    {
+        "channel": "Dev Channel (rs_prereleasebranch)",
+        "build": "21332.1010.rs_prerelease_flt.210307-1057",
+        "compiled_date": "07/03/2021"
+    },
+    {
+        "channel": "Dev Channel (rs_prereleasebranch)",
+        "build": "21337.1000.rs_prerelease.210312-1502",
+        "compiled_date": "12/03/2021"
+    },
+    {
+        "channel": "Dev Channel (rs_prereleasebranch)",
+        "build": "21337.1010.rs_prerelease_flt.210312-1700",
+        "compiled_date": "12/03/2021"
+    },
+    {
+        "channel": "Dev Channel (rs_prereleasebranch)",
+        "build": "21343.1000.rs_prerelease.210320-1757",
+        "compiled_date": "20/03/2021"
+    },
+    {
+        "channel": "Dev Channel (co_releasebranch)",
+        "build": "21354.1.co_release.210402-1630",
+        "compiled_date": "02/04/2021"
+    },
+    {
+        "channel": "Dev Channel (co_releasebranch)",
+        "build": "21359.1.co_release.210409-1536",
+        "compiled_date": "09/04/2021"
+    },
+    {
+        "channel": "Dev Channel (co_releasebranch)",
+        "build": "21364.1.co_release.210416-1504",
+        "compiled_date": "16/04/2021"
+    },
+    {
+        "channel": "Dev Channel (co_releasebranch)",
+        "build": "21364.1000.co_release_svc_prod1.210417-1937",
+        "compiled_date": "17/04/2021"
+    },
+    {
+        "channel": "Dev Channel (co_releasebranch)",
+        "build": "21364.1011.co_release_svc_prod2.210421-0236",
+        "compiled_date": "21/04/2021"
+    },
+    {
+        "channel": "Dev Channel (co_releasebranch)",
+        "build": "21370.1.co_release.210424-1611",
+        "compiled_date": "24/04/2021"
+    },
+    {
+        "channel": "Dev Channel (co_releasebranch)",
+        "build": "21376.1.co_release.210503-1432",
+        "compiled_date": "03/05/2021"
+    },
+    {
+        "channel": "Dev Channel (co_releasebranch)",
+        "build": "21382.1.co_release.210511-1416",
+        "compiled_date": "11/05/2021"
+    },
+    {
+        "channel": "Dev Channel (co_releasebranch)",
+        "build": "21382.1000.co_release_svc_prod1.210511-1436",
+        "compiled_date": "11/05/2021"
+    },
+    {
+        "channel": "Dev Channel (co_releasebranch)",
+        "build": "21387.1.co_release.210518-1436",
+        "compiled_date": "18/05/2021"
+    },
+    {
+        "channel": "Dev Channel (co_releasebranch)",
+        "build": "21390.1.co_release.210521-1658",
+        "compiled_date": "21/05/2021"
+    },
+    {
+        "channel": "Dev Channel (co_releasebranch)",
+        "build": "21390.1000.co_release_svc_prod1.210524-1655",
+        "compiled_date": "21/05/2021"
+    },
+    {
+        "channel": "Dev Channel (co_releasebranch)",
+        "build": "21390.1010.co_release_svc_prod2.210524-1306",
+        "compiled_date": "21/05/2021"
+    },
+    {
+        "channel": "Dev Channel (co_releasebranch)",
+        "build": "21390.2025.co_release_svc_im.210527-1818",
+        "compiled_date": "21/05/2021"
+    }
+]
