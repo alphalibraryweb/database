@@ -2,32 +2,50 @@
     {
         "channel": "Early releases",
         "build": "Windows/386 2.01",
-        "compiled_date": "07/09/1987"
+        "compiled_date": "07/09/1987",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/windows2x/Windows2.01/Windows2.01.7z"
+        }
     },
     {
         "channel": "Retail releases",
         "build": "Windows 2.03",
-        "compiled_date": "16/11/1987"
+        "compiled_date": "16/11/1987",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/windows2x/Windows2.03/Microsoft%20Windows%202.03%20%283.5%29.7z"
+        }
     },
     {
         "channel": "Retail releases",
         "build": "Windows/386 2.03",
-        "compiled_date": "14/01/1988"
+        "compiled_date": "14/01/1988",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/windows2x/Windows2.10-386/Microsoft%20Windows%202.03%20386%20%283.5%29.7z"
+        }
     },
     {
         "channel": "Retail releases",
         "build": "Windows/286 2.1",
-        "compiled_date": "27/05/1988"
+        "compiled_date": "27/05/1988",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/windows2x/Windows2.10-286/Microsoft%20Windows%202.10%20286%20%281988-07-20%29%20%283.5-720k%29.7z"
+        }
     },
     {
         "channel": "Retail releases",
         "build": "Windows/386 2.1",
-        "compiled_date": "09/09/1988"
+        "compiled_date": "09/09/1988",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/windows2x/Windows2.10-386/Microsoft%20Windows%202.10%20%28386%29%20%283.5%29.7z"
+        }
     },
     {
         "channel": "Retail releases",
         "build": "Windows/286 2.11",
-        "compiled_date": "15/05/1989"
+        "compiled_date": "15/05/1989",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/windows2x/Windows2.10-286/Microsoft%20Windows%202.11%20286%20%283.5-720k%29.7z"
+        }
     },
     {
         "channel": "Retail releases",
@@ -37,6 +55,9 @@
     {
         "channel": "Retail releases",
         "build": "Windows/386 2.11",
-        "compiled_date": "14/03/1989"
+        "compiled_date": "14/03/1989",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/windows2x/Windows2.10-386/Microsoft%20Windows%202.11%20%28386%29%20%283.5%29.7z"
+        }
     }
 ]
