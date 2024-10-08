@@ -10,17 +10,26 @@
     {
         "channel": "Pre-release",
         "build": "Alpha Release",
-        "compiled_date": "31/01/1985"
+        "compiled_date": "31/01/1985",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/windows-1.x-collection/Windows%201.0%20Alpha%20%2831-01-1985%29.zip"
+        }
     },
     {
         "channel": "Pre-release",
         "build": "Beta Release",
-        "compiled_date": "08/05/1985"
+        "compiled_date": "08/05/1985",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/windows-1.x-collection/Windows%201.0%20Beta%20%2808-05-1985%29.zip"
+        }
     },
     {
         "channel": "Pre-release",
         "build": "Premiere Edition",
-        "compiled_date": "30/07/1985"
+        "compiled_date": "30/07/1985",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/windows-1.x-collection/Windows%201.0%20Premiere%20Edition%20%2830-07-1985%29.zip"
+        }
     },
     {
         "channel": "Pre-release",
@@ -30,32 +39,50 @@
     {
         "channel": "Early OEM release",
         "build": "1.xx",
-        "compiled_date": "03/09/1985"
+        "compiled_date": "03/09/1985",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/windows-1.x-collection/Windows%201.01%201.xx%20%28CompuData%20OEM%2C%2031-09-1985%29.zip"
+        }
     },
     {
         "channel": "Retail release",
         "build": "1.01",
-        "compiled_date": "15/11/1985"
+        "compiled_date": "15/11/1985",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/windows-1.x-collection/Windows%201.01%20%2820-11-1985%29.zip"
+        }
     },
     {
         "channel": "Retail release",
         "build": "TC 1.00(Tulip OEM)",
-        "compiled_date": "11/02/1986"
+        "compiled_date": "11/02/1986",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/windows-1.x-collection/Windows%20TC%201.00%20%28Tulip%20Computers%20OEM%2C%201986%29.zip"
+        }
     },
     {
         "channel": "Retail release",
         "build": "1.AX(Zenith Z-100 OEM)",
-        "compiled_date": "Unknown"
+        "compiled_date": "Unknown",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/windows-1.x-collection/Windows%201.AX%20%28Zenith%20Z-100%20OEM%29.zip"
+        }
     },
     {
         "channel": "Retail release",
         "build": "1.02",
-        "compiled_date": "15/01/1986"
+        "compiled_date": "15/01/1986",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/windows-1.x-collection/Windows%201.02%20%2805-1986%29.zip"
+        }
     },
     {
         "channel": "Retail release",
         "build": "1.03",
-        "compiled_date": "Unknown"
+        "compiled_date": "Unknown",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/windows-1.x-collection/Windows%201.03%20%2821-08-1986%29.zip"
+        }
     },
     {
         "channel": "Retail release",
@@ -80,6 +107,9 @@
     {
         "channel": "Retail release",
         "build": "1.04",
-        "compiled_date": "Unknown"
+        "compiled_date": "Unknown",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/windows-1.x-collection/Windows%201.04%20%2804-1987%29.zip"
+        }
     }
 ]
