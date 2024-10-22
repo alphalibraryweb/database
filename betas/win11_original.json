@@ -1,13 +1,43 @@
 [
     {
         "channel": "Pre-Dev Channel",
+        "build": "21370.1003.fs_dev6_flt.210430-1730",
+        "compiled_date": "30/04/2021",
+        "downloads": {
+            "onedrive": "https://orangera1nwashere-my.sharepoint.com/:u:/r/personal/microsoftdata3_orangera1nwashere_onmicrosoft_com/Documents/Windows/NT%2010.0%20(Windows%2011,%20v21H2)/3.%20Cobalt/10.0.21370.1003.fs_dev6_flt.210430-1730/AMD64FRE_CLIENT_CONSUMER_x64FRE_en-us.iso?csf=1&web=1&e=WtyK6Y"
+        }
+    },
+    {
+        "channel": "Pre-Dev Channel",
+        "build": "21376.1002.fs_dev6_flt.210506-1900",
+        "compiled_date": "06/05/2021",
+        "downloads": {
+            "onedrive": "https://orangera1nwashere-my.sharepoint.com/:u:/r/personal/microsoftdata3_orangera1nwashere_onmicrosoft_com/Documents/Windows/NT%2010.0%20(Windows%2011,%20v21H2)/3.%20Cobalt/10.0.21376.1002.fs_dev6_flt.210506-1900/AMD64FRE_client_en-us.iso?csf=1&web=1&e=vPFeum"
+        }
+    },
+    {
+        "channel": "Pre-Dev Channel",
         "build": "21380.1001.fs_dev6_flt.210511-1900",
-        "compiled_date": "11/05/2021"
+        "compiled_date": "11/05/2021",
+        "downloads": {
+            "onedrive": "https://orangera1nwashere-my.sharepoint.com/:u:/r/personal/microsoftdata3_orangera1nwashere_onmicrosoft_com/Documents/Windows/NT%2010.0%20(Windows%2011,%20v21H2)/3.%20Cobalt/10.0.21380.1001.fs_dev6_flt.210511-1900/amd64fre_client-multisku_en-us.iso?csf=1&web=1&e=f0qgbQ"
+        }
+    },
+    {
+        "channel": "Pre-Dev Channel",
+        "build": "21385.1002.fs_dev6_flt.210519-1900",
+        "compiled_date": "19/05/2021",
+        "downloads": {
+            "onedrive": "https://orangera1nwashere-my.sharepoint.com/:u:/r/personal/microsoftdata3_orangera1nwashere_onmicrosoft_com/Documents/Windows/NT%2010.0%20(Windows%2011,%20v21H2)/3.%20Cobalt/10.0.21385.1002.fs_dev6_flt.210519-1900/amd64fre_CLIENT_PRO_en-us.iso?csf=1&web=1&e=xrsmLs"
+        }
     },
     {
         "channel": "Pre-Dev Channel",
         "build": "21996.1.co_release.210529-1541",
-        "compiled_date": "29/05/2021"
+        "compiled_date": "29/05/2021",
+        "downloads": {
+            "onedrive": "https://orangera1nwashere-my.sharepoint.com/:u:/r/personal/microsoftdata3_orangera1nwashere_onmicrosoft_com/Documents/Windows/NT%2010.0%20(Windows%2011,%20v21H2)/3.%20Cobalt/10.0.21996.1.co_release.210529-1541/amd64fre_client-multisku_en-us.iso?csf=1&web=1&e=rqEizi"
+        }
     },
     {
         "channel": "Pre-Dev Channel",

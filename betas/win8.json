@@ -11,8 +11,18 @@
     },
     {
         "channel": "Milestone 1",
+        "build": "7753.0.fbl_grfx.100516-2126",
+        "compiled_date": "16/05/2010"
+    },
+    {
+        "channel": "Milestone 1",
         "build": "7762.0.fbl_grfx_dev1.100613-1700",
         "compiled_date": "13/06/2010"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "7776.fbl_grfx_dev1.100708-1700",
+        "compiled_date": "08/07/2010"
     },
     {
         "channel": "Milestone 1",
@@ -31,8 +41,18 @@
     },
     {
         "channel": "Milestone 1",
+        "build": "7790.0.fbl_grfx.100728-2000",
+        "compiled_date": "28/07/2010"
+    },
+    {
+        "channel": "Milestone 1",
         "build": "7791.0.fbl_core1_kernel.100802-1700",
         "compiled_date": "02/08/2010"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "7791.0.fbl_core1_kernel_ee_fwproto_lpia.100804-1115",
+        "compiled_date": "04/08/2010"
     },
     {
         "channel": "Milestone 1",
@@ -46,8 +66,28 @@
     },
     {
         "channel": "Milestone 1",
+        "build": "7799.0.fbl_core1_kernel_ee_fwproto_lpia.100822-1200",
+        "compiled_date": "22/08/2010"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "7800.fbl_core1_hyp_dev.100818-1700",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "7801.0.fbl_grfx_dev1.100818-1700",
+        "compiled_date": "18/08/2010"
+    },
+    {
+        "channel": "Milestone 1",
         "build": "7814.0.fbl_core1_kernel_ee.100907-1700",
         "compiled_date": "07/09/2010"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "7822.0.fbl_core1_kernel_ee_fwproto_lpia.100926-1200",
+        "compiled_date": "26/09/2010"
     },
     {
         "channel": "Milestone 1",
@@ -66,8 +106,18 @@
     },
     {
         "channel": "Milestone 2",
+        "build": "7861.0.fbl_grfx_dev1.101013-1700",
+        "compiled_date": "13/10/2010"
+    },
+    {
+        "channel": "Milestone 2",
         "build": "7867.0.fbl_core1_kernel_npc_ext.101101-1728",
         "compiled_date": "01/11/2010"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "7871.0.fbl_core1_kernel_npc.101027-2012",
+        "compiled_date": "27/10/2010"
     },
     {
         "channel": "Milestone 2",
@@ -91,6 +141,21 @@
     },
     {
         "channel": "Milestone 2",
+        "build": "7887.0.fbl_grfx_dev1.101118-1700",
+        "compiled_date": "18/11/2010"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "7888.0.fbl_core1_kernel_ee_fwproto_lpia.101124-2300",
+        "compiled_date": "24/11/2010"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "7889.0.fbl_grfx.101121-2000",
+        "compiled_date": "21/11/2010"
+    },
+    {
+        "channel": "Milestone 2",
         "build": "7891.0.FBL_DNT2_DCON1.101129-1700",
         "compiled_date": "29/11/2010"
     },
@@ -103,6 +168,16 @@
         "channel": "Milestone 2",
         "build": "7899.0.fbl_core2_sfs.101209-1900",
         "compiled_date": "09/12/2010"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "7905.0.fbl_grfx_dev1.110105-1700",
+        "compiled_date": "05/01/2011"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "7914.0.fbl_grfx_dev1.110119-1700",
+        "compiled_date": "19/01/2011"
     },
     {
         "channel": "Milestone 2",
@@ -236,13 +311,33 @@
     },
     {
         "channel": "Milestone 3 (Developer Preview)",
+        "build": "8023.0.fbl_core1_kernel_npc.110608-1700",
+        "compiled_date": "08/06/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8031.0.fbl_grfx_dev1.110622-2010",
+        "compiled_date": "Unknown"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
         "build": "8032.0.fbl_core2_sid_data.110623-2054",
         "compiled_date": "23/06/2011"
     },
     {
         "channel": "Milestone 3 (Developer Preview)",
+        "build": "8036.0.fbl_dnt3_wireless.110629-1800",
+        "compiled_date": "29/06/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
         "build": "8038.0.winmain.110630-1810",
         "compiled_date": "30/06/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8040.0.fbl_grfx_dev1.110706-1700",
+        "compiled_date": "06/07/2011"
     },
     {
         "channel": "Milestone 3 (Developer Preview)",
@@ -285,6 +380,11 @@
         "compiled_date": "06/08/2011"
     },
     {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8066.0.fbl_dnt2_bus.110810-1700",
+        "compiled_date": "10/08/2011"
+    },
+    {
         "channel": "Milestone 3 (Developer Preview)",
         "build": "8090.0.winmain_win8m3.110805-1930",
         "compiled_date": "05/08/2011"
@@ -306,7 +406,32 @@
     },
     {
         "channel": "Milestone 3 (Developer Preview)",
+        "build": "8102.105.winmain_win8m3.110907-1505",
+        "compiled_date": "30/08/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8102.106.winmain_win8m3.110908-1424",
+        "compiled_date": "30/08/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8102.108.winmain_win8m3.110911-1502",
+        "compiled_date": "30/08/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
         "build": "8102.109.winmain_win8m3.110912-1733",
+        "compiled_date": "30/08/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8102.110.winmain_win8m3.110913-1848",
+        "compiled_date": "30/08/2011"
+    },
+    {
+        "channel": "Milestone 3 (Developer Preview)",
+        "build": "8102.112.winmain_win8m3.110915-1505",
         "compiled_date": "30/08/2011"
     },
     {
@@ -323,6 +448,16 @@
         "channel": "Beta (Consumer Preview)",
         "build": "8118.0.fbl_core2_sfs.110921-1900",
         "compiled_date": "21/09/2011"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8121.0.winmain.110922-1933",
+        "compiled_date": "22/09/2011"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8123.0.fbl_grfx_dev1.110928-1700",
+        "compiled_date": "28/09/2011"
     },
     {
         "channel": "Beta (Consumer Preview)",
@@ -361,6 +496,11 @@
     },
     {
         "channel": "Beta (Consumer Preview)",
+        "build": "8142.0.fbl_core2_sfs.111026-1900",
+        "compiled_date": "26/10/2011"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
         "build": "8148.0.winmain.111103-1846",
         "compiled_date": "03/11/2011"
     },
@@ -376,6 +516,16 @@
     },
     {
         "channel": "Beta (Consumer Preview)",
+        "build": "8167.0.fbl_grfx_dev1.111207-1400",
+        "compiled_date": "07/12/2011"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8175.0.fbl_core2_sfs.111219-1900",
+        "compiled_date": "19/12/2011"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
         "build": "8175.5.fbl_dev_dp4.120111-2201",
         "compiled_date": "11/01/2012"
     },
@@ -383,6 +533,11 @@
         "channel": "Beta (Consumer Preview)",
         "build": "8176.0.fbl_core2_sid_dev.120104-2026",
         "compiled_date": "04/01/2012"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8181.0.fbl_dnt2_bus.120111-1930",
+        "compiled_date": "11/01/2012"
     },
     {
         "channel": "Beta (Consumer Preview)",
@@ -398,6 +553,11 @@
         "channel": "Beta (Consumer Preview)",
         "build": "8187.0.fbl_core2_sid_dev.120119-1824",
         "compiled_date": "19/01/2012"
+    },
+    {
+        "channel": "Beta (Consumer Preview)",
+        "build": "8191.0.fbl_grfx_dev1.120125-1400",
+        "compiled_date": "25/01/2012"
     },
     {
         "channel": "Beta (Consumer Preview)",
@@ -446,6 +606,11 @@
     },
     {
         "channel": "Release Candidate (Release Preview)",
+        "build": "8318.fbl_core1_soc.120409-2355",
+        "compiled_date": "09/04/2012"
+    },
+    {
+        "channel": "Release Candidate (Release Preview)",
         "build": "8330.0.fbl_woa.120424-2227",
         "compiled_date": "24/04/2012"
     },
@@ -483,6 +648,11 @@
         "channel": "Pre-RTM",
         "build": "8423.0.fbl_loc.120528-2000",
         "compiled_date": "28/05/2012"
+    },
+    {
+        "channel": "Pre-RTM",
+        "build": "8427.0.fbl_appx_client.120604-1700",
+        "compiled_date": "04/06/2012"
     },
     {
         "channel": "Pre-RTM",

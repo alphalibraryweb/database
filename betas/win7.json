@@ -11,6 +11,11 @@
     },
     {
         "channel": "Milestone 1",
+        "build": "6509.1.winmain.071206-1855",
+        "compiled_date": "06/12/2007"
+    },
+    {
+        "channel": "Milestone 1",
         "build": "6519.1.winmain.071220-1525",
         "compiled_date": "20/12/2007"
     },
@@ -38,6 +43,11 @@
         "channel": "Milestone 3",
         "build": "6758.0.winmain.080724-1015",
         "compiled_date": "24/07/2008"
+    },
+    {
+        "channel": "Milestone 3",
+        "build": "6767.0.winmain.080807-2001",
+        "compiled_date": "07/08/2008"
     },
     {
         "channel": "Milestone 3",
@@ -76,6 +86,11 @@
     },
     {
         "channel": "Beta",
+        "build": "6946.0.winmain.081107-1905",
+        "compiled_date": "07/11/2008"
+    },
+    {
+        "channel": "Beta",
         "build": "6956.0.winmain.081122-1150",
         "compiled_date": "22/11/2008"
     },
@@ -91,8 +106,18 @@
     },
     {
         "channel": "Release Candidate",
+        "build": "7032.0.winmain.090129-1812",
+        "compiled_date": "29/01/2009"
+    },
+    {
+        "channel": "Release Candidate",
         "build": "7048.0.winmain.090219-1845",
         "compiled_date": "19/02/2009"
+    },
+    {
+        "channel": "Release Candidate",
+        "build": "7051.0.winmain.090224-1840",
+        "compiled_date": "24/02/2009"
     },
     {
         "channel": "Release Candidate",
@@ -108,6 +133,11 @@
         "channel": "Release Candidate",
         "build": "7062.0.winmain.090312-1900",
         "compiled_date": "12/03/2009"
+    },
+    {
+        "channel": "Release Candidate",
+        "build": "7063.0.winmain.090313-1842",
+        "compiled_date": "13/03/2009"
     },
     {
         "channel": "Release Candidate",

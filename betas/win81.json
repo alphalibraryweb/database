@@ -75,6 +75,11 @@
         "compiled_date": "24/06/2013"
     },
     {
+        "channel": "Pre-RTM",
+        "build": "9452.0.fbl_uex_txt.130629-1316",
+        "compiled_date": "29/06/2013"
+    },
+    {
         "channel": "RTM Escrow",
         "build": "9457.0.fbl_loc.130708-1930",
         "compiled_date": "08/07/2013"
@@ -143,6 +148,11 @@
         "channel": "GA Update",
         "build": "9600.16596.winblues14_gdr_lean.140114-0237",
         "compiled_date": "14/01/2014"
+    },
+    {
+        "channel": "GA Update",
+        "build": "9600.16601.winblues14_gdr_uex.140121-2030",
+        "compiled_date": "21/01/2014"
     },
     {
         "channel": "GA Update",
