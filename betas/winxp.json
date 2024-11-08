@@ -2,466 +2,745 @@
     {
         "channel": "Beta 1",
         "build": "2202.1",
-        "compiled_date": "02/02/2000"
+        "compiled_date": "02/02/2000",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.00.2202.1.ntvbl06.000202-1835_x86fre_client-professional_retail_en-us-W2KPFRE_EN.iso"
+        }
     },
     {
         "channel": "Beta 1",
         "build": "2210.1.main.000302-1934",
-        "compiled_date": "02/03/2000"
+        "compiled_date": "02/03/2000",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/thewhistlerarchive/Windows%20Whistler%20build%202210.iso"
+        }
     },
     {
         "channel": "Beta 1",
         "build": "2211.1.main.000309-1512",
-        "compiled_date": "09/03/2000"
+        "compiled_date": "09/03/2000",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.00.2211.1.main.000309-1512_x86fre_client-professional_retail_en-us-W2KPFRE_EN.iso"
+        }
     },
     {
         "channel": "Beta 1",
         "build": "2223.1.main.000411-2307",
-        "compiled_date": "11/04/2000"
+        "compiled_date": "11/04/2000",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2223.1.main.000411-2307_x86fre_client-professional_retail_en-us-W2KPFRE_EN.iso"
+        }
     },
     {
         "channel": "Beta 1",
         "build": "2250.1.main.000628-2110",
-        "compiled_date": "28/06/2000"
+        "compiled_date": "28/06/2000",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2250.1.main.000628-2110_x86fre_client-professional_retail_en-us-W2KPFRE_EN.iso"
+        }
     },
     {
         "channel": "Beta 1",
         "build": "2257.1.idx01.000810-2103",
-        "compiled_date": "10/08/2000"
+        "compiled_date": "10/08/2000",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2257.1.idx01.000810-2103_x86fre_client-professional_retail_en-us-W2KPFRE_EN.iso"
+        }
     },
     {
         "channel": "Beta 1",
         "build": "2264.1.main.000825-2152",
-        "compiled_date": "25/08/2000"
+        "compiled_date": "25/08/2000",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2264.1.main.000825-2152_x86fre_client-professional_retail_en-us-W2PRO_EN.iso"
+        }
     },
     {
         "channel": "Beta 1",
         "build": "2267.1.idx01.000909-1503",
-        "compiled_date": "09/09/2000"
+        "compiled_date": "09/09/2000",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2267.1.idx01.000909-1503_x86chk_client-professional_retail_en-us-W2PRO_EN.iso"
+        }
     },
     {
         "channel": "Beta 1",
         "build": "2267.1.idx01.000910-1316",
-        "compiled_date": "10/09/2000"
+        "compiled_date": "10/09/2000",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2267.1.idx01.000910-1316_x86fre_client-professional_retail_en-us-W2KPFRE_EN.iso"
+        }
     },
     {
         "channel": "Beta 1",
         "build": "2276.1.lab02_n.000928-2023",
-        "compiled_date": "28/09/2000"
+        "compiled_date": "28/09/2000",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2276.1.lab02_n.000928-2023_x86fre_client-professional_retail_en-us-WB1PFRE_EN.iso"
+        }
     },
     {
         "channel": "Beta 1",
         "build": "2287.1.beta1.001012-1643",
-        "compiled_date": "12/10/2000"
+        "compiled_date": "12/10/2000",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2287.1.beta1.001012-1643_x86fre_client-professional_retail_en-us-WB1PFRE_EN.iso"
+        }
     },
     {
         "channel": "Beta 1",
         "build": "2296.1.beta1.001024-1157",
-        "compiled_date": "24/10/2000"
+        "compiled_date": "24/10/2000",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2296.1.beta1.001024-1157_x86fre_client-professional_retail_en-us-WB1PFRE_EN.iso"
+        }
     },
     {
         "channel": "Beta 2",
         "build": "2410.main.001208-1937",
-        "compiled_date": "08/12/2000"
+        "compiled_date": "08/12/2000",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2410.1.main.001208-1937_x86fre_client-professional_retail_en-us-WB1PFRE_EN.iso"
+        }
     },
     {
         "channel": "Beta 2",
         "build": "2416.idx01.010104-1958",
-        "compiled_date": "04/01/2001"
+        "compiled_date": "04/01/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2416.1.idx01.010104-1958_x86fre_client-professional_retail_en-us%20%28IDS%29.zip"
+        }
     },
     {
         "channel": "Beta 2",
         "build": "2419.idx02.010113-1154",
-        "compiled_date": "13/01/2001"
+        "compiled_date": "13/01/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2419.1.idx02.010113-1154_x86fre_client-professional_retail_en-us-WB2PFRE_EN.iso"
+        }
     },
     {
         "channel": "Beta 2",
         "build": "2419.idx02.010115-1412",
-        "compiled_date": "15/01/2001"
+        "compiled_date": "15/01/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2419.1.idx02.010115-1412_x86chk_client-professional_retail_en-us-WB2PCHK_EN.iso"
+        }
     },
     {
         "channel": "Beta 2",
         "build": "2428.idx01.010129-1827",
-        "compiled_date": "29/01/2001"
+        "compiled_date": "29/01/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2428.1.idx01.010129-1827_x86fre_client-professional_retail_en-us-WB2PFRE_EN.iso"
+        }
     },
     {
         "channel": "Beta 2",
         "build": "2430.main.010130-1821",
-        "compiled_date": "30/01/2001"
+        "compiled_date": "30/01/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2430.1.main.010130-1821_x86fre_client-professional_retail_en-us-WB2PFRE_EN.iso"
+        }
     },
     {
         "channel": "Beta 2",
         "build": "2433.main.010206-1822",
-        "compiled_date": "06/02/2001"
+        "compiled_date": "06/02/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2433.1.main.010206-1822_x86fre_client-home_retail_en-us-PER_1OF12.iso"
+        }
     },
     {
         "channel": "Beta 2",
         "build": "2442.main.010217-1630",
-        "compiled_date": "17/02/2001"
+        "compiled_date": "17/02/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2442.1.main.010217-1630_x86fre_client-home_retail_zh-cn-WB2PLFRE_CN.iso"
+        }
     },
     {
         "channel": "Beta 2",
         "build": "2446.main.010224-2228",
-        "compiled_date": "24/02/2001"
+        "compiled_date": "24/02/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2446.1.main.010224-2228_x86fre_client-professional_retail_en-us-WB2PFRE_EN.iso"
+        }
     },
     {
         "channel": "Beta 2",
         "build": "2454.main.010306-1653",
-        "compiled_date": "06/03/2001"
+        "compiled_date": "06/03/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2454.1.main.010306-1653_x86fre_client-professional_retail_en-us-WB2PFRE_EN.iso"
+        }
     },
     {
         "channel": "Beta 2",
         "build": "2457.main.010309-1904",
-        "compiled_date": "09/03/2001"
+        "compiled_date": "09/03/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2457.0.main.010309-1904_x86fre_client-home_retail_en-us-WB2PLFRE_EN.iso"
+        }
     },
     {
         "channel": "Beta 2",
         "build": "2458.main.010310-1552",
-        "compiled_date": "10/03/2001"
+        "compiled_date": "10/03/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2458.0.main.010310-1552_x86fre_client-professional_retail_en-us-WB2PFRE_EN.iso"
+        }
     },
     {
         "channel": "Beta 2",
         "build": "2459.main.010312-1811",
-        "compiled_date": "12/03/2001"
+        "compiled_date": "12/03/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2459.0.main.010312-1811_x86fre_client-professional_retail_en-us-WB2PFRE_EN.iso"
+        }
     },
     {
         "channel": "Beta 2",
         "build": "2462.main.010315-1720",
-        "compiled_date": "15/03/2001"
+        "compiled_date": "15/03/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2462.0.main.010315-1720_x86chk_client-professional_retail_en-us-WB2PCHK_EN.iso"
+        }
     },
     {
         "channel": "Beta 2",
         "build": "2462.main.010315-1739",
-        "compiled_date": "15/03/2001"
+        "compiled_date": "15/03/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2462.0.main.010315-1739_x86fre_client-professional_retail_en-us-WB2PFRE_EN.iso"
+        }
     },
     {
         "channel": "Release Candidate 1",
         "build": "2463.main.010328-1824",
-        "compiled_date": "28/03/2001"
+        "compiled_date": "28/03/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2463.0.main.010328-1824_x86fre_client-professional_retail_en-us-WB2PFRE_EN.iso"
+        }
     },
     {
         "channel": "Release Candidate 1",
         "build": "2465.idx01.010412-2007",
-        "compiled_date": "12/04/2001"
+        "compiled_date": "12/04/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2465.0.idx01.010412-2007_x86fre_client-professional_retail_en-us-WB2PFRE_EN.iso"
+        }
     },
     {
         "channel": "Release Candidate 1",
         "build": "2469.idx02.010508-1228",
-        "compiled_date": "08/05/2001"
+        "compiled_date": "08/05/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2469.0.idx02.010508-1228_x86fre_client-professional_retail_en-us-WB2PFRE_EN.iso"
+        }
     },
     {
         "channel": "Release Candidate 1",
         "build": "2474.main.010508-1907",
-        "compiled_date": "08/05/2001"
+        "compiled_date": "08/05/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2474.0.main.010508-1907_x86fre_client-professional_retail_en-us-WB2PFRE_EN.iso"
+        }
     },
     {
         "channel": "Release Candidate 1",
         "build": "2475.idx01.010514-2023",
-        "compiled_date": "Unknown"
+        "compiled_date": "Unknown",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2475.0.idx01.010514-2023_x86fre_client-professional_retail_en-us-WB2PFRE_EN.iso"
+        }
     },
     {
         "channel": "Release Candidate 1",
         "build": "2481.main.010523-1905",
-        "compiled_date": "23/05/2001"
+        "compiled_date": "23/05/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2481.0.main.010523-1905_x86fre_client-professional_retail_en-us-WB2PFRE_EN.iso"
+        }
     },
     {
         "channel": "Release Candidate 1",
         "build": "2481.idx01.010524-1743",
-        "compiled_date": "24/05/2001"
+        "compiled_date": "24/05/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2481.0.main.010523-1905_x86fre_client-professional_retail_en-us-WB2PFRE_EN.iso"
+        }
     },
     {
         "channel": "Release Candidate 1",
         "build": "2485.main.010531-2130",
-        "compiled_date": "31/05/2001"
+        "compiled_date": "31/05/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2485.0.main.010531-2130_x86fre_client-professional_retail_en-us-WR1PFRE_EN.iso"
+        }
     },
     {
         "channel": "Release Candidate 1",
         "build": "2486.main.010602-1927",
-        "compiled_date": "02/06/2001"
+        "compiled_date": "02/06/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2486.0.main.010602-1927_x86fre_client-professional_retail_en-us-WR1PFRE_EN.iso"
+        }
     },
     {
         "channel": "Release Candidate 1",
         "build": "2494.main.010613-1739",
-        "compiled_date": "13/06/2001"
+        "compiled_date": "13/06/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2494.0.main.010613-1739_x86fre_client-professional_retail_en-us-XR1PFRE_EN.iso"
+        }
     },
     {
         "channel": "Release Candidate 1",
         "build": "2495.main.010614-1724",
-        "compiled_date": "14/06/2001"
+        "compiled_date": "14/06/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2495.0.main.010614-1724_x86fre_client-professional_retail_en-us-WR1PFRE_EN.iso"
+        }
     },
     {
         "channel": "Release Candidate 1",
         "build": "2498.main.010618-1744",
-        "compiled_date": "18/06/2001"
+        "compiled_date": "18/06/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2498.0.main.010618-1744_x86fre_client-professional_retail_en-us-XR1PFRE_EN.iso"
+        }
     },
     {
         "channel": "Release Candidate 1",
         "build": "2499.main.010619-1834",
-        "compiled_date": "19/06/2001"
+        "compiled_date": "19/06/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2499.0.main.010619-1834_x86fre_client-professional_retail_en-us-XR1PFRE_EN.iso"
+        }
     },
     {
         "channel": "Release Candidate 1",
         "build": "2502.main.010622-1750",
-        "compiled_date": "22/06/2001"
+        "compiled_date": "22/06/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2502.0.main.010622-1750_x86fre_client-professional_retail_en-us-XR1PFRE_EN.iso"
+        }
     },
     {
         "channel": "Release Candidate 1",
         "build": "2504.main.010625-1923",
-        "compiled_date": "25/06/2001"
+        "compiled_date": "25/06/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2504.0.main.010625-1923_x86fre_client-professional_retail_en-us-XR1PFRE_EN.iso"
+        }
     },
     {
         "channel": "Release Candidate 1",
         "build": "2505.main.010626-1514",
-        "compiled_date": "26/06/2001"
+        "compiled_date": "26/06/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2505.0.main.010626-1514_x86fre_client-professional_retail_en-us-XR1PFRE_EN.iso"
+        }
     },
     {
         "channel": "Release Candidate 2",
         "build": "2509.main.010702-1146",
-        "compiled_date": "02/07/2001"
+        "compiled_date": "02/07/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2509.0.main.010702-1146_x86fre_client-professional_retail_en-us-XR1PFRE_EN.iso"
+        }
     },
     {
         "channel": "Release Candidate 2",
         "build": "2517.main.010713-1717",
-        "compiled_date": "13/07/2001"
+        "compiled_date": "13/07/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2517.0.main.010713-1717_x86fre_client-professional_retail_en-us-XR1PFRE_EN.iso"
+        }
     },
     {
         "channel": "Release Candidate 2",
         "build": "2520.main.010717-1624",
-        "compiled_date": "17/07/2001"
+        "compiled_date": "17/07/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2520.0.main.010717-1624_x86fre_client-professional_retail_en-us-XR2PFRE_EN.iso"
+        }
     },
     {
         "channel": "Release Candidate 2",
         "build": "2525.xpclient.010723-1719",
-        "compiled_date": "Unknown"
+        "compiled_date": "Unknown",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2525.0.xpclient.010723-1719_x86fre_client-professional_retail_en-us-XR2PFRE_EN.iso"
+        }
     },
     {
         "channel": "Release Candidate 2",
         "build": "2526.xpclient.010724-1758",
-        "compiled_date": "24/07/2001"
+        "compiled_date": "24/07/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2526.0.xpclient.010724-1758_x86fre_client-professional_retail_en-us-XR2PFRE_EN.iso"
+        }
     },
     {
         "channel": "Pre-RTM",
         "build": "2531.xpclient.010730-1640",
-        "compiled_date": "30/07/2001"
+        "compiled_date": "30/07/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2531.0.xpclient.010730-1640_x86fre_client-professional_retail_en-us-XR2PFRE_EN.iso"
+        }
     },
     {
         "channel": "Pre-RTM",
         "build": "2532.xpclient.010731-1658",
-        "compiled_date": "31/07/2001"
+        "compiled_date": "31/07/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2532.0.xpclient.010731-1658_x86fre_client-professional_retail_en-us-XR2PFRE_EN.iso"
+        }
     },
     {
         "channel": "Pre-RTM",
         "build": "2535.xpclient.010803-1621",
-        "compiled_date": "03/08/2001"
+        "compiled_date": "03/08/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2535.0.xpclient.010803-1621_x86fre_client-professional_retail_en-us-XR2PFRE_EN.iso"
+        }
     },
     {
         "channel": "Pre-RTM",
         "build": "2542.xpclient.010811-1534",
-        "compiled_date": "11/08/2001"
+        "compiled_date": "11/08/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2542.0.xpclient.010811-1534_x86fre_client-professional_retail_en-us-WXPFRE_EN.iso"
+        }
     },
     {
         "channel": "RTM",
         "build": "2600.xpclient.010817-1148",
-        "compiled_date": "17/08/2001"
+        "compiled_date": "17/08/2001",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.0.xpclient.010817-1148_x86fre_client-professional_retail_en-us-WXPFPP_EN.iso"
+        }
     },
     {
         "channel": "Service Pack 1",
         "build": "2600.1050.xpsp1.020529-1810",
-        "compiled_date": "29/05/2002"
+        "compiled_date": "29/05/2002",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.1050.xpsp1.020529-1810_x86fre_client-en-us%20%28service%20pack%29.iso"
+        }
     },
     {
         "channel": "Service Pack 1",
         "build": "2600.1065.xpsp1.020625-1800",
-        "compiled_date": "25/06/2002"
+        "compiled_date": "25/06/2002",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.1065.xpsp1.020625-1800_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 1",
         "build": "2600.1078.xpsp1.020716-1800",
-        "compiled_date": "16/07/2002"
+        "compiled_date": "16/07/2002",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/ms-win-xpsp1-1078-pro/XBPFRE_EN.ISO"
+        }
     },
     {
         "channel": "Service Pack 1",
         "build": "2600.1081.xpsp1.020719-1845",
-        "compiled_date": "19/07/2002"
+        "compiled_date": "19/07/2002",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.1081.xpsp1.020719-1845_x86fre_client-professional_volume_en-us-X1BPFRE_EN.iso"
+        }
     },
     {
         "channel": "Service Pack 1",
         "build": "2600.1106.xpsp1.020828-1920",
-        "compiled_date": "28/08/2002"
+        "compiled_date": "28/08/2002",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.1106.xpsp1.020828-1920_x86chk_client-professional_retail_en-us-X1APCHK_EN.iso"
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.1155.xpsp2.021217-1051",
-        "compiled_date": "17/12/2002"
+        "compiled_date": "17/12/2002",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.1155.xpsp2.021217-1051_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.1185.xpsp2.030313-1931",
-        "compiled_date": "13/03/2003"
+        "compiled_date": "13/03/2003",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.1185.xpsp2.030313-1931_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.1194.xpsp2.030401-1855",
-        "compiled_date": "01/04/2003"
+        "compiled_date": "01/04/2003",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.1194.xpsp2.030401-1855_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.1204.xpsp2.030410-1604",
-        "compiled_date": "10/04/2003"
+        "compiled_date": "10/04/2003",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.1204.xpsp2.030410-1604_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.1213.xpsp2.030424-1654",
-        "compiled_date": "24/04/2003"
+        "compiled_date": "24/04/2003",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.1213.xpsp2.030424-1654_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.2055.xpsp_sp2_beta1.031215-1745",
-        "compiled_date": "15/12/2003"
+        "compiled_date": "15/12/2003",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.2055.xpsp_sp2_beta1.031215-1745_x86fre_client-professional_retail_en-us-VB1PFRE_EN.iso"
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.2075.xpsp.040202-1935",
-        "compiled_date": "02/02/2004"
+        "compiled_date": "02/02/2004",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/Windows-Whistler-Build-2202-2600-collection-71-files/5.1.2600.2075.xpsp.040202-1935_x86fre_client-mediacenter_retail_en-us-NR1PFRE_EN.iso"
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.2082.xpsp.040216-1810",
-        "compiled_date": "16/02/2004"
+        "compiled_date": "16/02/2004",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.2082.xpsp.040216-1810_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.2094.xpsp_sp2_rc1.040308-1920",
-        "compiled_date": "08/03/2004"
+        "compiled_date": "08/03/2004",
+        "downloads": {
+            "internetarchive": ""
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.2096.xpsp_sp2_rc1.040311-2315",
-        "compiled_date": "11/03/2004"
+        "compiled_date": "11/03/2004",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.2096.xpsp_sp2_rc1.040311-2315_x86fre_client-en-us%20%28service%20pack%29.iso"
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.2111.xpsp.040409-1745",
-        "compiled_date": "09/04/2004"
+        "compiled_date": "09/04/2004",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.2111.xpsp.040409-1745_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.2120.xpsp.040423-1852",
-        "compiled_date": "23/04/2004"
+        "compiled_date": "23/04/2004",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.2120.xpsp.040423-1852_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.2126.xpsp.040503-1841",
-        "compiled_date": "03/05/2004"
+        "compiled_date": "03/05/2004",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.2126.xpsp.040503-1841_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.2135.xpsp.040518-1812",
-        "compiled_date": "18/05/2004"
+        "compiled_date": "18/05/2004",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.2135.xpsp.040518-1812_x86fre_client-zh-cn%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.2137.xpsp.040520-1754",
-        "compiled_date": "20/05/2004"
+        "compiled_date": "20/05/2004",
+        "downloads": {
+            "internetarchive": ""
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.2138.xpsp.040522-1636",
-        "compiled_date": "22/05/2004"
+        "compiled_date": "22/05/2004",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.2138.xpsp.040522-1636_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.2142.xpsp.040528-0019",
-        "compiled_date": "28/05/2004"
+        "compiled_date": "28/05/2004",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.2142.xpsp.040528-0019_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.2148.xpsp_sp2_rc2.040607-1947",
-        "compiled_date": "07/06/2004"
+        "compiled_date": "07/06/2004",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.2148.xpsp_sp2_rc2.040607-1947_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.2149.xpsp_sp2_rc2.040610-1520",
-        "compiled_date": "10/06/2004"
+        "compiled_date": "10/06/2004",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.2149.xpsp_sp2_rc2.040610-1520_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.2160.xpsp.040701-1917",
-        "compiled_date": "01/07/2004"
+        "compiled_date": "01/07/2004",
+        "downloads": {
+            "internetarchive": ""
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.2162.xpsp_sp2_idx.040709-1830",
-        "compiled_date": "09/07/2004"
+        "compiled_date": "09/07/2004",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.2162.xpsp_sp2_idx.040709-1830_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.2163.xpsp.040710-1735",
-        "compiled_date": "10/07/2004"
+        "compiled_date": "10/07/2004",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.2163.xpsp.040710-1735_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.2179.xpsp_sp2_rtm.040802-1419",
-        "compiled_date": "02/08/2004"
+        "compiled_date": "02/08/2004",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.2179.xpsp_sp2_rtm.040802-1419_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 2",
         "build": "2600.2180.xpsp_sp2_rtm.040803-2158",
-        "compiled_date": "03/08/2004"
+        "compiled_date": "03/08/2004",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.2180.xpsp_sp2_rtm.040803-2158_x86fre_client-professional_retail_en-us-VX2PFPP_EN.iso"
+        }
     },
     {
         "channel": "Service Pack 3",
         "build": "2600.3180.xpsp.070718-2058",
-        "compiled_date": "18/07/2007"
+        "compiled_date": "18/07/2007",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.3180.xpsp.070718-2058_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 3",
         "build": "2600.3205.xpsp.070831-1912",
-        "compiled_date": "31/08/2007"
+        "compiled_date": "31/08/2007",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.3205.xpsp.070831-1912_x86fre_client-ja-jp%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 3",
         "build": "2600.3244.xpsp.071030-1537",
-        "compiled_date": "30/10/2007"
+        "compiled_date": "30/10/2007",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.3244.xpsp.071030-1537_x86fre_client-professional_volume_en-us-WXPVOL_EN.iso"
+        }
     },
     {
         "channel": "Service Pack 3",
         "build": "2600.3264.xpsp.071130-1427",
-        "compiled_date": "30/11/2007"
+        "compiled_date": "30/11/2007",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.3264.xpsp.071130-1427_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 3",
         "build": "2600.3282.xpsp.071227-1539",
-        "compiled_date": "27/12/2007"
+        "compiled_date": "27/12/2007",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.3282.xpsp.071227-1539_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 3",
         "build": "2600.3300.xpsp.080125-2028",
-        "compiled_date": "25/01/2008"
+        "compiled_date": "25/01/2008",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.3300.xpsp.080125-2028_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 3",
         "build": "2600.3311.xpsp.080212-0005",
-        "compiled_date": "12/02/2008"
+        "compiled_date": "12/02/2008",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.3311.xpsp.080212-0005_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 3",
         "build": "2600.5503.xpsp.080306-1604",
-        "compiled_date": "06/03/2008"
+        "compiled_date": "06/03/2008",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.5503.xpsp.080306-1604_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 3",
         "build": "2600.5508.xpsp.080320-1628",
-        "compiled_date": "20/03/2008"
+        "compiled_date": "20/03/2008",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.5508.xpsp.080320-1628_x86fre_client-en-us%20%28service%20pack%29.zip"
+        }
     },
     {
-        "channel": "Service Pack 3",
+        "channel": "Service Pack 3 (Chinese)",
         "build": "2600.5511.xpsp.080404-0229",
-        "compiled_date": "04/04/2008"
+        "compiled_date": "04/04/2008",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.5511.xpsp.080404-0229_x86fre_client-zh-tw%20%28service%20pack%29.zip"
+        }
     },
     {
         "channel": "Service Pack 3",
         "build": "2600.5512.xpsp.080413-2111",
-        "compiled_date": "13/04/2008"
+        "compiled_date": "13/04/2008",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsXPBuildCollection/5.1.2600.5512.xpsp.080413-2111_x86fre_client-professional_retail_en-us-GRTMPFPP_EN.iso"
+        }
     }
 ]
