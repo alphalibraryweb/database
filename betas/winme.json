@@ -145,6 +145,11 @@
         "compiled_date": "08/06/2000"
     },
     {
+        "channel": "RTM",
+        "build": "4.90.3000 (2000-06-17)",
+        "compiled_date": "17/06/2000"
+    },
+    {
         "channel": "February 2004 Security Update",
         "build": "4.90.3000A",
         "compiled_date": "Unknown"

@@ -461,6 +461,11 @@
     },
     {
         "channel": "Post-reset builds",
+        "build": "5483.0.winmain.060720-1900",
+        "compiled_date": "20/07/2006"
+    },
+    {
+        "channel": "Post-reset builds",
         "build": "5487.winmain.060726-1810",
         "compiled_date": "26/07/2006"
     },
@@ -483,6 +488,11 @@
         "channel": "Post-reset builds",
         "build": "5520.16384.vista_rc1.060812-2235",
         "compiled_date": "12/08/2006"
+    },
+    {
+        "channel": "Post-reset builds",
+        "build": "5520.16387.vista_rc1.060816-1900",
+        "compiled_date": "16/08/2006"
     },
     {
         "channel": "Post-reset builds",
@@ -521,8 +531,18 @@
     },
     {
         "channel": "Post-reset builds",
+        "build": "5717.0.winmain.060831-1830",
+        "compiled_date": "31/08/2006"
+    },
+    {
+        "channel": "Post-reset builds",
         "build": "5718.vbl_media_ehome.060905-1930",
         "compiled_date": "05/09/2006"
+    },
+    {
+        "channel": "Post-reset builds",
+        "build": "5720.0.winmain.060907-1715",
+        "compiled_date": "07/09/2006"
     },
     {
         "channel": "Post-reset builds",
@@ -531,13 +551,28 @@
     },
     {
         "channel": "Post-reset builds",
+        "build": "5724.winmain.060913-1900",
+        "compiled_date": "13/09/2006"
+    },
+    {
+        "channel": "Post-reset builds",
         "build": "5728.16387.winmain_idx06.060917-1430",
         "compiled_date": "17/09/2006"
     },
     {
         "channel": "Post-reset builds",
+        "build": "5734.0.winmain.060920-1805",
+        "compiled_date": "20/09/2006"
+    },
+    {
+        "channel": "Post-reset builds",
         "build": "5738.0.vista_rtm.060925-1900",
         "compiled_date": "25/09/2006"
+    },
+    {
+        "channel": "Post-reset builds",
+        "build": "5739.0.vista_rtm.060926-1900",
+        "compiled_date": "26/09/2006"
     },
     {
         "channel": "Post-reset builds",

@@ -281,6 +281,11 @@
     },
     {
         "channel": "Original release",
+        "build": "4.10.1998 (Russian Pre-RTM)",
+        "compiled_date": "11/05/1998"
+    },
+    {
+        "channel": "Original release",
         "build": "4.10.1998.5",
         "compiled_date": "06/05/1998"
     },

@@ -31,13 +31,48 @@
     },
     {
         "channel": "Milestone 2",
+        "build": "6583.1.winmain.080403-1848",
+        "compiled_date": "03/04/2008"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "6593.1.winmain.080417-1826",
+        "compiled_date": "17/04/2008"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "6602.1.winmain_win7m2.080430-1847",
+        "compiled_date": "30/04/2008"
+    },
+    {
+        "channel": "Milestone 2",
         "build": "6608.1.winmain_win7m2.080511-1400",
         "compiled_date": "11/05/2008"
     },
     {
         "channel": "Milestone 3",
+        "build": "6720.1.winmain.080529-1928",
+        "compiled_date": "29/05/2008"
+    },
+    {
+        "channel": "Milestone 3",
         "build": "6730.1.winmain.080612-1840",
         "compiled_date": "12/06/2008"
+    },
+    {
+        "channel": "Milestone 3",
+        "build": "6741.1.winmain.080626-1906",
+        "compiled_date": "26/06/2008"
+    },
+    {
+        "channel": "Milestone 3",
+        "build": "6745.0.winmain.080703-1502",
+        "compiled_date": "03/07/2008"
+    },
+    {
+        "channel": "Milestone 3",
+        "build": "6748.0.winmain.080710-2059",
+        "compiled_date": "10/07/2008"
     },
     {
         "channel": "Milestone 3",
@@ -68,6 +103,11 @@
         "channel": "Beta",
         "build": "6910.0.winmain.080915-1555",
         "compiled_date": "15/09/2008"
+    },
+    {
+        "channel": "Beta",
+        "build": "6926.0.winmain.081009-1855",
+        "compiled_date": "09/10/2008"
     },
     {
         "channel": "Beta",
@@ -111,6 +151,11 @@
     },
     {
         "channel": "Release Candidate",
+        "build": "7041.0.winmain.090210-1755",
+        "compiled_date": "10/02/2009"
+    },
+    {
+        "channel": "Release Candidate",
         "build": "7048.0.winmain.090219-1845",
         "compiled_date": "19/02/2009"
     },
@@ -148,6 +193,11 @@
         "channel": "Release Candidate",
         "build": "7070.0.winmain.090324-1853",
         "compiled_date": "24/03/2009"
+    },
+    {
+        "channel": "Release Candidate",
+        "build": "7071.0.winmain.090326-1750",
+        "compiled_date": "26/03/2009"
     },
     {
         "channel": "Release Candidate",
@@ -213,6 +263,11 @@
         "channel": "RTM Escrow",
         "build": "7260.0.win7_rtm.090612-2110",
         "compiled_date": "12/06/2009"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "7262.0.win7_rtm.090617-1900",
+        "compiled_date": "17/06/2009"
     },
     {
         "channel": "RTM Escrow",

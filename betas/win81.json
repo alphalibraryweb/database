@@ -6,8 +6,48 @@
     },
     {
         "channel": "Milestone 1",
+        "build": "9278.0.fbl_partner_out02.121203-1705",
+        "compiled_date": "03/12/2012"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "9282.0.fbl_partner_out03.121207-2000",
+        "compiled_date": "07/12/2012"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "9286.0.fbl_partner_out04.121213-2011",
+        "compiled_date": "13/12/2012"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "9293.0.fbl_partner_out05.130103-2000",
+        "compiled_date": "03/01/2013"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "9298.0.fbl_partner_out06.130111-2000",
+        "compiled_date": "11/01/2013"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "9299.0.fbl_partner_out06.130114-1719",
+        "compiled_date": "14/01/2013"
+    },
+    {
+        "channel": "Milestone 1",
         "build": "9299.0.fbl_partner_out06.130117-1707",
         "compiled_date": "17/01/2013"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "9304.0.fbl_partner_out07.130119-0745",
+        "compiled_date": "19/01/2013"
+    },
+    {
+        "channel": "Milestone 1",
+        "build": "9309.0.fbl_partner_out08.130125-1954",
+        "compiled_date": "25/01/2013"
     },
     {
         "channel": "Milestone 1",
@@ -46,6 +86,16 @@
     },
     {
         "channel": "Milestone 2",
+        "build": "9389.0.fbl_ie.130418-2012",
+        "compiled_date": "18/04/2013"
+    },
+    {
+        "channel": "Milestone 2",
+        "build": "9390.0.fbl_partner_out17a.130422-2355",
+        "compiled_date": "22/04/2013"
+    },
+    {
+        "channel": "Milestone 2",
         "build": "9391.4.fbl_partner_out18.130429-1915",
         "compiled_date": "29/04/2013"
     },
@@ -53,6 +103,11 @@
         "channel": "Milestone Preview",
         "build": "9415.0.fbl_partner_out22.130525-0845",
         "compiled_date": "25/05/2013"
+    },
+    {
+        "channel": "Milestone Preview",
+        "build": "9425.0.winmain_bluemp.130609-0025",
+        "compiled_date": "09/06/2013"
     },
     {
         "channel": "Milestone Preview",
@@ -111,8 +166,18 @@
     },
     {
         "channel": "RTM Escrow",
+        "build": "9477.0.fbl_partner_out21.130803-1037",
+        "compiled_date": "03/08/2013"
+    },
+    {
+        "channel": "RTM Escrow",
         "build": "9477.0.fbl_partner_out31.130803-0736",
         "compiled_date": "03/08/2013"
+    },
+    {
+        "channel": "RTM Escrow",
+        "build": "9478.0.winblue_rtm.130804-1505",
+        "compiled_date": "04/08/2013"
     },
     {
         "channel": "RTM Escrow",
@@ -128,6 +193,11 @@
         "channel": "RTM",
         "build": "9600.16384.winblue_rtm.130821-1623",
         "compiled_date": "21/08/2013"
+    },
+    {
+        "channel": "Post-RTM",
+        "build": "9600.16384.winblue_rtm_partner.130828-1900",
+        "compiled_date": "28/08/2013"
     },
     {
         "channel": "GA Update",

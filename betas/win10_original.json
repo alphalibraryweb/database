@@ -1,5 +1,20 @@
 [
     {
+        "channel": "Technical Preview",
+        "build": "10047.0.fbl_impressive.150323-1700",
+        "compiled_date": "23/03/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10137.0.fbl_impressive.150602-1837",
+        "compiled_date": "02/06/2015"
+    },
+    {
+        "channel": "Insider Preview",
+        "build": "10163.0.winmain.150630-1554",
+        "compiled_date": "30/06/2015"
+    },
+    {
         "channel": "Pre-Technical Preview",
         "build": "9780.0.fbl_partner_eeap.140622-0937",
         "compiled_date": "22/06/2014"
@@ -11,8 +26,23 @@
     },
     {
         "channel": "Pre-Technical Preview",
+        "build": "9796.0.fbl_partner_eeap.140715-1347",
+        "compiled_date": "15/07/2014"
+    },
+    {
+        "channel": "Pre-Technical Preview",
+        "build": "9802.0.fbl_partner_eeap.140727-1455",
+        "compiled_date": "27/07/2014"
+    },
+    {
+        "channel": "Pre-Technical Preview",
         "build": "9807.0.fbl_partner_eeap.140803-0005",
         "compiled_date": "03/08/2014"
+    },
+    {
+        "channel": "Pre-Technical Preview",
+        "build": "9813.0.fbl_partner_eeap.140810-0005",
+        "compiled_date": "10/08/2014"
     },
     {
         "channel": "Pre-Technical Preview",
@@ -51,6 +81,11 @@
     },
     {
         "channel": "Technical Preview",
+        "build": "9867.0.fbl_release.141018-2359",
+        "compiled_date": "18/10/2014"
+    },
+    {
+        "channel": "Technical Preview",
         "build": "9879.0.fbl_release.141103-1722",
         "compiled_date": "03/11/2014"
     },
@@ -58,6 +93,11 @@
         "channel": "Technical Preview",
         "build": "9883.0.fbl_release.141106-1705",
         "compiled_date": "06/11/2014"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9887.0.fbl_release.141112-2106",
+        "compiled_date": "12/11/2014"
     },
     {
         "channel": "Technical Preview",
@@ -108,6 +148,11 @@
         "channel": "Technical Preview",
         "build": "9913.0.fbl_awesome1501.141217-1931",
         "compiled_date": "17/12/2014"
+    },
+    {
+        "channel": "Technical Preview",
+        "build": "9916.0.winmain_prs.150105-1700",
+        "compiled_date": "05/01/2015"
     },
     {
         "channel": "Technical Preview",
