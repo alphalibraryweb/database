@@ -26,6 +26,7 @@ page_ids = [
     {"page_id": "Windows_8.1", "save_name": "win81"},
     {"page_id": "Windows_10_(original_release)", "save_name": "win10_original"},
     {"page_id": "Cobalt", "save_name": "cobalt"},
+    {"page_id": "Nickel", "save_name": "nickel"},
     {"page_id": "Windows_10X", "save_name": "win10x"},
     {"page_id": "Windows_11_(original_release)", "save_name": "win11_original"}
 ]
