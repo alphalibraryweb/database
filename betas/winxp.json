@@ -530,10 +530,7 @@
     {
         "channel": "Service Pack 2",
         "build": "2600.2094.xpsp_sp2_rc1.040308-1920",
-        "compiled_date": "08/03/2004",
-        "downloads": {
-            "internetarchive": ""
-        }
+        "compiled_date": "08/03/2004"
     },
     {
         "channel": "Service Pack 2",
@@ -578,10 +575,7 @@
     {
         "channel": "Service Pack 2",
         "build": "2600.2137.xpsp.040520-1754",
-        "compiled_date": "20/05/2004",
-        "downloads": {
-            "internetarchive": ""
-        }
+        "compiled_date": "20/05/2004"
     },
     {
         "channel": "Service Pack 2",
@@ -618,10 +612,7 @@
     {
         "channel": "Service Pack 2",
         "build": "2600.2160.xpsp.040701-1917",
-        "compiled_date": "01/07/2004",
-        "downloads": {
-            "internetarchive": ""
-        }
+        "compiled_date": "01/07/2004"
     },
     {
         "channel": "Service Pack 2",
