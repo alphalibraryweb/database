@@ -241,7 +241,7 @@
     },
     {
         "channel": "Pre-reset builds",
-        "build": "4051.idx02.031001-1340Preview",
+        "build": "4051.idx02.031001-1340",
         "compiled_date": "01/10/2003",
         "downloads": {
             "internetarchive": "https://archive.org/download/MicrosoftWindowsLonghornPreResetBuildCollection/6.0.4051.0.idx02.031001-1340_x86fre_client-professional_retail_en-us-LB1PFRE_EN.iso"
@@ -265,7 +265,7 @@
     },
     {
         "channel": "Pre-reset builds",
-        "build": "4074.idx02.040425-1535Preview 2",
+        "build": "4074.idx02.040425-1535",
         "compiled_date": "25/04/2004",
         "downloads": {
             "internetarchive": "https://archive.org/download/MicrosoftWindowsLonghornPreResetBuildCollection/6.0.4074.0.idx02.040425-1535_x86fre_client-professional_retail_en-us-LB1PFRE_EN.iso"
@@ -372,7 +372,7 @@
         "build": "3790.1232.winmain.040819-1629",
         "compiled_date": "19/08/2004",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/5.2.3790.1232.winmain.040819-1629_x86fre_client-professional_retail_en-us-LB1PFRE_EN.iso"
         }
     },
     {
@@ -380,7 +380,7 @@
         "build": "5000.vbl_core.040803-2000",
         "compiled_date": "03/08/2004",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5000.0.vbl_core.040803-2000_x86fre_client-professional_retail_en-us-LB1PFRE_EN.iso"
         }
     },
     {
@@ -388,7 +388,7 @@
         "build": "5000.vbl_core.040808-2000",
         "compiled_date": "08/08/2004",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5000.0.vbl_core.040808-2000_x86fre_client-professional_retail_en-us-LB1PFRE_EN.iso"
         }
     },
     {
@@ -396,7 +396,7 @@
         "build": "5000.vbl_core.040809-2000",
         "compiled_date": "09/08/2004",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5000.0.vbl_core.040809-2000_x86fre_client-professional_retail_en-us-LB1PFRE_EN.iso"
         }
     },
     {
@@ -404,7 +404,7 @@
         "build": "5000.vbl_core.040818-2000",
         "compiled_date": "18/08/2004",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5000.0.vbl_core.040818-2000_x86fre_client-professional_retail_en-us-LB1PFRE_EN.iso"
         }
     },
     {
@@ -412,7 +412,7 @@
         "build": "5000.vbl_core.040826-2000",
         "compiled_date": "26/08/2004",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5000.0.vbl_core.040826-2000_x86fre_client-professional_retail_en-us-LB1PFRE_EN.iso"
         }
     },
     {
@@ -420,7 +420,7 @@
         "build": "5000.vbl_core.040902-2000",
         "compiled_date": "02/09/2004",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5000.0.vbl_core.040902-2000_x86fre_client-professional_retail_en-us-LB1PFRE_EN.iso"
         }
     },
     {
@@ -428,15 +428,15 @@
         "build": "5001.winmain.040927-1610",
         "compiled_date": "27/09/2004",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5001.0.winmain.040927-1610_x86fre_client-professional_retail_en-us-LB1PFRE_EN.iso"
         }
     },
     {
         "channel": "Post-reset builds",
-        "build": "5048.winmain_idx02.050401-0536Developer Preview",
+        "build": "5048.winmain_idx02.050401-0536",
         "compiled_date": "01/04/2005",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5048.0.winmain_idx02.050401-0536_x86fre_client-professional_retail_en-us-LB1PFRE_EN.iso"
         }
     },
     {
@@ -444,15 +444,15 @@
         "build": "5098.winmain_beta1.050628-1740",
         "compiled_date": "28/06/2005",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5098.0.winmain_beta1.050628-1740_x86fre_client-professional_retail_en-us-LB1PFRE_EN.iso"
         }
     },
     {
         "channel": "Post-reset builds",
-        "build": "5112.winmain_beta1.050720-1600Beta 1",
+        "build": "5112.winmain_beta1.050720-1600",
         "compiled_date": "20/07/2005",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5112.0.winmain_beta1.050720-1600_x86fre_client-retail_en-us-LB1PFRE_EN.iso"
         }
     },
     {
@@ -460,7 +460,7 @@
         "build": "5212.winmain.050726-1915",
         "compiled_date": "26/07/2005",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5212.0.winmain.050726-1915_x86fre_server-client-unstaged_retail_en-us-LB1PFRE_EN.iso"
         }
     },
     {
@@ -468,15 +468,15 @@
         "build": "5215.vbl_ndt_netxpmobl.050807-0106",
         "compiled_date": "07/08/2005",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5215.0.vbl_ndt_netxpmobl.050807-0106_x86fre_client-server-multisku_retail_en-us-LB1PFRE_EN.iso"
         }
     },
     {
         "channel": "Post-reset builds",
-        "build": "5219.winmain_idx02.050830-2010September 2005 CTP",
+        "build": "5219.winmain_idx02.050830-2010",
         "compiled_date": "30/08/2005",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5219.0.winmain_idx02.050830-2010_x86fre_client-server-unstaged_retail_en-us-LB2PFRE_EN.iso"
         }
     },
     {
@@ -484,15 +484,15 @@
         "build": "5231.winmain.050912-2020",
         "compiled_date": "12/09/2005",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5231.0.winmain.050912-2020_x86fre_client-server-unstaged_retail_en-us-LB2PFRE_EN.iso"
         }
     },
     {
         "channel": "Post-reset builds",
-        "build": "5231.2.winmain_idx03.051004-2120October 2005 CTP",
+        "build": "5231.2.winmain_idx03.051004-2120",
         "compiled_date": "04/10/2005",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5231.2.winmain_idx03.051004-2120_x86fre_client-server-unstaged_retail_en-us-LB2PFRE_EN.iso"
         }
     },
     {
@@ -500,7 +500,7 @@
         "build": "5259.winmain_idx02.051113-2100",
         "compiled_date": "13/11/2005",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5259.0.winmain_idx02.051113-2100_x86fre_server-client-unstaged_retail_en-us-DVD_ROM.iso"
         }
     },
     {
@@ -508,15 +508,15 @@
         "build": "5259.3.winmain_idx02.051117-1715",
         "compiled_date": "17/11/2005",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5259.3.winmain_idx02.051117-1715_x86fre_server-client-unstaged_retail_en-us-LB2PFRE_EN.iso"
         }
     },
     {
         "channel": "Post-reset builds",
-        "build": "5270.9.winmain_idx03.051214-1910December 2005 CTP",
+        "build": "5270.9.winmain_idx03.051214-1910",
         "compiled_date": "14/12/2005",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5270.9.winmain_idx03.051214-1910_x86chk_server-client-unstaged_retail_en-us-LB1CHK_ALL_EN_DVD.iso"
         }
     },
     {
@@ -524,7 +524,7 @@
         "build": "5284.0.vbl_media_ehome.051218-1800",
         "compiled_date": "18/12/2005",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5284.0.vbl_media_ehome.051218-1800_x86fre_server-client-unstaged_retail_en-us-DIATKHM.iso"
         }
     },
     {
@@ -532,31 +532,28 @@
         "build": "5308.6.winmain_idx01.060202-1920",
         "compiled_date": "02/02/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5308.6.winmain_idx01.060202-1920_x86fre_server-client-unstaged_retail_en-us-LB2PFRE_EN.iso"
         }
     },
     {
         "channel": "Post-reset builds",
-        "build": "5308.17.winmain_idx01.060217-2200February 2006 CTP",
+        "build": "5308.17.winmain_idx01.060217-2200",
         "compiled_date": "17/02/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5308.17.winmain_idx01.060217-2200_x86fre_client-multisku_retail_en-us-LB1FRE_HBHPPSUL_EN.iso"
         }
     },
     {
         "channel": "Post-reset builds",
         "build": "5308.50.winmain_idx01.060222-1250",
-        "compiled_date": "22/02/2006",
-        "downloads": {
-            "internetarchive": ""
-        }
+        "compiled_date": "22/02/2006"
     },
     {
         "channel": "Post-reset builds",
         "build": "5308.60.winmain_idx01.060223-2145",
         "compiled_date": "23/02/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5308.60.winmain_idx01.060223-2145_x86fre_server-client-unstaged_retail_en-us-LB1FRE_ALL_EN.iso"
         }
     },
     {
@@ -564,7 +561,7 @@
         "build": "5310.0.vbl_media_ehome_dev.060207-1800",
         "compiled_date": "07/02/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5310.0.vbl_media_ehome_dev.060207-1800_x86fre_server-client-unstaged_retail_en-us-eHome_Takehome.iso"
         }
     },
     {
@@ -572,23 +569,20 @@
         "build": "5329.0.vbl_media_ehome.060301-2145",
         "compiled_date": "01/03/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5329.0.vbl_media_ehome.060301-2145_x86fre_server-client-unstaged_retail_en-us-DIATKHM.iso"
         }
     },
     {
         "channel": "Post-reset builds",
         "build": "5337.0.vbl_media_ehome.060313-2100",
-        "compiled_date": "13/03/2006",
-        "downloads": {
-            "internetarchive": ""
-        }
+        "compiled_date": "13/03/2006"
     },
     {
         "channel": "Post-reset builds",
-        "build": "5342.2.winmain_idx04.060321-1730February 2006 CTP Refresh",
+        "build": "5342.2.winmain_idx04.060321-1730",
         "compiled_date": "21/03/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5342.2.winmain_idx04.060321-1730_x86fre_client-ultimate_retail_en-us-LB1FRE_HBHPPSUL_EN.iso"
         }
     },
     {
@@ -596,7 +590,7 @@
         "build": "5355.0.vbl_media.060329-2048",
         "compiled_date": "29/03/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5355.0.vbl_media.060329-2048_x86fre_server-client-unstaged_retail_en-us-DIATKHM.iso"
         }
     },
     {
@@ -604,7 +598,7 @@
         "build": "5356.winmain.060330-1450",
         "compiled_date": "30/03/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5356.0.winmain.060330-1450_x86fre_server-client-unstaged_retail_en-us-LB2PFRE_EN.iso"
         }
     },
     {
@@ -612,15 +606,15 @@
         "build": "5360.0.vbl_media_ehome.060411-1930",
         "compiled_date": "11/04/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5360.0.vbl_media_ehome.060411-1930_x86fre_client-unstaged_retail_en-us-DIATKHM.iso"
         }
     },
     {
         "channel": "Post-reset builds",
-        "build": "5365.8.winmain_idx05.060419-1800April 2006 EDW",
+        "build": "5365.8.winmain_idx05.060419-1800",
         "compiled_date": "19/04/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5365.8.winmain_idx05.060419-1800_x86fre_client-ultimate_retail_en-us-LB2CFRE_EN_DVD.iso"
         }
     },
     {
@@ -628,7 +622,7 @@
         "build": "5371.0.vbl_media_ehome.060418-1930",
         "compiled_date": "18/04/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5371.0.vbl_media_ehome.060418-1930_x86fre_client-unstaged_retail_en-us-DIATKHM.iso"
         }
     },
     {
@@ -636,15 +630,15 @@
         "build": "5378.0.vbl_media_ehome.060426-1930",
         "compiled_date": "26/04/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5378.0.vbl_media_ehome.060426-1930_x86fre_client-unstaged_retail_en-us-DIATKHM.iso"
         }
     },
     {
         "channel": "Post-reset builds",
-        "build": "5381.1.winmain_beta2.060501-1900Beta 2 Preview",
+        "build": "5381.1.winmain_beta2.060501-1900",
         "compiled_date": "01/05/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5381.1.winmain_beta2.060501-1900_x86fre_client-multisku_retail_en-us-LB2CFRE_EN_DVD.iso"
         }
     },
     {
@@ -652,7 +646,7 @@
         "build": "5382.0.winmain_beta2.060506-1900",
         "compiled_date": "06/05/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5382.0.winmain_beta2.060506-1900_x86fre_client-multisku_retail_en-us-DIATKHM.iso"
         }
     },
     {
@@ -660,15 +654,15 @@
         "build": "5384.3.winmain_beta2.060517-1235",
         "compiled_date": "17/05/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5384.3.winmain_beta2.060517-1235_x86fre_client-multisku_retail_en-us-DIATKHM.iso"
         }
     },
     {
         "channel": "Post-reset builds",
-        "build": "5384.4.winmain_beta2.060518-1455Beta 2",
+        "build": "5384.4.winmain_beta2.060518-1455",
         "compiled_date": "18/05/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5384.4.winmain_beta2.060518-1455_x86fre_client-multisku_retail_en-us-LB2CFRE_EN_DVD.iso"
         }
     },
     {
@@ -676,7 +670,7 @@
         "build": "5435.vbl_media_ehome_dev.060523-2105",
         "compiled_date": "23/05/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5435.0.vbl_media_ehome_dev.060523-2105_x86fre_client-unstaged_retail_en-us-DIATKHM.iso"
         }
     },
     {
@@ -684,7 +678,7 @@
         "build": "5456.5.winmain_idx03.060620-1700",
         "compiled_date": "20/06/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5456.5.winmain_idx03.060620-1700_x86chk_client-unstaged_retail_en-us-LB2CCHK_EN_Unstaged_DVD.iso"
         }
     },
     {
@@ -692,7 +686,7 @@
         "build": "5461.vbl_media_ehome.060621-1930",
         "compiled_date": "21/06/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5461.0.vbl_media_ehome.060621-1930_amd64fre_client-unstaged_retail_en-us-DIATKHM.iso"
         }
     },
     {
@@ -700,7 +694,7 @@
         "build": "5466.vbl_media_ehome.060627-2030",
         "compiled_date": "27/06/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5466.0.vbl_media_ehome.060627-2030_x86fre_client-unstaged_retail_en-us-DIATKHM.iso"
         }
     },
     {
@@ -708,7 +702,7 @@
         "build": "5469.vbl_media_ehome.060704-1930",
         "compiled_date": "04/07/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5469.0.vbl_media_ehome.060704-1930_amd64fre_client-unstaged_retail_en-us-DIATKHM.iso"
         }
     },
     {
@@ -716,15 +710,15 @@
         "build": "5471.vbl_media_ehome_dev.060711-1930",
         "compiled_date": "11/07/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5471.0.vbl_media_ehome_dev.060711-1930_x86fre_client-unstaged_retail_en-us-DIATKHM.iso"
         }
     },
     {
         "channel": "Post-reset builds",
         "build": "5472.5.winmain_idx01.060713-1900",
-        "compiled_date": "Unknown",
+        "compiled_date": "13/07/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5472.5.winmain_idx01.060713-1900_x86chk_client-unstaged_retail_en-us-LB2CCHK_EN_Unstaged_DVD.iso"
         }
     },
     {
@@ -732,23 +726,20 @@
         "build": "5477.vbl_media_ehome_dev.060723-1930",
         "compiled_date": "23/07/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5477.0.vbl_media_ehome_dev.060723-1930_x86fre_client-unstaged_retail_en-us-DIATKHM.iso"
         }
     },
     {
         "channel": "Post-reset builds",
         "build": "5483.0.winmain.060720-1900",
-        "compiled_date": "20/07/2006",
-        "downloads": {
-            "internetarchive": ""
-        }
+        "compiled_date": "20/07/2006"
     },
     {
         "channel": "Post-reset builds",
         "build": "5487.winmain.060726-1810",
         "compiled_date": "26/07/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5487.0.winmain.060726-1810_x86fre_client-multisku_retail_en-us-LB2CFRE_EN_DVD.iso"
         }
     },
     {
@@ -756,7 +747,7 @@
         "build": "5491.vbl_media.060801-2045",
         "compiled_date": "01/08/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5491.0.vbl_media.060801-2045_amd64fre_client-unstaged_retail_en-us-DIATKHM.iso"
         }
     },
     {
@@ -764,7 +755,7 @@
         "build": "5492.winmain.060802-1900",
         "compiled_date": "02/08/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5492.0.winmain.060802-1900_x86fre_client-multisku_retail_en-us-LR1CFRE_EN_DVD.iso"
         }
     },
     {
@@ -772,7 +763,7 @@
         "build": "5505.6.vista_rc1.060807-2215",
         "compiled_date": "07/08/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5505.6.vista_rc1.060807-2215_x86fre_client-multisku_retail_en-us-DIATKHM.iso"
         }
     },
     {
@@ -780,7 +771,7 @@
         "build": "5520.16384.vista_rc1.060812-2235",
         "compiled_date": "12/08/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5520.16384.vista_rc1.060812-2235_x86fre_client-multisku_retail_en-us-LR1CFRE_EN_DVD.iso"
         }
     },
     {
@@ -796,7 +787,7 @@
         "build": "5536.16385.vista_rc1.060821-1900",
         "compiled_date": "21/08/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5536.16385.vista_rc1.060821-1900_x86fre_client-multisku_retail_en-us-LR1CFRE_EN_DVD.iso"
         }
     },
     {
@@ -804,7 +795,7 @@
         "build": "5552.16384.vista_rc1.060822-1900",
         "compiled_date": "22/08/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5552.16384.vista_rc1.060822-1900_x86fre_client-multisku_retail_en-us-Windows%20Vista%20RC.iso"
         }
     },
     {
@@ -812,7 +803,7 @@
         "build": "5552.16386.vista_rc1.060824-1900",
         "compiled_date": "24/08/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5552.16386.vista_rc1.060824-1900_x86fre_client-multisku_retail_en-us-DIATKHM.iso"
         }
     },
     {
@@ -820,7 +811,7 @@
         "build": "5568.16384.vista_rc1.060827-1900",
         "compiled_date": "27/08/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5568.16384.vista_rc1.060827-1900_x86fre_client-multisku_retail_en-us-DIATKHM.iso"
         }
     },
     {
@@ -828,103 +819,85 @@
         "build": "5584.16384.vista_rc1.060828-1800",
         "compiled_date": "28/08/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5584.16384.vista_rc1.060828-1800_x86fre_client-multisku_retail_en-us-DIATKHM.iso"
         }
     },
     {
         "channel": "Post-reset builds",
-        "build": "5600.16384.vista_rc1.060829-2230Release Candidate 1",
+        "build": "5600.16384.vista_rc1.060829-2230",
         "compiled_date": "29/08/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5600.16384.vista_rc1.060829-2230_x86fre_client-multisku_retail_en-us-LR1CFRE_EN_DVD.iso"
         }
     },
     {
         "channel": "Post-reset builds",
         "build": "5712.winmain.060824-1900",
-        "compiled_date": "24/08/2006",
-        "downloads": {
-            "internetarchive": ""
-        }
+        "compiled_date": "24/08/2006"
     },
     {
         "channel": "Post-reset builds",
         "build": "5717.0.winmain.060831-1830",
-        "compiled_date": "31/08/2006",
-        "downloads": {
-            "internetarchive": ""
-        }
+        "compiled_date": "31/08/2006"
     },
     {
         "channel": "Post-reset builds",
         "build": "5718.vbl_media_ehome.060905-1930",
         "compiled_date": "05/09/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5718.0.vbl_media_ehome.060905-1930_amd64fre_client-unstaged_retail_en-us-DIATKHM.iso"
         }
     },
     {
         "channel": "Post-reset builds",
         "build": "5720.0.winmain.060907-1715",
-        "compiled_date": "07/09/2006",
-        "downloads": {
-            "internetarchive": ""
-        }
+        "compiled_date": "07/09/2006"
     },
     {
         "channel": "Post-reset builds",
         "build": "5723.vbl_media.060912-1910",
         "compiled_date": "12/09/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5723.0.vbl_media.060912-1910_x86fre_client-unstaged_retail_en-us-DIATKHM.iso"
         }
     },
     {
         "channel": "Post-reset builds",
         "build": "5724.winmain.060913-1900",
-        "compiled_date": "13/09/2006",
-        "downloads": {
-            "internetarchive": ""
-        }
+        "compiled_date": "13/09/2006"
     },
     {
         "channel": "Post-reset builds",
         "build": "5728.16387.winmain_idx06.060917-1430",
         "compiled_date": "17/09/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5728.16387.winmain_idx06.060917-1430_x86fre_client-multisku_retail_en-us-LRMCFRE_EN_DVD.iso"
         }
     },
     {
         "channel": "Post-reset builds",
         "build": "5734.0.winmain.060920-1805",
-        "compiled_date": "20/09/2006",
-        "downloads": {
-            "internetarchive": ""
-        }
+        "compiled_date": "20/09/2006"
     },
     {
         "channel": "Post-reset builds",
         "build": "5738.0.vista_rtm.060925-1900",
         "compiled_date": "25/09/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5738.0.vista_rtm.060925-1900_x86fre_client-multisku_retail_en-us-DIATKHM.iso"
         }
     },
     {
         "channel": "Post-reset builds",
         "build": "5739.0.vista_rtm.060926-1900",
-        "compiled_date": "26/09/2006",
-        "downloads": {
-            "internetarchive": ""
-        }
+        "compiled_date": "26/09/2006"
     },
     {
         "channel": "Post-reset builds",
-        "build": "5744.16384.vista_rtm_edw.061003-1945Release Candidate 2",
+        "build": "5744.16384.vista_rtm_edw.061003-1945",
         "compiled_date": "03/10/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5744.16384.vista_rtm_edw.061003-1945_x86chk_client-unstaged_retail_en-us-LRMCCHK_EN_Unstaged_DVD.iso"
         }
     },
     {
@@ -932,7 +905,7 @@
         "build": "5752.0.vista_rtm.061003-1900",
         "compiled_date": "03/10/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5752.0.vista_rtm.061003-1900_x86fre_client-multisku_retail_en-us-DIATKHM.iso"
         }
     },
     {
@@ -940,7 +913,7 @@
         "build": "5754.1.winmain.061006-1810",
         "compiled_date": "06/10/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5754.1.winmain.061010-1900_x86fre_client-multisku_retail_en-us-LRMCFRE_EN-DVD.iso"
         }
     },
     {
@@ -948,7 +921,7 @@
         "build": "5758.0.vista_rtm.061010-1900",
         "compiled_date": "10/10/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5758.0.vista_rtm.061010-1900_amd64fre_client-multisku_retail_en-us-DIATKHM.iso"
         }
     },
     {
@@ -956,7 +929,7 @@
         "build": "5808.16384.vista_rtm.061012-1900",
         "compiled_date": "12/10/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5808.16384.vista_rtm.061012-1900_x86fre_client-multisku_retail_en-us-LRMCFRE_EN_DVD.iso"
         }
     },
     {
@@ -964,15 +937,15 @@
         "build": "5824.16387.vista_rtm.061017-1900",
         "compiled_date": "17/10/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5824.16387.vista_rtm.061017-1900_x86fre_client-multisku_retail_en-us-DIATKHM.iso"
         }
     },
     {
         "channel": "Post-reset builds",
-        "build": "5840.16384.vista_rtm.061018-1900Launch Preview",
+        "build": "5840.16384.vista_rtm.061018-1900",
         "compiled_date": "18/10/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5840.16384.vista_rtm.061018-1900_x86fre_client-multisku_retail_en-us-LRMCFRE_EN_DVD.iso"
         }
     },
     {
@@ -980,7 +953,7 @@
         "build": "5840.16389.vista_rtm.061024-1945",
         "compiled_date": "24/10/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5840.16389.vista_rtm.061024-1945_amd64fre_client-multisku_retail_en-us-DIATKHM.iso"
         }
     },
     {
@@ -988,7 +961,7 @@
         "build": "5920.16387.vista_rtm.061028-0100",
         "compiled_date": "28/10/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.5920.16387.vista_rtm.061028-0100_x86fre_client-enterprise_volume_en-us-LRMEVOL_EN_DVD.iso"
         }
     },
     {
@@ -996,7 +969,7 @@
         "build": "6000.16384.vista_rtm.061029-1900",
         "compiled_date": "29/10/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.6000.16384.vista_rtm.061029-1900_x86fre_client-multisku_retail_en-us-DIATKHM.iso"
         }
     },
     {
@@ -1004,15 +977,15 @@
         "build": "6000.16385.vista_rtm.061030-1720",
         "compiled_date": "30/10/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.6000.16385.vista_rtm.061030-1720_x86fre_client-multisku_retail_en-us-LRMCFRE_EN_DVD.iso"
         }
     },
     {
         "channel": "Post-reset builds",
-        "build": "6000.16386.vista_rtm.061101-2205RTM",
+        "build": "6000.16386.vista_rtm.061101-2205",
         "compiled_date": "01/11/2006",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.6000.16386.vista_rtm.061101-2205_x86chk_client-unstaged_retail_en-us-LRMCCHK_EN_Unstaged_DVD.iso"
         }
     },
     {
@@ -1020,7 +993,7 @@
         "build": "6001.16549.longhorn_sp1beta1.070628-1825",
         "compiled_date": "28/06/2007",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.6001.16549.longhorn_sp1beta1.070628-1825_x86fre_client-unstaged_retail_en-us-DIATKHM.iso"
         }
     },
     {
@@ -1028,7 +1001,7 @@
         "build": "6001.16625.longhorn.070720-1835",
         "compiled_date": "20/07/2007",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.6001.16625.longhorn.070720-1835_x86fre_client-multisku_retail_en-us-DIATKHM.iso"
         }
     },
     {
@@ -1036,15 +1009,15 @@
         "build": "6001.16633.longhorn.070803-1655",
         "compiled_date": "03/08/2007",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.6001.16633.longhorn.070803-1655_x86fre_client-multisku_retail_en-us-DIATKHM.iso"
         }
     },
     {
         "channel": "Post-reset builds",
-        "build": "6001.16659.longhorn_rc0.070916-1443Service Pack 1 Beta",
+        "build": "6001.16659.longhorn_rc0.070916-1443",
         "compiled_date": "16/09/2007",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.6001.16659.longhorn_rc0.070916-1443%20%28service%20pack%20installer%2C%20x86%29.zip"
         }
     },
     {
@@ -1052,15 +1025,15 @@
         "build": "6001.17042.longhorn_rc1.071107-1618",
         "compiled_date": "07/11/2007",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.6001.17042.longhorn_rc1.071107-1618%20%28service%20pack%20installer%2C%20x86%29.zip"
         }
     },
     {
         "channel": "Post-reset builds",
-        "build": "6001.17052.longhorn_rc1.071129-2315Service Pack 1 RC",
+        "build": "6001.17052.longhorn_rc1.071129-2315",
         "compiled_date": "29/11/2007",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.6001.17052.longhorn_rc1.071129-2315_x86chk_client-unstaged_retail_en-us-FR0CCHK_EN_Unstaged_DVD.iso"
         }
     },
     {
@@ -1068,31 +1041,28 @@
         "build": "6001.17128.longhorn.080101-1935",
         "compiled_date": "01/01/2008",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.6001.17128.longhorn.080101-1935_x86fre_client-enterprise_volume_en-us-FRMEVOL_EN_DVD.iso"
         }
     },
     {
         "channel": "Post-reset builds",
-        "build": "6001.18000.longhorn_rtm.080118-1840Service Pack 1 RTM",
+        "build": "6001.18000.longhorn_rtm.080118-1840",
         "compiled_date": "18/01/2008",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.6001.18000.longhorn_rtm.080118-1840_x86chk_client-unstaged_retail_en-us-FRMCCHK_EN_DVD.iso"
         }
     },
     {
         "channel": "Post-reset builds",
         "build": "6002.16489.lh_sp2beta.080924-1740",
-        "compiled_date": "24/09/2008",
-        "downloads": {
-            "internetarchive": ""
-        }
+        "compiled_date": "24/09/2008"
     },
     {
         "channel": "Post-reset builds",
-        "build": "6002.16497.lh_sp2beta.081017-1605Service Pack 2 Beta",
+        "build": "6002.16497.lh_sp2beta.081017-1605",
         "compiled_date": "17/10/2008",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.6002.16497.lh_sp2beta.081017-1605_x86fre_client-enterprise_volume_en-us-FB1EVOL_EN_DVD.iso"
         }
     },
     {
@@ -1100,15 +1070,15 @@
         "build": "6002.16659.lh_sp2rc.090114-1728",
         "compiled_date": "14/01/2009",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.6002.16659.lh_sp2rc.090114-1728%20%28service%20pack%20installer%2C%20x86%29.zip"
         }
     },
     {
         "channel": "Post-reset builds",
-        "build": "6002.16670.lh_sp2rc.090130-1715Service Pack 2 RC",
+        "build": "6002.16670.lh_sp2rc.090130-1715",
         "compiled_date": "30/01/2009",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.6002.16670.lh_sp2rc.090130-1715%20%28service%20pack%20installer%2C%20x86%29.zip"
         }
     },
     {
@@ -1116,7 +1086,7 @@
         "build": "6002.17043.longhorn.090312-1835",
         "compiled_date": "12/03/2009",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.6002.17043.longhorn.090312-1835%20%28service%20pack%20installer%2C%20x86%29.zip"
         }
     },
     {
@@ -1124,7 +1094,7 @@
         "build": "6002.17506.lh_sp2rtm.090313-1730",
         "compiled_date": "13/03/2009",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.6002.17506.lh_sp2rtm.090313-1730%20%28service%20pack%20installer%2C%20x86%29.zip"
         }
     },
     {
@@ -1132,15 +1102,15 @@
         "build": "6002.18003.lh_sp2rtm.090403-1730",
         "compiled_date": "03/04/2009",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.6002.18003.lh_sp2rtm.090403-1730%20%28service%20pack%20installer%2C%20x86%29.zip"
         }
     },
     {
         "channel": "Post-reset builds",
-        "build": "6002.18005.lh_sp2rtm.090410-1830Service Pack 2 RTM",
+        "build": "6002.18005.lh_sp2rtm.090410-1830",
         "compiled_date": "10/04/2009",
         "downloads": {
-            "internetarchive": ""
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsVistaBuildCollection/6.0.6002.18005.lh_sp2rtm.090410-1830_x86chk_client-unstaged_retail_en-us-FRTMCCHK_EN_DVD.iso"
         }
     },
     {

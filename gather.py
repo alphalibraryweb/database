@@ -60,7 +60,6 @@ def get_compiled_date(build_url):
 def scrape_page(page_id, save_name):
     filepath = os.path.join(output_dir, f"{save_name}.json")
     
-    # Load existing builds if the file exists
     if os.path.exists(filepath):
         with open(filepath, "r") as file:
             result = json.load(file)
@@ -94,7 +93,6 @@ def scrape_page(page_id, save_name):
                 if build_link_tag and build_link_tag.get("href"):
                     build_url = base_url + build_link_tag["href"]
                     
-                    # Check if the build is already in the result list
                     if any(item['build'] == build_info for item in result):
                         print(f"Build {build_info} already exists, skipping...")
                         continue
@@ -102,14 +100,12 @@ def scrape_page(page_id, save_name):
                     print(build_info)
                     compiled_date = get_compiled_date(build_url)
 
-                    # Create a new entry for the build
                     new_entry = {
                         "channel": current_channel,
                         "build": build_info,
                         "compiled_date": compiled_date if compiled_date else "Unknown"
                     }
 
-                    # Insert in order
                     insert_index = next((i for i, item in enumerate(result) if item['build'] > build_info), len(result))
                     result.insert(insert_index, new_entry)
 
