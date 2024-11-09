@@ -4,7 +4,8 @@
         "build": "3683.Lab06_N.020923-1821",
         "compiled_date": "23/09/2002",
         "downloads": {
-            "internetarchive": "https://archive.org/download/MicrosoftWindowsLonghornPreResetBuildCollection/6.0.3683.0.lab06_n.020923-1821_x86fre_client-professional_retail_en-us-LMBPFRE_EN.iso"
+            "internetarchive": "https://archive.org/download/MicrosoftWindowsLonghornPreResetBuildCollection/6.0.3683.0.lab06_n.020923-1821_x86fre_client-professional_retail_en-us-LMBPFRE_EN.iso",
+            "onedrive": "https://orangera1nwashere-my.sharepoint.com/:u:/r/personal/microsoftdata_orangera1nwashere_onmicrosoft_com/Documents/Windows/NT%206.0%20(Windows%20Longhorn)/1.%20m3-m5/6.0.3683.0.Lab06_N.020923-1821/x86fre_client-professional_retail_en-us-LMBPFRE_EN.iso?csf=1&web=1&e=1l8p0L"
         }
     },
     {
@@ -732,7 +733,10 @@
     {
         "channel": "Post-reset builds",
         "build": "5483.0.winmain.060720-1900",
-        "compiled_date": "20/07/2006"
+        "compiled_date": "20/07/2006",
+        "downloads": {
+            "internetarchive": "https://orangera1nwashere-my.sharepoint.com/:u:/r/personal/microsoftdata_orangera1nwashere_onmicrosoft_com/Documents/Windows/NT%206.0%20(Windows%20Vista)/4.%20RC1/6.0.5483.0.winmain.060720-1900/vista_5483.0.060720-1900_winmain_x86fre_client-LB2CFRE_EN_DVD.iso?csf=1&web=1&e=otLS8a"
+        }
     },
     {
         "channel": "Post-reset builds",
@@ -779,7 +783,7 @@
         "build": "5520.16387.vista_rc1.060816-1900",
         "compiled_date": "16/08/2006",
         "downloads": {
-            "internetarchive": ""
+            "onedrive": "https://orangera1nwashere-my.sharepoint.com/:u:/r/personal/microsoftdata_orangera1nwashere_onmicrosoft_com/Documents/Windows/NT%206.0%20(Windows%20Vista)/4.%20RC1/6.0.5520.16387.vista_rc1.060816-1900/vista_5520.16387.060816-1900_vista_rc1_x86fre_client-LR1CFRE_EN_DVD.iso?csf=1&web=1&e=TEVaEc"
         }
     },
     {
@@ -838,7 +842,10 @@
     {
         "channel": "Post-reset builds",
         "build": "5717.0.winmain.060831-1830",
-        "compiled_date": "31/08/2006"
+        "compiled_date": "31/08/2006",
+        "downloads": {
+            "onedrive": "https://orangera1nwashere-my.sharepoint.com/:u:/r/personal/microsoftdata_orangera1nwashere_onmicrosoft_com/Documents/Windows/NT%206.0%20(Windows%20Vista)/5.%20RC2/6.0.5717.0.winmain.060831-1830/vista_5717.0.060831-1830_x86fre_client-LR1CFRE_EN_DVD.iso?csf=1&web=1&e=Z1iyXs"
+        }
     },
     {
         "channel": "Post-reset builds",
@@ -851,7 +858,10 @@
     {
         "channel": "Post-reset builds",
         "build": "5720.0.winmain.060907-1715",
-        "compiled_date": "07/09/2006"
+        "compiled_date": "07/09/2006",
+        "downloads": {
+            "onedrive": "https://orangera1nwashere-my.sharepoint.com/:u:/r/personal/microsoftdata_orangera1nwashere_onmicrosoft_com/Documents/Windows/NT%206.0%20(Windows%20Vista)/5.%20RC2/6.0.5720.0.winmain.060907-1715/vista_5720.0.060907-1715_x86fre_client-LR1CFRE_EN_DVD.iso?csf=1&web=1&e=AX5OYu"
+        }
     },
     {
         "channel": "Post-reset builds",
@@ -864,7 +874,10 @@
     {
         "channel": "Post-reset builds",
         "build": "5724.winmain.060913-1900",
-        "compiled_date": "13/09/2006"
+        "compiled_date": "13/09/2006",
+        "downloads": {
+            "onedrive": "https://orangera1nwashere-my.sharepoint.com/:u:/r/personal/microsoftdata_orangera1nwashere_onmicrosoft_com/Documents/Windows/NT%206.0%20(Windows%20Vista)/5.%20RC2/6.0.5724.0.winmain.060913-1900/vista_5724.0.060913-1900_x86fre_client-LRMCFRE_EN_DVD.iso?csf=1&web=1&e=RwB8vN"
+        }
     },
     {
         "channel": "Post-reset builds",
@@ -877,7 +890,10 @@
     {
         "channel": "Post-reset builds",
         "build": "5734.0.winmain.060920-1805",
-        "compiled_date": "20/09/2006"
+        "compiled_date": "20/09/2006",
+        "downloads": {
+            "onedrive": "https://orangera1nwashere-my.sharepoint.com/:u:/r/personal/microsoftdata_orangera1nwashere_onmicrosoft_com/Documents/Windows/NT%206.0%20(Windows%20Vista)/5.%20RC2/6.0.5734.0.winmain.060920-1800/vista_5734.0.060920-1805_x86fre_client-LRMCFRE_EN_DVD.iso?csf=1&web=1&e=xaiZgc"
+        }
     },
     {
         "channel": "Post-reset builds",
