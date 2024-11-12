@@ -17,5 +17,5 @@ def add_downloads_to_json(filename):
         json.dump(data, f, indent=4)
 
 if __name__ == '__main__':
-    filename = 'winvista.json'  # Replace with your actual filename
+    filename = 'win98.json'  # Replace with your actual filename
     add_downloads_to_json(filename)

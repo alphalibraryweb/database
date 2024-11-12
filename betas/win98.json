@@ -2,207 +2,330 @@
     {
         "channel": "Original release",
         "build": "4.10.1351",
-        "compiled_date": "13/12/1996"
+        "compiled_date": "13/12/1996",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1351_x86fre_client_en-us-MEMPHIS1351.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1353",
-        "compiled_date": "20/12/1996"
+        "compiled_date": "20/12/1996",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1353_x86fre_client_en-us-MEMPHIS1353.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1387",
-        "compiled_date": "05/02/1997"
+        "compiled_date": "05/02/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1387_x86fre_client_en-us.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1400",
-        "compiled_date": "24/02/1997"
+        "compiled_date": "24/02/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1400_x86fre_client_en-us-MEMPHIS.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1410",
-        "compiled_date": "11/03/1997"
+        "compiled_date": "11/03/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1410_x86fre_client_en-us-MEM_1410.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1411",
-        "compiled_date": "13/03/1997"
+        "compiled_date": "13/03/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1411_x86fre_client_en-us-MEMPHIS_1411.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1415",
-        "compiled_date": "17/03/1997"
+        "compiled_date": "17/03/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1415_x86fre_client_en-us-WIN98BETA2.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1423",
-        "compiled_date": "08/04/1997"
+        "compiled_date": "08/04/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1423_x86fre_client_en-us-MEMPHIS.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1434",
-        "compiled_date": "22/04/1997"
+        "compiled_date": "22/04/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1434_x86fre_client_en-us-20140826_2130.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1488",
-        "compiled_date": "24/04/1997"
+        "compiled_date": "24/04/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1488_x86fre_client_en-us-010328_0145.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1500",
-        "compiled_date": "12/05/1997"
+        "compiled_date": "12/05/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1500_x86fre_client_en-us-ISO.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1511",
-        "compiled_date": "24/05/1997"
+        "compiled_date": "24/05/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1511_x86fre_client_en-us-MEMPHIS_1511.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1513",
-        "compiled_date": "02/06/1997"
+        "compiled_date": "02/06/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1513_x86fre_client_en-us-MEM1513.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1518",
-        "compiled_date": "09/06/1997"
+        "compiled_date": "09/06/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1518_x86fre_client_en-us-MEMPHIS_1518.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1525 (1997-06-18)",
-        "compiled_date": "18/06/1997"
+        "compiled_date": "18/06/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1525_x86fre_client_en-us-MEMPHIS_1525.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1525 (1997-06-24)",
-        "compiled_date": "24/06/1997"
+        "compiled_date": "24/06/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1525_beta_1_x86fre_client_en-us-MEM_BETA1.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1526",
-        "compiled_date": "23/06/1997"
+        "compiled_date": "23/06/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1526_x86fre_client_en-us-MEMPHIS1526.ISO"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1532",
-        "compiled_date": "25/06/1997"
+        "compiled_date": "25/06/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1532_x86fre_client_en-us.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1538",
-        "compiled_date": "07/07/1997"
+        "compiled_date": "07/07/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1538_x86fre_client_en-us-MEM_1538.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1543",
-        "compiled_date": "14/07/1997"
+        "compiled_date": "14/07/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1543_x86fre_client_en-us.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1544",
-        "compiled_date": "15/07/1997"
+        "compiled_date": "15/07/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1544_x86fre_client_en-us-MEMPHIS1544.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1546",
-        "compiled_date": "25/07/1997"
+        "compiled_date": "25/07/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1546_beta_2_x86fre_client_en-us-WIN98_BETA2.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1559",
-        "compiled_date": "05/08/1997"
+        "compiled_date": "05/08/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1559_x86fre_client_en-us-MEMPHIS1559.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1569",
-        "compiled_date": "18/08/1997"
+        "compiled_date": "18/08/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1569_x86fre_client_en-us-MEMPHIS.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1577",
-        "compiled_date": "28/08/1997"
+        "compiled_date": "28/08/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1577_x86fre_client_en-us-MEMPHIS.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1581.1",
-        "compiled_date": "04/09/1997"
+        "compiled_date": "04/09/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1581.1_x86fre_client_en-us-WIN98_1581.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1588",
-        "compiled_date": "15/09/1997"
+        "compiled_date": "15/09/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1588_x86fre_client_en-us.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1593",
-        "compiled_date": "22/09/1997"
+        "compiled_date": "22/09/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1593_x86fre_client_en-us-MEMPHIS.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1602",
-        "compiled_date": "06/10/1997"
+        "compiled_date": "06/10/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1602_x86fre_client_en-us-Win98_1602.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1611",
-        "compiled_date": "16/10/1997"
+        "compiled_date": "16/10/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1611_x86fre_client_en-us-%5BIncomplete%5D.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1614",
-        "compiled_date": "21/10/1997"
+        "compiled_date": "21/10/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1614_x86fre_client_en-us-WIN98_1614.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1619",
-        "compiled_date": "27/10/1997"
+        "compiled_date": "27/10/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1619_x86fre_client_en-us.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1624",
-        "compiled_date": "05/11/1997"
+        "compiled_date": "05/11/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1624_x86fre_client_en-us-WIN98BETA3.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1629",
-        "compiled_date": "11/11/1997"
+        "compiled_date": "11/11/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1629_x86fre_client_en-us-WIN98.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1633",
-        "compiled_date": "17/11/1997"
+        "compiled_date": "17/11/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1633_x86fre_client_en-us-Win98_1633.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1650",
-        "compiled_date": "23/11/1997"
+        "compiled_date": "23/11/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1650_beta_3_x86fre_client_en-us.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1650.3",
-        "compiled_date": "01/12/1997"
+        "compiled_date": "01/12/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1650.3_x86fre_client_en-us-MEMPHIS.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1650.8",
-        "compiled_date": "09/12/1997"
+        "compiled_date": "09/12/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1650.8_x86fre_client_en-us-Win98%20Beta3.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1658",
-        "compiled_date": "17/12/1997"
+        "compiled_date": "17/12/1997",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1658_x86fre_client_en-us-MEMPHIS_1658.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1666",
-        "compiled_date": "12/01/1998"
+        "compiled_date": "12/01/1998",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1666_x86fre_client_en-us-MEMPHIS.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1671",
-        "compiled_date": "19/01/1998"
+        "compiled_date": "19/01/1998",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1671_x86fre_client_en-us-MEMPHIS.iso"
+        }
     },
     {
         "channel": "Original release",
@@ -212,22 +335,34 @@
     {
         "channel": "Original release",
         "build": "4.10.1677",
-        "compiled_date": "27/01/1998"
+        "compiled_date": "27/01/1998",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1677_x86fre_client_en-us-MEMPHIS.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1681",
-        "compiled_date": "01/02/1998"
+        "compiled_date": "01/02/1998",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1681_x86fre_client_en-us-MEMPHIS_1681.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1687",
-        "compiled_date": "09/02/1998"
+        "compiled_date": "09/02/1998",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1687_x86fre_client_en-us-MEMPHIS.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1691.3",
-        "compiled_date": "16/02/1998"
+        "compiled_date": "16/02/1998",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1691_rc0_x86fre_client_en-us-CD_ROM.iso"
+        }
     },
     {
         "channel": "Original release",
@@ -237,42 +372,66 @@
     {
         "channel": "Original release",
         "build": "4.10.1702",
-        "compiled_date": "03/03/1998"
+        "compiled_date": "03/03/1998",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1702_x86fre_client_en-us-MEMPHIS_1702.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1708",
-        "compiled_date": "09/03/1998"
+        "compiled_date": "09/03/1998",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1708_x86fre_client_en-us.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1713",
-        "compiled_date": "17/03/1998"
+        "compiled_date": "17/03/1998",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1713_x86fre_client_en-us-WIN98.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1720",
-        "compiled_date": "26/03/1998"
+        "compiled_date": "26/03/1998",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1720_x86fre_client_en-us-WIN98_1720.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1721.3",
-        "compiled_date": "30/03/1998"
+        "compiled_date": "30/03/1998",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1721.3_x86fre_client_en-en.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1723.4",
-        "compiled_date": "10/04/1998"
+        "compiled_date": "10/04/1998",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1723_rc2_x86fre_client_en-us-Win98%20RC2.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1900.5",
-        "compiled_date": "24/04/1998"
+        "compiled_date": "24/04/1998",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1900.5_rc3_x86fre_client_zh-chs.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1900.6",
-        "compiled_date": "27/04/1998"
+        "compiled_date": "27/04/1998",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/win-98-rc-4/Win98%20RC4.iso"
+        }
     },
     {
         "channel": "Original release",
@@ -287,12 +446,18 @@
     {
         "channel": "Original release",
         "build": "4.10.1998.5",
-        "compiled_date": "06/05/1998"
+        "compiled_date": "06/05/1998",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files/4.10.1998.5_rc5_x86fre_client_en-us-Win98.iso"
+        }
     },
     {
         "channel": "Original release",
         "build": "4.10.1998",
-        "compiled_date": "11/05/1998"
+        "compiled_date": "11/05/1998",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/windows-98-fe-101-retail-full/Windows%2098%20FE%20%28101%20-%20Retail%20Full%29.iso"
+        }
     },
     {
         "channel": "Original release",
@@ -307,7 +472,10 @@
     {
         "channel": "Original release",
         "build": "4.10.2000",
-        "compiled_date": "Unknown"
+        "compiled_date": "Unknown",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/windows-98-fe-service-pack-1/Windows%2098%20%20%28FE%29%20Service%20Pack%201/98sp1.ISO"
+        }
     },
     {
         "channel": "Original release",
@@ -317,17 +485,31 @@
     {
         "channel": "Second Edition",
         "build": "4.10.2017",
-        "compiled_date": "02/07/1998"
+        "compiled_date": "02/07/1998",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindows98build2017-2222acollection17files/4.10.2017_x86fre_client-%5BMultimedia-Update%5D.iso"
+        }
     },
     {
         "channel": "Second Edition",
         "build": "4.10.2088.5",
-        "compiled_date": "21/10/1998"
+        "compiled_date": "21/10/1998",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindows98build2017-2222acollection17files/4.10.2088_x86fre_client.zip"
+        }
     },
     {
         "channel": "Second Edition",
         "build": "4.10.2091",
         "compiled_date": "12/11/1998"
+    },
+    {
+        "channel": "Second Edition",
+        "build": "4.10.2106",
+        "compiled_date": "18/11/1998",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindows98build2017-2222acollection17files/4.10.2106_x86fre_client_en-us-W98%20OSR%20Beta1.iso"
+        }
     },
     {
         "channel": "Second Edition",
@@ -337,52 +519,74 @@
     {
         "channel": "Second Edition",
         "build": "4.10.2120",
-        "compiled_date": "22/12/1998"
-    },
-    {
-        "channel": "Second Edition",
-        "build": "4.10.2106",
-        "compiled_date": "18/11/1998"
+        "compiled_date": "22/12/1998",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindows98build2017-2222acollection17files/4.10.2120_x86fre_client_en-us-W98%20OSR%20Beta1.iso"
+        }
     },
     {
         "channel": "Second Edition",
         "build": "4.10.2124",
-        "compiled_date": "07/01/1999"
+        "compiled_date": "07/01/1999",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindows98build2017-2222acollection17files/4.10.2124_x86fre_client_en-us-WIN98OSR1.iso"
+        }
     },
     {
         "channel": "Second Edition",
         "build": "4.10.2126",
-        "compiled_date": "13/01/1999"
+        "compiled_date": "13/01/1999",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindows98build2017-2222acollection17files/4.10.2126.0_x86fre_client_en-us-WIN98OSR1.iso"
+        }
     },
     {
         "channel": "Second Edition",
         "build": "4.10.2131",
-        "compiled_date": "19/01/1999"
+        "compiled_date": "19/01/1999",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindows98build2017-2222acollection17files/4.10.2131.0_x86fre_client_en-us-MEMPHIS_2131.iso"
+        }
     },
     {
         "channel": "Second Edition",
         "build": "4.10.2136",
-        "compiled_date": "27/01/1999"
+        "compiled_date": "27/01/1999",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindows98build2017-2222acollection17files/4.10.2136.0_x86fre_client_en-us-W98SR1_B2.iso"
+        }
     },
     {
         "channel": "Second Edition",
         "build": "4.10.2150A",
-        "compiled_date": "16/02/1999"
+        "compiled_date": "16/02/1999",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindows98build2017-2222acollection17files/4.10.2150a_x86fre_client_en-us-WIN98.iso"
+        }
     },
     {
         "channel": "Second Edition",
         "build": "4.10.2150.4",
-        "compiled_date": "20/02/1999"
+        "compiled_date": "20/02/1999",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindows98build2017-2222acollection17files/4.10.2150.4_x86fre_client_en-us-W98SR1_B2.iso"
+        }
     },
     {
         "channel": "Second Edition",
         "build": "4.10.2170A",
-        "compiled_date": "18/03/1999"
+        "compiled_date": "18/03/1999",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindows98build2017-2222acollection17files/4.10.2170a_x86fre_client_en-us-WIN98SE_2170A.iso"
+        }
     },
     {
         "channel": "Second Edition",
         "build": "4.10.2183A",
-        "compiled_date": "03/04/1999"
+        "compiled_date": "03/04/1999",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindows98build2017-2222acollection17files/4.10.2183a_x86fre_client_en-us-Win98%20Sec%20Edit.iso"
+        }
     },
     {
         "channel": "Second Edition",
@@ -392,17 +596,26 @@
     {
         "channel": "Second Edition",
         "build": "4.10.2185A",
-        "compiled_date": "20/04/1999"
+        "compiled_date": "20/04/1999",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindows98build2017-2222acollection17files/4.10.2185a_x86fre_client_en-us-Win98%20Sec%20Edit.iso"
+        }
     },
     {
         "channel": "Second Edition",
         "build": "4.10.2222A / 4.10.2222.2",
-        "compiled_date": "21/04/1999"
+        "compiled_date": "21/04/1999",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoftwindows98build2017-2222acollection17files/4.10.2222a_rc3_x86fre_client_en-us-win98.iso"
+        }
     },
     {
         "channel": "Second Edition",
         "build": "4.10.2222A / 4.10.2222.3 (RTM)",
-        "compiled_date": "23/04/1999"
+        "compiled_date": "23/04/1999",
+        "downloads": {
+            "internetarchive": "https://archive.org/download/windows-98-se-rtm/Win98%20SE.iso"
+        }
     },
     {
         "channel": "Second Edition",
