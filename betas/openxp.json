@@ -4,7 +4,8 @@
         "build": "3800.master.240909-0735",
         "compiled_date": "09/09/2024",
         "downloads": {
-            "mega": "https://mega.nz/file/mJ0xyLzA#5BnXqTgwQgq-L2J9eY1ZxjD1QCGuOAKtysB1EKLNgl8"
+            "mega-Professional": "https://mega.nz/file/mJ0xyLzA#5BnXqTgwQgq-L2J9eY1ZxjD1QCGuOAKtysB1EKLNgl8",
+            "protondrive-Professional": "https://drive.proton.me/urls/J7B3M68BAM#YfjyWFbg8Uj5"
         }
     },
     {
@@ -12,7 +13,9 @@
         "build": "3800.master.240922-1718",
         "compiled_date": "22/09/2024",
         "downloads": {
-            "mega": "https://mega.nz/folder/PJYHEDZQ#da-25nlkkJlDvY2kHscXvQ"
+            "mega": "https://mega.nz/folder/PJYHEDZQ#da-25nlkkJlDvY2kHscXvQ",
+            "protondrive-Professional": "https://drive.proton.me/urls/GBE4T3B0TC#dnwx4BAGkV9r",
+            "protondrive-WinPE": "https://drive.proton.me/urls/V6MXYM5ARM#YhccYYrPcDQ0"
         }
     },
     {
@@ -20,7 +23,9 @@
         "build": "3802.canary.241015-1657",
         "compiled_date": "15/10/2024",
         "downloads": {
-            "mega": "https://mega.nz/folder/GBRUxKxI#2tTcB9XQ2c0bVrqeMHYJbw"
+            "mega": "https://mega.nz/folder/GBRUxKxI#2tTcB9XQ2c0bVrqeMHYJbw",
+            "protondrive-Professional": "https://drive.proton.me/urls/F66NF6WNWM#ADuPGKu6tuD1",
+            "protondrive-WinPE": "https://drive.proton.me/urls/69RKTV5SJM#RJXHQY60vi3w"
         }
     },
     {
@@ -29,6 +34,14 @@
         "compiled_date": "30/03/2025",
         "downloads": {
             "googledrive-WinPE": "https://drive.google.com/file/d/1HuyYFTGuiLp09aORObmo3z_Gv0Lw5pBn/view?usp=sharing"
+        }
+    },
+    {
+        "channel": "fun Branch",
+        "build": "3790.fun(sfudally).250401-0416",
+        "compiled_date": "01/04/2025",
+        "downloads": {
+            "googledrive-Professional": "https://drive.google.com/file/d/1nhAFH9twyYaxKqB37Br-41yb-9mhpFxM/view"
         }
     }
 ]
