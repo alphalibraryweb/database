@@ -1,0 +1,23 @@
+[
+    {
+        "channel": "srckit Branch",
+        "build": "27695.1000.srckit.241124-1832",
+        "compiled_date": "24/12/2024",
+        "downloads": {
+            "internetarchive-WinPE": "https://archive.org/download/open1127695winpe/Microsoft%20Windows%20Preinstallation%20Environment%2011%20%28EN%29.iso"
+        }
+    },
+    {
+        "channel": "rs_prerelease Branch",
+        "build": "27718.rs_prerelease.250117-2055",
+        "compiled_date": "17/01/2025",
+        "downloads": {
+            "internetarchive-Datacenter Server": "https://archive.org/download/open11build27718/27718.x86fre.rs_prerelease.250117-2055_dtc.iso",
+            "internetarchive-Enterprise Server": "https://archive.org/download/open11build27718/27718.x86fre.rs_prerelease.250117-2055_ads.iso",
+            "internetarchive-Standard Server": "https://archive.org/download/open11build27718/27718.x86fre.rs_prerelease.250117-2055_srv.iso",
+            "internetarchive-Web Server": "https://archive.org/download/open11build27718/27718.x86fre.rs_prerelease.250117-2055_bla.iso",
+            "internetarchive-Home Edition": "https://archive.org/download/open11build27718/27718.x86fre.rs_prerelease.250117-2055_per.iso",
+            "internetarchive-Professional": "https://archive.org/download/open11build27718/27718.x86fre.rs_prerelease.250117-2055_pro.iso"
+        }
+    }
+]
