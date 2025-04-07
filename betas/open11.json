@@ -13,11 +13,17 @@
         "compiled_date": "17/01/2025",
         "downloads": {
             "internetarchive-Datacenter Server": "https://archive.org/download/open11build27718/27718.x86fre.rs_prerelease.250117-2055_dtc.iso",
+            "terabox-Datacenter Server": "https://1024terabox.com/s/1Yx2yTg4RZODUAes_SEuHjw",
             "internetarchive-Enterprise Server": "https://archive.org/download/open11build27718/27718.x86fre.rs_prerelease.250117-2055_ads.iso",
+            "terabox-Enterprise Server": "https://1024terabox.com/s/16j2wC5dQ92lmcVO5enJ0RQ",
             "internetarchive-Standard Server": "https://archive.org/download/open11build27718/27718.x86fre.rs_prerelease.250117-2055_srv.iso",
+            "terabox-Standard Server": "https://1024terabox.com/s/1SUXzzVnWgai_bwTRO0fz0w",
             "internetarchive-Web Server": "https://archive.org/download/open11build27718/27718.x86fre.rs_prerelease.250117-2055_bla.iso",
+            "terabox-Web Server": "https://1024terabox.com/s/1R5qVYE-ZpXGq-9rCSCdPZg",
             "internetarchive-Home Edition": "https://archive.org/download/open11build27718/27718.x86fre.rs_prerelease.250117-2055_per.iso",
-            "internetarchive-Professional": "https://archive.org/download/open11build27718/27718.x86fre.rs_prerelease.250117-2055_pro.iso"
+            "terabox-Home Edition": "https://1024terabox.com/s/1EqQZ5tS-6ijqYtN25HfeHg",
+            "internetarchive-Professional": "https://archive.org/download/open11build27718/27718.x86fre.rs_prerelease.250117-2055_pro.iso",
+            "terabox-Professional": "https://1024terabox.com/s/1GEMVyasu2KQOecrVvaRYiA"
         }
     }
 ]
