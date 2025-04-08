@@ -4,7 +4,7 @@
         "build": "21370.1003.fs_dev6_flt.210430-1730",
         "compiled_date": "30/04/2021",
         "downloads": {
-            "onedrive": "https://orangera1nwashere-my.sharepoint.com/:u:/r/personal/microsoftdata3_orangera1nwashere_onmicrosoft_com/Documents/Windows/NT%2010.0%20(Windows%2011,%20v21H2)/3.%20Cobalt/10.0.21370.1003.fs_dev6_flt.210430-1730/AMD64FRE_CLIENT_CONSUMER_x64FRE_en-us.iso?csf=1&web=1&e=WtyK6Y"
+            "internetarchive-English Multi SKU (x64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.21370.1003.fs_dev6_flt.210430-1730_amd64fre_client-multisku_retail_en-us-CCCOMA_X64FRE_EN-US_DV9.iso"
         }
     },
     {
@@ -12,7 +12,7 @@
         "build": "21376.1002.fs_dev6_flt.210506-1900",
         "compiled_date": "06/05/2021",
         "downloads": {
-            "onedrive": "https://orangera1nwashere-my.sharepoint.com/:u:/r/personal/microsoftdata3_orangera1nwashere_onmicrosoft_com/Documents/Windows/NT%2010.0%20(Windows%2011,%20v21H2)/3.%20Cobalt/10.0.21376.1002.fs_dev6_flt.210506-1900/AMD64FRE_client_en-us.iso?csf=1&web=1&e=vPFeum"
+            "internetarchive-English Multi SKU (x64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.21376.1002.fs_dev6_flt.210506-1900_amd64fre_client-multisku_retail_en-us-CCCOMA_X64FRE_EN-US_DV9.iso"
         }
     },
     {
@@ -20,7 +20,7 @@
         "build": "21380.1001.fs_dev6_flt.210511-1900",
         "compiled_date": "11/05/2021",
         "downloads": {
-            "onedrive": "https://orangera1nwashere-my.sharepoint.com/:u:/r/personal/microsoftdata3_orangera1nwashere_onmicrosoft_com/Documents/Windows/NT%2010.0%20(Windows%2011,%20v21H2)/3.%20Cobalt/10.0.21380.1001.fs_dev6_flt.210511-1900/amd64fre_client-multisku_en-us.iso?csf=1&web=1&e=f0qgbQ"
+            "internetarchive-English Multi SKU (x64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.21380.1001.fs_dev6_flt.210511-1900_amd64fre_client-multisku_retail_en-us-CCCOMA_X64FRE_EN-US_DV9.iso"
         }
     },
     {
@@ -28,7 +28,7 @@
         "build": "21385.1002.fs_dev6_flt.210519-1900",
         "compiled_date": "19/05/2021",
         "downloads": {
-            "onedrive": "https://orangera1nwashere-my.sharepoint.com/:u:/r/personal/microsoftdata3_orangera1nwashere_onmicrosoft_com/Documents/Windows/NT%2010.0%20(Windows%2011,%20v21H2)/3.%20Cobalt/10.0.21385.1002.fs_dev6_flt.210519-1900/amd64fre_CLIENT_PRO_en-us.iso?csf=1&web=1&e=xrsmLs"
+            "internetarchive-English Pro (x64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.21385.1002.fs_dev6_flt.210519-1900_amd64fre_client-professional_retail_en-us-CPRA_X64FRE_EN-US_DV9.iso"
         }
     },
     {
@@ -36,68 +36,118 @@
         "build": "21996.1.co_release.210529-1541",
         "compiled_date": "29/05/2021",
         "downloads": {
-            "onedrive": "https://orangera1nwashere-my.sharepoint.com/:u:/r/personal/microsoftdata3_orangera1nwashere_onmicrosoft_com/Documents/Windows/NT%2010.0%20(Windows%2011,%20v21H2)/3.%20Cobalt/10.0.21996.1.co_release.210529-1541/amd64fre_client-multisku_en-us.iso?csf=1&web=1&e=rqEizi"
+            "internetarchive-English Multi SKU (x64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.21996.1.co_release.210529-1541_amd64fre_client-multisku_retail_en-us-CCCOMA_X64FRE_EN-US_DV9.iso"
         }
     },
     {
         "channel": "Pre-Dev Channel",
         "build": "22000.1.co_release.210604-1628",
-        "compiled_date": "04/06/2021"
+        "compiled_date": "04/06/2021",
+        "downloads": {
+            "internetarchive-English Enterprise (x64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.1.co_release.210604-1628_amd64fre_client-enterprises_oem_en-us-CES_X64FREO_EN-US_DV9.iso",
+            "internetarchive-English Server (x64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.1.co_release.210604-1628_amd64fre_client-server-multisku_retail_en-us-CCOMA_X64FRE_EN-US_DV9.iso",
+            "internetarchive-English Multi SKU (ARM64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.1.co_release.210604-1628_arm64fre_client-multisku_retail_en-us-CCOMA_A64FRE_EN-US_DV9.iso"
+        }
     },
     {
         "channel": "Pre-Dev Channel",
         "build": "22000.9.co_release_svc_oem.210719-1218",
-        "compiled_date": "19/07/2021"
+        "compiled_date": "19/07/2021",
+        "downloads": {
+            "internetarchive-English Multi SKU (x64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.9.co_release_svc_oem.210719-1218_amd64fre_client-multisku_retail_en-us-CCOMA_X64FRE_EN-US_DV9.iso",
+            "internetarchive-English Multi SKU (ARM64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.9.co_release_svc_oem.210719-1218_arm64fre_client-multisku_retail_en-us-CCOMA_A64FRE_EN-US_DV9.iso"
+        }
     },
     {
         "channel": "Dev Channel",
         "build": "22000.51.co_release_svc_prod2.210617-2050",
-        "compiled_date": "17/06/2021"
+        "compiled_date": "17/06/2021",
+        "downloads": {
+            "internetarchive-English Multi SKU (x64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.51.co_release_svc_prod2.210617-2050_amd64fre_client-multisku_retail_en-us-CCSA_X64FRE_EN-US-DV5.iso",
+            "internetarchive-English Multi SKU (ARM64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.51.co_release_svc_prod2.210617-2050_arm64fre_client-multisku_retail_en-us-CCSA_A64FRE_EN-US-DV5.iso"
+        }
     },
     {
         "channel": "Dev Channel",
         "build": "22000.65.co_release_svc_im.210703-0754",
-        "compiled_date": "03/07/2021"
+        "compiled_date": "03/07/2021",
+        "downloads": {
+            "internetarchive-English Multi SKU (x64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.65.co_release_svc_im.210703-0754_amd64fre_client-multisku_retail_en-us-CCSA_X64FRE_EN-US-DV5.iso",
+            "internetarchive-English Multi SKU (ARM64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.65.co_release_svc_im.210703-0754_arm64fre_client-multisku_retail_en-us-CCSA_A64FRE_EN-US-DV5.iso"
+        }
     },
     {
         "channel": "Dev Channel",
         "build": "22000.71.co_release_svc_prod1.210707-1727",
-        "compiled_date": "07/07/2021"
+        "compiled_date": "07/07/2021",
+        "downloads": {
+            "internetarchive-English Multi SKU (x64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.71.co_release_svc_prod1.210707-1727_amd64fre_client-multisku_retail_en-us-CCSA_X64FRE_EN-US-DV5.iso",
+            "internetarchive-English Multi SKU (ARM64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.71.co_release_svc_prod1.210707-1727_arm64fre_client-multisku_retail_en-us-CCSA_A64FRE_EN-US-DV5.iso"
+        }
     },
     {
         "channel": "Beta Channel",
         "build": "22000.100.co_release_svc_prod2.210714-1804",
-        "compiled_date": "14/07/2021"
+        "compiled_date": "14/07/2021",
+        "downloads": {
+            "internetarchive-English Multi SKU (x64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.100.co_release_svc_prod2.210714-1804_amd64fre_client-multisku_retail_en-us-CCSA_X64FRE_EN-US-DV5.iso",
+            "internetarchive-English Multi SKU (ARM64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.100.co_release_svc_prod1.210714-1804_arm64fre_client-multisku_retail_en-us-CCSA_A64FRE_EN-US-DV5.iso"
+        }
     },
     {
         "channel": "Beta Channel",
         "build": "22000.120.co_release_svc_im.210728-1636",
-        "compiled_date": "28/07/2021"
+        "compiled_date": "28/07/2021",
+        "downloads": {
+            "internetarchive-English Multi SKU (x64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.120.co_release_svc_im.210728-1636_amd64fre_client-multisku_retail_en-us-CCSA_X64FRE_EN-US-DV5.iso",
+            "internetarchive-English Multi SKU (ARM64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.120.co_release_svc_im.210728-1636_arm64fre_client-multisku_retail_en-us-CCSA_A64FRE_EN-US-DV5.iso"
+        }
     },
     {
         "channel": "Beta Channel",
         "build": "22000.132.co_release_svc_prod1.210805-1437",
-        "compiled_date": "05/08/2021"
+        "compiled_date": "05/08/2021",
+        "downloads": {
+            "internetarchive-English Multi SKU (x64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.132.co_release_svc_prod1.210805-1437_amd64fre_client-multisku_retail_en-us-CCSA_X64FRE_EN-US-DV5.iso",
+            "internetarchive-Chinese Multi SKU (x64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.132.co_release_svc_prod1.210805-1437_amd64fre_client-corecountryspecific_oem_zh-cn-CCHA_X64FREO_ZH-CN_DV9.iso",
+            "internetarchive-English Multi SKU (ARM64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.132.co_release_svc_prod1.210805-1437_arm64fre_client-multisku_retail_en-us-CCSA_A64FRE_EN-US-DV5.iso"
+        }
     },
     {
         "channel": "Beta Channel",
         "build": "22000.160.co_release_svc_prod2.210811-1701",
-        "compiled_date": "11/08/2021"
+        "compiled_date": "11/08/2021",
+        "downloads": {
+            "internetarchive-English Multi SKU (x64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.160.co_release_svc_prod2.210811-1701_amd64fre_client-multisku_retail_en-us-CCSA_X64FRE_EN-US-DV5.iso",
+            "internetarchive-English Multi SKU (ARM64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.160.co_release_svc_prod2.210811-1701_arm64fre_client-multisku_retail_en-us-CCSA_A64FRE_EN-US-DV5.iso"
+        }
     },
     {
         "channel": "Beta Channel",
         "build": "22000.168.co_release_svc_prod3.210818-1922",
-        "compiled_date": "18/08/2021"
+        "compiled_date": "18/08/2021",
+        "downloads": {
+            "internetarchive-English Multi SKU (x64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.168.co_release_svc_prod3.210818-1922_amd64fre_client-multisku_retail_en-us-CCSA_X64FRE_EN-US-DV5.iso",
+            "internetarchive-English Multi SKU (ARM64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.168.co_release_svc_prod3.210818-1922_arm64fre_client-multisku_retail_en-us-CCSA_A64FRE_EN-US-DV5.iso"
+        }
     },
     {
         "channel": "Release Preview Channel",
         "build": "22000.176.co_release_svc_prod2.210825-1709",
-        "compiled_date": "25/08/2021"
+        "compiled_date": "25/08/2021",
+        "downloads": {
+            "internetarchive-English Multi SKU (x64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.176.co_release_svc_prod2.210825-1709_amd64fre_client-multisku_retail_en-us-CCSA_X64FRE_EN-US-DV5.iso",
+            "internetarchive-English Multi SKU (ARM64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.176.co_release_svc_prod2.210825-1709_arm64fre_client-multisku_retail_en-us-CCSA_A64FRE_EN-US-DV5.iso"
+        }
     },
     {
         "channel": "Release Preview Channel",
         "build": "22000.184.co_release_svc_im.210901-1745",
-        "compiled_date": "01/09/2021"
+        "compiled_date": "01/09/2021",
+        "downloads": {
+            "internetarchive-English Multi SKU (x64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.184.co_release_svc_im.210901-1745_amd64fre_client-multisku_retail_en-us-CCSA_X64FRE_EN-US-DV5.iso",
+            "internetarchive-English Multi SKU (ARM64)": "https://archive.org/download/MicrosoftWindows11CObuildcollection/10.0.22000.184.co_release_svc_im.210901-1745_arm64fre_client-multisku_retail_en-us-CCSA_A64FRE_EN-US-DV5.iso"
+        }
     },
     {
         "channel": "General availability",
