@@ -1,5 +1,13 @@
 [
     {
+        "channel": "srckit Branch",
+        "build": "3790.srckit.240720-1428",
+        "compiled_date": "20/07/2024",
+        "downloads": {
+            "googledrive-Professional 64-bit": "https://drive.google.com/file/d/1y2x0YuDEkYwgEMaAputp0gZsYC-kOs6J/view"
+        }
+    },
+    {
         "channel": "master Branch",
         "build": "3800.master.240909-0735",
         "compiled_date": "09/09/2024",
@@ -56,6 +64,24 @@
         "downloads": {
             "googledrive-Professional": "https://drive.google.com/file/d/1SVXqHcAhTj3-ojILD0wVEPBGdd0X6DPm/view?usp=drive_link",
             "terabox-Professional": "https://1024terabox.com/s/1nlEC17W5D5rpvl-9OJh9rg"
+        }
+    },
+    {
+        "channel": "vnext Branch",
+        "build": "3790.vnext(ash).250705-1650",
+        "compiled_date": "05/07/2025",
+        "downloads": {
+            "googledrive-Professional": "https://drive.google.com/file/d/1RpVG1VBrF98RpUd41YCO0zoyTYeIv84k/view?usp=drive_link",
+            "googledrive-WinPE": "https://drive.google.com/file/d/1dk7HYuFXQI-3-WI5G7LBG4zUywKfY2pa/view?usp=drive_link"
+        }
+    },
+    {
+        "channel": "vnext Branch",
+        "build": "3790.vnext.250715-2101",
+        "compiled_date": "15/07/2025",
+        "downloads": {
+            "googledrive-Professional": "https://drive.google.com/file/d/17uim-xqKW2ubyUanI39raeyi8Xi3_ETK/view?usp=drive_link",
+            "googledrive-WinPE": "https://drive.google.com/file/d/1RmhgzJi0LpxaviXGUDENDdY1cETD5420/view?usp=drive_link"
         }
     }
 ]
