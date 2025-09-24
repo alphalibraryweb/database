@@ -35,6 +35,9 @@
         "channel": "Pre-release",
         "build": "In*a*Vision 1.01 runtime (September 1985)",
         "compiled_date": "20/09/1985"
+        "downloads": {
+            "internetarchive": "https://archive.org/download/invis-x/INVIS-X.rar"
+        }
     },
     {
         "channel": "Early OEM release",
