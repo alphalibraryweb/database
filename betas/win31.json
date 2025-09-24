@@ -3,36 +3,57 @@
         "channel": "Windows 3.1",
         "build": "3.10.026",
         "compiled_date": "05/04/1991"
+        "downloads": {
+            "internetarchive": "https://archive.org/download/windows-3.1-build-026/Windows%203.1%20build%20026.rar"
+        }
     },
     {
         "channel": "Windows 3.1",
         "build": "3.10.034f",
         "compiled_date": "07/06/1991"
+        "downloads": {
+            "internetarchive": "https://archive.org/download/windows-3.1-build-034f/Windows%203.1%20build%20034f.rar"
+        }
     },
     {
         "channel": "Windows 3.1",
         "build": "3.10.043e",
         "compiled_date": "27/08/1991"
+        "downloads": {
+            "internetarchive": "https://archive.org/download/windows-3.1-build-043e/Windows%203.1%20build%20043e.rar"
+        }
     },
     {
         "channel": "Windows 3.1",
         "build": "3.10.057",
         "compiled_date": "17/11/1991"
+        "downloads": {
+            "internetarchive": "https://archive.org/download/wbeta-3-x-1/WBETA3-X%20%281%29.rar"
+        }
     },
     {
         "channel": "Windows 3.1",
         "build": "3.10.060",
         "compiled_date": "04/12/1991"
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoft-windows-3.1-for-workgroups-sparta-3.10.027-beta-2-english-3.5-1.44-mb/Microsoft%20Windows%203.1%20%283.10.060%29%20%28beta%29%20%285.25%27%27-1.2MB%29.zip"
+        }
     },
     {
         "channel": "Windows 3.1",
         "build": "3.10.061d",
         "compiled_date": "17/12/1991"
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoft-windows-3.1-for-workgroups-sparta-3.10.027-beta-2-english-3.5-1.44-mb/Microsoft%20Windows%203.1%20%283.10.061d%29%20%28beta3%29%20%283.5%27%27%29.zip"
+        }
     },
     {
         "channel": "Windows 3.1",
         "build": "3.10.068",
         "compiled_date": "21/01/1992"
+        "downloads": {
+            "internetarchive": "https://archive.org/download/microsoft-windows-3.1-for-workgroups-sparta-3.10.027-beta-2-english-3.5-1.44-mb/Microsoft%20Windows%203.1%20%283.10.068%29%20%28beta%29%20%285.25%27%27-1.2MB%29.zip"
+        }
     },
     {
         "channel": "Windows 3.1",
