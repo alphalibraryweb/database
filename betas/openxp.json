@@ -1,5 +1,14 @@
 [
     {
+        "channel": "srckit Branch",
+        "build": "3790.srckit.230204-0116",
+        "compiled_date": "20/07/2024",
+        "downloads": {
+            "googledrive-Professional": "https://drive.google.com/file/d/12iGSfNSb8XHUcmgbnD9RlMi8VMVCTpzc/view?usp=drive_link",
+            "terabox-Professional": "https://1024terabox.com/s/1nG211I8Y45qyHx2YyfJavQ"
+        }
+    },
+    {
         "channel": "(64-bit) srckit Branch",
         "build": "3790.srckit.240720-1428",
         "compiled_date": "20/07/2024",
@@ -9,7 +18,7 @@
     },
     {
         "channel": "master Branch",
-        "build": "3800.master.240909-0735",
+        "build": "3800.100.master.240909-0735",
         "compiled_date": "09/09/2024",
         "downloads": {
             "mega-Professional": "https://mega.nz/file/mJ0xyLzA#5BnXqTgwQgq-L2J9eY1ZxjD1QCGuOAKtysB1EKLNgl8",
@@ -20,7 +29,7 @@
     },
     {
         "channel": "master Branch",
-        "build": "3800.master.240922-1718",
+        "build": "3800.100.master.240922-1718",
         "compiled_date": "22/09/2024",
         "downloads": {
             "mega": "https://mega.nz/folder/PJYHEDZQ#da-25nlkkJlDvY2kHscXvQ",
@@ -34,7 +43,7 @@
     },
     {
         "channel": "canary Branch",
-        "build": "3802.canary.241015-1657",
+        "build": "3802.100.canary.241015-1657",
         "compiled_date": "15/10/2024",
         "downloads": {
             "mega": "https://mega.nz/folder/GBRUxKxI#2tTcB9XQ2c0bVrqeMHYJbw",
@@ -48,7 +57,7 @@
     },
     {
         "channel": "vnext Branch",
-        "build": "3790.vnext(sfudally).250330-0438",
+        "build": "3790.1010.vnext(sfudally).250330-0438",
         "compiled_date": "30/03/2025",
         "downloads": {
             "googledrive-WinPE": "https://drive.google.com/file/d/1ahir4MvC0DINdqMSOOvfbJY0rJ2Nzuuz/view?usp=drive_link",
@@ -59,7 +68,7 @@
     },
     {
         "channel": "fun Branch",
-        "build": "3790.fun(sfudally).250401-0416",
+        "build": "3790.1010.fun(sfudally).250401-0416",
         "compiled_date": "01/04/2025",
         "downloads": {
             "googledrive-Professional": "https://drive.google.com/file/d/1SVXqHcAhTj3-ojILD0wVEPBGdd0X6DPm/view?usp=drive_link",
@@ -68,20 +77,34 @@
     },
     {
         "channel": "vnext Branch",
-        "build": "3790.vnext(ash).250705-1650",
+        "build": "3790.1012.vnext(ash).250705-1650",
         "compiled_date": "05/07/2025",
         "downloads": {
             "googledrive-Professional": "https://drive.google.com/file/d/1RpVG1VBrF98RpUd41YCO0zoyTYeIv84k/view?usp=drive_link",
-            "googledrive-WinPE": "https://drive.google.com/file/d/1dk7HYuFXQI-3-WI5G7LBG4zUywKfY2pa/view?usp=drive_link"
+            "googledrive-WinPE": "https://drive.google.com/file/d/1dk7HYuFXQI-3-WI5G7LBG4zUywKfY2pa/view?usp=drive_link",
+            "terabox-Professional": "https://1024terabox.com/s/1f6UfWM0sAUwYuHWzYyttuA",
+            "terabox-WinPE": "https://1024terabox.com/s/1sajN71k4Co9Rig7CWBuQVA"
         }
     },
     {
         "channel": "vnext Branch",
-        "build": "3790.vnext.250715-2101",
+        "build": "3790.1012.vnext(ash).250715-2101",
         "compiled_date": "15/07/2025",
         "downloads": {
             "googledrive-Professional": "https://drive.google.com/file/d/17uim-xqKW2ubyUanI39raeyi8Xi3_ETK/view?usp=drive_link",
-            "googledrive-WinPE": "https://drive.google.com/file/d/1RmhgzJi0LpxaviXGUDENDdY1cETD5420/view?usp=drive_link"
+            "googledrive-WinPE": "https://drive.google.com/file/d/1RmhgzJi0LpxaviXGUDENDdY1cETD5420/view?usp=drive_link",
+            "terabox-Professional": "https://1024terabox.com/s/1D1bVsr3SUj5cbrDHGFe53Q",
+            "terabox-WinPE": "https://1024terabox.com/s/1gU3NVKZGiDwUZEfhhKGfOQ"
+        }
+    },
+    {
+        "channel": "vnext Branch",
+        "build": "3790.1100.vnext(ash).251111-1056",
+        "compiled_date": "15/07/2025",
+        "downloads": {
+            "googledrive-WinPE": "https://drive.google.com/file/d/15OUicFW2yo6g9uIHkSm1swGul7M2MoyI/view?usp=drive_link",
+            "terabox-Professional": "https://1024terabox.com/s/1ONwTY85EWz63IluIwKl7FQ",
+            "terabox-WinPE": "https://1024terabox.com/s/1hOd2WUhI7xyOXk5HsEmKRw"
         }
     }
 ]
