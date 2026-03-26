@@ -7,5 +7,63 @@
             "googledrive-Professional x86": "https://drive.google.com/file/d/1KmJZpJ65FOcj6HuGtBSP7TAbCpNqrji_/view?usp=sharing",
             "googledrive-CD 2": "https://drive.google.com/file/d/10_sMg1upDiPJBHCH68HbD7EXhu9JMA97/view?usp=sharing"
         }
+    },
+    {
+        "channel": "Strelizia",
+        "build": "4116.dkms.strelizia.dev.preview.251121-2111",
+        "compiled_date": "25/11/2025",
+        "downloads": {
+            "googledrive-Professional": "https://drive.google.com/file/d/1zIVmGlMzrYwRHJ70mON7SgBNyNB44T5o/view?usp=drive_link",
+            "googledrive-Server": "https://drive.google.com/file/d/11RD3OKLR5MnqgmhAfK7ETap_-fqe6rcb/view?usp=drive_link",
+            "googledrive-WinPE": "https://drive.google.com/file/d/1ihdfsaHyohSCtOsHg_5tWLXyF0kVAScU/view?usp=drive_link"
+        }
+    },
+    {
+        "channel": "Moonlight",
+        "build": "5002.dkms.sailormoon.260101-0000",
+        "compiled_date": "01/01/2026",
+        "downloads": {
+            "mega": "https://mega.nz/folder/7sIGwZBJ#xS6wmeRGYm8j2ME7lhhs5Q"
+        }
+    },
+    {
+        "channel": "Moonlight",
+        "build": "5002.dkms.dev.sailormoon.amd64.260101-1214",
+        "compiled_date": "01/01/2026",
+        "downloads": {
+            "mega": "https://mega.nz/folder/7sIGwZBJ#xS6wmeRGYm8j2ME7lhhs5Q"
+        }
+    },
+    {
+        "channel": "Moonlight",
+        "build": "5006.dkms.sailormoon.260115-1134",
+        "compiled_date": "15/01/2026",
+        "downloads": {
+            "mega": "https://mega.nz/folder/utAQWKKS#5bbXkHKgZuGcF69YSFPEHg"
+        }
+    },
+    {
+        "channel": "Moonlight",
+        "build": "5100.dkms.sailormoon.260119-1248",
+        "compiled_date": "19/01/2026",
+        "downloads": {
+            "mega": "https://mega.nz/folder/O1gghAbT#Jq4pmH9LE-mPNUIotFj3Aw"
+        }
+    },
+    {
+        "channel": "Moonlight",
+        "build": "5102.1100.dkms.zerotwo.strelizia.260211-1252",
+        "compiled_date": "11/02/2026",
+        "downloads": {
+            "mega": "https://mega.nz/folder/HhJnmBCL#iwBd6AsfVChglsNyKWmc9Q"
+        }
+    },
+    {
+        "channel": "Moonlight",
+        "build": "5102.1100.dkms.zerotwo.strelizia.260213-1758",
+        "compiled_date": "11/02/2026",
+        "downloads": {
+            "mega-Professional": "https://mega.nz/folder/HhJnmBCL#iwBd6AsfVChglsNyKWmc9Q"
+        }
     }
 ]
