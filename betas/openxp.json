@@ -137,5 +137,29 @@
             "terabox-Server": "https://1024terabox.com/s/1h0Vsu18IwVaLZ4THrNe08Q",
             "mega": "https://mega.nz/folder/25pS0bDS#nSIe6WP9wDP3JiSSTf3sFw/folder/OpgHAQzL"
         }
+    },
+    {
+        "channel": "vx_core Branch",
+        "build": "3790.1106.vx_core(ash).260109-1548",
+        "compiled_date": "09/01/2026",
+        "downloads": {
+            "mega": "https://mega.nz/folder/IiE11ZhT#QEBqMgZWWobDPIC2WaTjig"
+        }
+    },
+    {
+        "channel": "vx_core_architect Branch",
+        "build": "3790.1107.vx_core_architect(ash).260119-1046",
+        "compiled_date": "19/01/2026",
+        "downloads": {
+            "mega": "https://mega.nz/folder/ZisxnIpD#LtO5iVTqVgjOGJ_1drSPHg"
+        }
+    },
+    {
+        "channel": "vx_core_architect Branch",
+        "build": "3790.1120.vx_core_architect(ash).260203-1732",
+        "compiled_date": "03/02/2026",
+        "downloads": {
+            "mega-Professional": "https://mega.nz/folder/EuFg2JzC#1hFEVotg9Kh03R0N9Q9q8Q"
+        }
     }
 ]
