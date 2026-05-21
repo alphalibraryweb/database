@@ -161,5 +161,22 @@
         "downloads": {
             "mega-Professional": "https://mega.nz/folder/EuFg2JzC#1hFEVotg9Kh03R0N9Q9q8Q"
         }
+    },
+    {
+        "channel": "vx_prerelease Branch",
+        "build": "3790.1.vx_prerelease(ash).260502-1441",
+        "compiled_date": "02/05/2026",
+        "downloads": {
+            "googledrive": "https://drive.google.com/file/d/1uKF0hKPPX5sSobJkQV5RN_cd8MLH4QeI/view?usp=sharing"
+        }
+    },
+    {
+        "channel": "vx_prerelease Branch",
+        "build": "3790.2.vx_prerelease(ash).260511-2008",
+        "compiled_date": "11/05/2026",
+        "downloads": {
+            "googledrive-Professional": "https://drive.google.com/file/d/1dUz0HaG572bi2Elbvi3crcfudMX6LBNU/view",
+            "googledrive-WinPE": "https://drive.google.com/file/d/1IqKkTr2CM0nSpbQUyDCMZmUvPfhzo2LM/view"
+        }
     }
 ]
